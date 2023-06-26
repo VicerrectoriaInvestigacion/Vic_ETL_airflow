@@ -65,4 +65,11 @@ Se debe subir todas las carpetas o archivos que contengan datos a la carpeta "da
 
 <img width="767" alt="Screenshot 2023-06-26 at 6 00 00 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/5b065484-650e-4721-b311-9221eb5aa2a2">
 
+# Agregar una nueva librería
+
+Para agregar una nueva librería para sea instalada por pip solo se debe agregar en el campo de **_PIP_ADDITIONAL_REQUIREMENTS** en el docker-compose.yaml
+
+<img width="734" alt="Screenshot 2023-06-26 at 6 06 28 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/3d86fedc-98b3-4724-b48e-2dac160c66d0">
+
+
 
