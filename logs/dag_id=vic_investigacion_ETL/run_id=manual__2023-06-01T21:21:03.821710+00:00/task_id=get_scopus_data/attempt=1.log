@@ -1,0 +1,24 @@
+[2023-06-01 21:21:04,936] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T21:21:03.821710+00:00 [queued]>
+[2023-06-01 21:21:04,943] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T21:21:03.821710+00:00 [queued]>
+[2023-06-01 21:21:04,944] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 21:21:04,945] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-06-01 21:21:04,945] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 21:21:04,955] {taskinstance.py:1397} INFO - Executing <Task(ReadScopus): get_scopus_data> on 2023-06-01 21:21:03.821710+00:00
+[2023-06-01 21:21:04,963] {standard_task_runner.py:52} INFO - Started process 27210 to run task
+[2023-06-01 21:21:04,968] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_scopus_data', 'manual__2023-06-01T21:21:03.821710+00:00', '--job-id', '260', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpnkllcq9z', '--error-file', '/tmp/tmpsxw9xld_']
+[2023-06-01 21:21:04,970] {standard_task_runner.py:80} INFO - Job 260: Subtask get_scopus_data
+[2023-06-01 21:21:05,034] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T21:21:03.821710+00:00 [running]> on host 5d9ccb732815
+[2023-06-01 21:21:05,095] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_scopus_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-01T21:21:03.821710+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-01T21:21:03.821710+00:00
+[2023-06-01 21:21:05,096] {logging_mixin.py:115} INFO - Getting Scopus Data
+[2023-06-01 21:21:05,097] {logging_mixin.py:115} INFO - The api key is:  640ababb3eaaa3723c7cc11be848250b
+[2023-06-01 21:21:05,109] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_scopus_data, execution_date=20230601T212103, start_date=20230601T212104, end_date=20230601T212105
+[2023-06-01 21:21:05,143] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-06-01 21:21:05,175] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "viceinvestigacion",
+  "private_key_id": "7d7d86b22e96c4582b083d17518a61fd3231c15a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyls0UGI3BlDJ2\nthpyLPv+6m7Wu5gWr0u7EDJXq927fJ6whiAss6sN6xfgIetwrNIkwH4pNZrYU6/K\n9NdTv4Cti7YVfVa5LQ8peKKTJIhpV9ucz0T0m2jpnwR3dcGsc/bqFoYuPgGO1LA1\nr4excfsUIY7gDGXZSk+ZI3k630ktiz+90JZNwyKs6ZgDrCpNGufkpntQ0ivsmkzA\n9QGdkeAQ9DoAnCSOfKgWOp75Pw5jVBlJqxqkl4VI77c6MvA0ff9n+Oc0vhjtlK9D\nKMwipFpY/gQ3DqIFKplqJsvn57DuP7XFv3VTPcfsMpvPAaExNMKVj1N4Awk3A06G\n8dgedQElAgMBAAECggEAEjNKLS0fbUYEKpL+ePpaqC0OJLYzlsRArIzHBKZQT6Yw\nqf7RUpzw5tc5tK7gRrhmJjaz5NFAuaE1vjJbq35Nx+IAKYp/hxmvfON9dg94E3xP\ntlhtR5x7AawiEWaf2UpsNIkdHaNWF09XsfD0nEHoe7G71NuOmal4GTxDQ5uz4n8t\n5hW5DldSqP8w2nKg5nfAXBf08Dw8qt1uzngrOugTltrMkL3gaUK4oIvUy5I6/Rv1\nEuIiY3WA8KMBHBp9m8j9qwzhjNj/UYBCpvBFyJIVRI+1Dm57oirPiFPlHTofc0dP\nEdsbT+rCfbApjWtejMph9Sx4Ft0uL0Gz1k65JsjOVQKBgQDZlqjiYy8aGie36R0w\n6149FaRzVSa72imXLZPSPS3esb/h1s1uqy1Mbs69WOx93E4CEKyQUYF75EB0SLo8\naiSNsjaFhpDUCEsMiInPllaRUQmKlp1UXvap4LDYFyQPZKgx9YKZAqcd8tTGHU7J\n4HKL64h63MGmvuZb47TGa+kHuwKBgQDSHan6XNxv5XBa7IuMrUI2XuvqAJt/Iacw\nAKgky3hqbz/dhx8yG3UAYdYno1l7DNUs/+oP6sIoR/pvP18cCPTGTPwe2EeOd+md\njAQIXAOputZ6Y1NKBXjTF2pSXmGPKZYyx4e/zAs1A84rB92KdaJBuE6gXWuVRt1R\nYwQOYbZcnwKBgQDQ2MMRSJIVQ7WL2LykD8ZMa1GFQd4DwMrayGxyBzbX4VSDuGFG\nMBcyncjiBVA5HhPh948qlpDqEZOsCYJ4KokbWErsrtSkL7GZPhTIo0xD/rxhwV8R\ndHTdaUVUpCGAhOTLzxKjOuCc5k9EOS0+p6hKlLBS/UECg4kn+c+yBDGPsQKBgEig\ngkmM4ZE38G8tRks49CMRCmCXFyiJfF2mTHhzcErx61RqSUkrnnSkXL7UwrA6zlDA\noKohzjzYLGNZt0lceyc0Iw2SWqGPJ0wSwq4VCBsZ/trNDFQQsiPc+x4/i19N06H3\nwB92qwUHLLNJA7XBVXV7/ImH4RD3LrbcD+HcuoknAoGBAJdi0X6Y3SiGlR6Yn/eO\nW/lYY4KNU0BgmIiGbs1CvAbKKSoGmCtnJs/vuZFtMFaT8s1Iq0eDuWn+wb+XZaOU\noeqcciAmFUy1fq2VDnCxOGVhYwTnVEe6310DicgbVNPcflcJKqutx9xvak1dYinU\njY7G5Otbs17sTEEl0bD34+np\n-----END PRIVATE KEY-----\n",
+  "client_email": "vic-etl@viceinvestigacion.iam.gserviceaccount.com",
+  "client_id": "109116235657757064965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vic-etl%40viceinvestigacion.iam.gserviceaccount.com"
+}

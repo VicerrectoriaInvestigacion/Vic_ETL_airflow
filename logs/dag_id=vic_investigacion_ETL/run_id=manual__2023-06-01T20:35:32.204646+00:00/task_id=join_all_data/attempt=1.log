@@ -1,0 +1,47 @@
+[2023-06-01 20:35:34,536] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.join_all_data manual__2023-06-01T20:35:32.204646+00:00 [queued]>
+[2023-06-01 20:35:34,551] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.join_all_data manual__2023-06-01T20:35:32.204646+00:00 [queued]>
+[2023-06-01 20:35:34,552] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 20:35:34,552] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-06-01 20:35:34,553] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 20:35:34,563] {taskinstance.py:1397} INFO - Executing <Task(JoinAllData): join_all_data> on 2023-06-01 20:35:32.204646+00:00
+[2023-06-01 20:35:34,570] {standard_task_runner.py:52} INFO - Started process 24967 to run task
+[2023-06-01 20:35:34,577] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'join_all_data', 'manual__2023-06-01T20:35:32.204646+00:00', '--job-id', '233', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpdbp33e0p', '--error-file', '/tmp/tmpofbl6nhq']
+[2023-06-01 20:35:34,580] {standard_task_runner.py:80} INFO - Job 233: Subtask join_all_data
+[2023-06-01 20:35:34,793] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.join_all_data manual__2023-06-01T20:35:32.204646+00:00 [running]> on host 5d9ccb732815
+[2023-06-01 20:35:35,016] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=join_all_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-01T20:35:32.204646+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-01T20:35:32.204646+00:00
+[2023-06-01 20:35:35,028] {logging_mixin.py:115} INFO - Joining all data
+[2023-06-01 20:35:35,036] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/airflow/dags/join_all_data_operator.py", line 20, in execute
+    self.joinScopusData()
+  File "/opt/airflow/dags/join_all_data_operator.py", line 25, in joinScopusData
+    coredata = pd.read_csv(core_file)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parsers/base_parser.py", line 229, in _open_handles
+    errors=kwds.get("encoding_errors", "strict"),
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/scopus/clean/clean_authors_core_data/core_data.csv'
+[2023-06-01 20:35:35,082] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=vic_investigacion_ETL, task_id=join_all_data, execution_date=20230601T203532, start_date=20230601T203534, end_date=20230601T203535
+[2023-06-01 20:35:35,110] {standard_task_runner.py:97} ERROR - Failed to execute job 233 for task join_all_data ([Errno 2] No such file or directory: '/opt/airflow/data/scopus/clean/clean_authors_core_data/core_data.csv'; 24967)
+[2023-06-01 20:35:35,160] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-06-01 20:35:35,216] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,55 @@
+[2023-04-24 20:39:54,256] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-04-24T20:39:52.033408+00:00 [queued]>
+[2023-04-24 20:39:54,270] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-04-24T20:39:52.033408+00:00 [queued]>
+[2023-04-24 20:39:54,271] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24 20:39:54,272] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-04-24 20:39:54,273] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24 20:39:54,285] {taskinstance.py:1397} INFO - Executing <Task(ReadScopus): get_scopus_data> on 2023-04-24 20:39:52.033408+00:00
+[2023-04-24 20:39:54,292] {standard_task_runner.py:52} INFO - Started process 12723 to run task
+[2023-04-24 20:39:54,299] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_scopus_data', 'manual__2023-04-24T20:39:52.033408+00:00', '--job-id', '451', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp7z19e2ow', '--error-file', '/tmp/tmpet9sd99f']
+[2023-04-24 20:39:54,303] {standard_task_runner.py:80} INFO - Job 451: Subtask get_scopus_data
+[2023-04-24 20:39:54,387] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-04-24T20:39:52.033408+00:00 [running]> on host b136a0a45498
+[2023-04-24 20:39:54,472] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_scopus_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-24T20:39:52.033408+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-04-24T20:39:52.033408+00:00
+[2023-04-24 20:39:54,480] {logging_mixin.py:115} INFO - Getting Scopus Data
+[2023-04-24 20:39:54,482] {logging_mixin.py:115} INFO - The api key is:  640ababb3eaaa3723c7cc11be848250b
+[2023-04-24 20:39:54,483] {logging_mixin.py:115} INFO - DAG PATH:  /opt/***
+[2023-04-24 20:39:54,965] {logging_mixin.py:115} INFO -        Cedula                            Nombre    Scopus_ID
+0  52390079.0       Pomares Quimbaya Alexandra   24832026300
+1         NaN       Carlos Andres Parra Acevedo  57212998692
+2  39785999.0          Burbano Valente, Johanna  20436581100
+3  10141825.0       Santacoloma Giraldo, Andres  24462330500
+4  52704428.0  Garcia Padilla, Dennys del Rocio  13403648000
+5  52772896.0        Rubio Leon, Diana Carolina  56491243500
+[2023-04-24 20:39:54,967] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+[2023-04-24 20:39:55,731] {elsentity.py:77} INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+[2023-04-24 20:39:56,734] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+[2023-04-24 20:39:58,016] {utils.py:41} INFO - Converting prism:coverDate
+[2023-04-24 20:39:59,009] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692
+[2023-04-24 20:39:59,511] {elsentity.py:77} INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57212998692
+[2023-04-24 20:40:00,515] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212998692%29
+[2023-04-24 20:40:01,865] {utils.py:41} INFO - Converting prism:coverDate
+[2023-04-24 20:40:02,862] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100
+[2023-04-24 20:40:03,385] {elsentity.py:77} INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436581100
+[2023-04-24 20:40:04,385] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2820436581100%29
+[2023-04-24 20:40:04,958] {utils.py:41} INFO - Converting prism:coverDate
+[2023-04-24 20:40:05,960] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24462330500
+[2023-04-24 20:40:06,404] {elsentity.py:77} INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24462330500
+[2023-04-24 20:40:07,404] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824462330500%29
+[2023-04-24 20:40:07,891] {utils.py:41} INFO - Converting prism:coverDate
+[2023-04-24 20:40:08,889] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/13403648000
+[2023-04-24 20:40:09,412] {elsentity.py:77} INFO - Data loaded for https://api.elsevier.com/content/author/author_id/13403648000
+[2023-04-24 20:40:10,412] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2813403648000%29
+[2023-04-24 20:40:11,409] {utils.py:41} INFO - Converting prism:coverDate
+[2023-04-24 20:40:12,407] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/56491243500
+[2023-04-24 20:40:12,902] {elsentity.py:77} INFO - Data loaded for https://api.elsevier.com/content/author/author_id/56491243500
+[2023-04-24 20:40:13,904] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856491243500%29
+[2023-04-24 20:40:14,595] {utils.py:41} INFO - Converting prism:coverDate
+[2023-04-24 20:40:14,644] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_scopus_data, execution_date=20230424T203952, start_date=20230424T203954, end_date=20230424T204014
+[2023-04-24 20:40:14,780] {local_task_job.py:156} INFO - Task exited with return code 0

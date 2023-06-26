@@ -1,0 +1,33 @@
+[2023-06-01 02:01:15,708] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T02:01:13.378345+00:00 [queued]>
+[2023-06-01 02:01:15,721] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T02:01:13.378345+00:00 [queued]>
+[2023-06-01 02:01:15,723] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 02:01:15,724] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-06-01 02:01:15,726] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 02:01:15,749] {taskinstance.py:1397} INFO - Executing <Task(ReadScopus): get_scopus_data> on 2023-06-01 02:01:13.378345+00:00
+[2023-06-01 02:01:15,759] {standard_task_runner.py:52} INFO - Started process 4805 to run task
+[2023-06-01 02:01:15,764] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_scopus_data', 'manual__2023-06-01T02:01:13.378345+00:00', '--job-id', '203', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpea2ours8', '--error-file', '/tmp/tmpr7y4zq4x']
+[2023-06-01 02:01:15,769] {standard_task_runner.py:80} INFO - Job 203: Subtask get_scopus_data
+[2023-06-01 02:01:15,909] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T02:01:13.378345+00:00 [running]> on host 5d9ccb732815
+[2023-06-01 02:01:16,012] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_scopus_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-01T02:01:13.378345+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-01T02:01:13.378345+00:00
+[2023-06-01 02:01:16,016] {logging_mixin.py:115} INFO - Getting Scopus Data
+[2023-06-01 02:01:16,021] {logging_mixin.py:115} INFO - The api key is:  640ababb3eaaa3723c7cc11be848250b
+[2023-06-01 02:01:16,030] {logging_mixin.py:115} INFO - DAG PATH:  /opt/***
+[2023-06-01 02:01:16,381] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/airflow/dags/read_scopus_operator.py", line 29, in execute
+    self.saveData()
+  File "/opt/airflow/dags/read_scopus_operator.py", line 42, in saveData
+    authors_data.append(self.getAuthorData(author_id=row["Scopus_ID"],author_name=row["Nombre"],client=self.scopus_client))
+TypeError: getAuthorData() got multiple values for argument 'author_id'
+[2023-06-01 02:01:16,391] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=vic_investigacion_ETL, task_id=get_scopus_data, execution_date=20230601T020113, start_date=20230601T020115, end_date=20230601T020116
+[2023-06-01 02:01:16,400] {standard_task_runner.py:97} ERROR - Failed to execute job 203 for task get_scopus_data (getAuthorData() got multiple values for argument 'author_id'; 4805)
+[2023-06-01 02:01:16,472] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-06-01 02:01:16,499] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

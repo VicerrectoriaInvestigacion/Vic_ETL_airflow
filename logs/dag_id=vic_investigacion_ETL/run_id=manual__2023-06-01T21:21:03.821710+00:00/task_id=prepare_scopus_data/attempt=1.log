@@ -1,0 +1,41 @@
+[2023-06-01 21:21:05,737] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.prepare_scopus_data manual__2023-06-01T21:21:03.821710+00:00 [queued]>
+[2023-06-01 21:21:05,744] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.prepare_scopus_data manual__2023-06-01T21:21:03.821710+00:00 [queued]>
+[2023-06-01 21:21:05,745] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 21:21:05,745] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-06-01 21:21:05,746] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 21:21:05,754] {taskinstance.py:1397} INFO - Executing <Task(PrepareScopusData): prepare_scopus_data> on 2023-06-01 21:21:03.821710+00:00
+[2023-06-01 21:21:05,759] {standard_task_runner.py:52} INFO - Started process 27213 to run task
+[2023-06-01 21:21:05,763] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'prepare_scopus_data', 'manual__2023-06-01T21:21:03.821710+00:00', '--job-id', '261', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpki75petn', '--error-file', '/tmp/tmp2r4_2pd7']
+[2023-06-01 21:21:05,765] {standard_task_runner.py:80} INFO - Job 261: Subtask prepare_scopus_data
+[2023-06-01 21:21:05,827] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.prepare_scopus_data manual__2023-06-01T21:21:03.821710+00:00 [running]> on host 5d9ccb732815
+[2023-06-01 21:21:05,888] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=prepare_scopus_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-01T21:21:03.821710+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-01T21:21:03.821710+00:00
+[2023-06-01 21:21:05,890] {logging_mixin.py:115} INFO - Preparing Scopus Data
+[2023-06-01 21:21:05,905] {logging_mixin.py:115} INFO - Column: coredata
+[2023-06-01 21:21:05,907] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/airflow/dags/prepare_scopus_data_operator.py", line 22, in execute
+    self.prepare_authors_core_data()
+  File "/opt/airflow/dags/prepare_scopus_data_operator.py", line 71, in prepare_authors_core_data
+    df[column] = df[column].apply(lambda x: np.nan if pd.isnull(x) else self.parse_json(x))
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/series.py", line 4357, in apply
+    return SeriesApply(self, func, convert_dtype, args, kwargs).apply()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/apply.py", line 1043, in apply
+    return self.apply_standard()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/apply.py", line 1101, in apply_standard
+    convert=self.convert_dtype,
+  File "pandas/_libs/lib.pyx", line 2859, in pandas._libs.lib.map_infer
+  File "/opt/airflow/dags/prepare_scopus_data_operator.py", line 71, in <lambda>
+    df[column] = df[column].apply(lambda x: np.nan if pd.isnull(x) else self.parse_json(x))
+AttributeError: 'PrepareScopusData' object has no attribute 'parse_json'
+[2023-06-01 21:21:05,925] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=vic_investigacion_ETL, task_id=prepare_scopus_data, execution_date=20230601T212103, start_date=20230601T212105, end_date=20230601T212105
+[2023-06-01 21:21:05,937] {standard_task_runner.py:97} ERROR - Failed to execute job 261 for task prepare_scopus_data ('PrepareScopusData' object has no attribute 'parse_json'; 27213)
+[2023-06-01 21:21:05,980] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-06-01 21:21:06,011] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

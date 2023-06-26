@@ -1,0 +1,22 @@
+[2023-04-24 16:14:31,773] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.join_all_data manual__2023-04-24T16:14:25.389972+00:00 [queued]>
+[2023-04-24 16:14:31,784] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.join_all_data manual__2023-04-24T16:14:25.389972+00:00 [queued]>
+[2023-04-24 16:14:31,785] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24 16:14:31,786] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-04-24 16:14:31,787] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24 16:14:31,799] {taskinstance.py:1397} INFO - Executing <Task(JoinAllData): join_all_data> on 2023-04-24 16:14:25.389972+00:00
+[2023-04-24 16:14:31,822] {standard_task_runner.py:52} INFO - Started process 2484 to run task
+[2023-04-24 16:14:31,834] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'join_all_data', 'manual__2023-04-24T16:14:25.389972+00:00', '--job-id', '292', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpwccqo_b6', '--error-file', '/tmp/tmp07vyu0p2']
+[2023-04-24 16:14:31,837] {standard_task_runner.py:80} INFO - Job 292: Subtask join_all_data
+[2023-04-24 16:14:31,910] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.join_all_data manual__2023-04-24T16:14:25.389972+00:00 [running]> on host b136a0a45498
+[2023-04-24 16:14:31,984] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=join_all_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-24T16:14:25.389972+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-04-24T16:14:25.389972+00:00
+[2023-04-24 16:14:31,988] {logging_mixin.py:115} INFO - Joining all data
+[2023-04-24 16:14:32,006] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=join_all_data, execution_date=20230424T161425, start_date=20230424T161431, end_date=20230424T161432
+[2023-04-24 16:14:32,048] {local_task_job.py:156} INFO - Task exited with return code 0

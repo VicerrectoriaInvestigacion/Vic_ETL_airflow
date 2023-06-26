@@ -1,0 +1,24 @@
+[2023-04-17 15:04:28,784] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_cv_lac_data manual__2023-04-17T15:04:27.534649+00:00 [queued]>
+[2023-04-17 15:04:28,792] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_cv_lac_data manual__2023-04-17T15:04:27.534649+00:00 [queued]>
+[2023-04-17 15:04:28,793] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-17 15:04:28,793] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-04-17 15:04:28,794] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-17 15:04:28,803] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): get_cv_lac_data> on 2023-04-17 15:04:27.534649+00:00
+[2023-04-17 15:04:28,813] {standard_task_runner.py:52} INFO - Started process 391 to run task
+[2023-04-17 15:04:28,819] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_cv_lac_data', 'manual__2023-04-17T15:04:27.534649+00:00', '--job-id', '168', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpu5zmd8br', '--error-file', '/tmp/tmpgsnnybtr']
+[2023-04-17 15:04:28,822] {standard_task_runner.py:80} INFO - Job 168: Subtask get_cv_lac_data
+[2023-04-17 15:04:28,923] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_cv_lac_data manual__2023-04-17T15:04:27.534649+00:00 [running]> on host 6051ec54e0cc
+[2023-04-17 15:04:29,000] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_cv_lac_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-17T15:04:27.534649+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-04-17T15:04:27.534649+00:00
+[2023-04-17 15:04:29,003] {logging_mixin.py:115} INFO - Getting CV_LAC Data
+[2023-04-17 15:04:29,006] {python.py:173} INFO - Done. Returned value was: None
+[2023-04-17 15:04:29,027] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_cv_lac_data, execution_date=20230417T150427, start_date=20230417T150428, end_date=20230417T150429
+[2023-04-17 15:04:29,077] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-04-17 15:04:29,115] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

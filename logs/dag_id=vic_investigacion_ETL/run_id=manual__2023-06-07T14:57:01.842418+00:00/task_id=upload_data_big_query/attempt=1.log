@@ -1,0 +1,29 @@
+[2023-06-07 14:57:05,198] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-06-07T14:57:01.842418+00:00 [queued]>
+[2023-06-07 14:57:05,205] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-06-07T14:57:01.842418+00:00 [queued]>
+[2023-06-07 14:57:05,206] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-07 14:57:05,206] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-06-07 14:57:05,207] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-07 14:57:05,217] {taskinstance.py:1397} INFO - Executing <Task(ExportData): upload_data_big_query> on 2023-06-07 14:57:01.842418+00:00
+[2023-06-07 14:57:05,223] {standard_task_runner.py:52} INFO - Started process 4391 to run task
+[2023-06-07 14:57:05,227] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'upload_data_big_query', 'manual__2023-06-07T14:57:01.842418+00:00', '--job-id', '339', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp1s8mqlg7', '--error-file', '/tmp/tmpayt4rg6b']
+[2023-06-07 14:57:05,229] {standard_task_runner.py:80} INFO - Job 339: Subtask upload_data_big_query
+[2023-06-07 14:57:05,291] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-06-07T14:57:01.842418+00:00 [running]> on host ad8fd2023d13
+[2023-06-07 14:57:05,341] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=upload_data_big_query
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-07T14:57:01.842418+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-07T14:57:01.842418+00:00
+[2023-06-07 14:57:05,342] {logging_mixin.py:115} INFO - Exporting Data
+[2023-06-07 14:57:05,343] {logging_mixin.py:115} INFO - /opt/***/data/scopus/to_upload_data/core_data.csv
+[2023-06-07 14:57:10,039] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=cf59f308-528b-4e3e-a342-8bc5b0d44042>
+[2023-06-07 14:57:10,045] {logging_mixin.py:115} INFO - /opt/***/data/scopus/to_upload_data/products.csv
+[2023-06-07 14:57:13,581] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=45a64e35-1a69-4a52-8b4a-e4462dedaf2b>
+[2023-06-07 14:57:13,587] {logging_mixin.py:115} INFO - /opt/***/data/scopus/to_upload_data/subject_areas.csv
+[2023-06-07 14:57:17,118] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=534cf535-50d1-47c5-b18d-4b11023be0d9>
+[2023-06-07 14:57:17,138] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=upload_data_big_query, execution_date=20230607T145701, start_date=20230607T145705, end_date=20230607T145717
+[2023-06-07 14:57:17,197] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-06-07 14:57:17,224] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

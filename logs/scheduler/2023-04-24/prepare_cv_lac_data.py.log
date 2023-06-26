@@ -1,0 +1,45 @@
+[2023-04-24 14:40:22,884] {processor.py:153} INFO - Started process (PID=1475) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:22,885] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:40:22,886] {logging_mixin.py:115} INFO - [2023-04-24 14:40:22,886] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:23,139] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:23,160] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.281 seconds
+[2023-04-24 14:40:53,896] {processor.py:153} INFO - Started process (PID=1513) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:53,898] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:40:53,900] {logging_mixin.py:115} INFO - [2023-04-24 14:40:53,900] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:54,122] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:54,148] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.258 seconds
+[2023-04-24 14:40:55,949] {processor.py:153} INFO - Started process (PID=1515) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:55,951] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:40:55,952] {logging_mixin.py:115} INFO - [2023-04-24 14:40:55,952] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:56,102] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:40:56,117] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.174 seconds
+[2023-04-24 14:41:26,745] {processor.py:153} INFO - Started process (PID=1553) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:41:26,747] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:41:26,749] {logging_mixin.py:115} INFO - [2023-04-24 14:41:26,749] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:41:27,089] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:41:27,139] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.400 seconds
+[2023-04-24 14:41:57,317] {processor.py:153} INFO - Started process (PID=1583) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:41:57,319] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:41:57,321] {logging_mixin.py:115} INFO - [2023-04-24 14:41:57,321] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:41:57,633] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:41:57,678] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.369 seconds
+[2023-04-24 14:42:28,064] {processor.py:153} INFO - Started process (PID=1626) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:42:28,068] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:42:28,075] {logging_mixin.py:115} INFO - [2023-04-24 14:42:28,075] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:42:28,460] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:42:28,494] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.440 seconds
+[2023-04-24 14:42:59,274] {processor.py:153} INFO - Started process (PID=1666) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:42:59,278] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:42:59,279] {logging_mixin.py:115} INFO - [2023-04-24 14:42:59,279] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:42:59,505] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:42:59,527] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.260 seconds
+[2023-04-24 14:43:30,082] {processor.py:153} INFO - Started process (PID=1707) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:43:30,084] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:43:30,086] {logging_mixin.py:115} INFO - [2023-04-24 14:43:30,086] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:43:30,281] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:43:30,300] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.224 seconds
+[2023-04-24 14:44:00,403] {processor.py:153} INFO - Started process (PID=1739) to work on /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:44:00,405] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_cv_lac_data.py for tasks to queue
+[2023-04-24 14:44:00,407] {logging_mixin.py:115} INFO - [2023-04-24 14:44:00,406] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:44:00,827] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_cv_lac_data.py
+[2023-04-24 14:44:00,890] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_cv_lac_data.py took 0.494 seconds

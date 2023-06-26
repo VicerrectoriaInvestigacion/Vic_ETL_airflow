@@ -1,0 +1,71 @@
+[2023-06-01 01:17:21,551] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T01:17:19.306665+00:00 [queued]>
+[2023-06-01 01:17:21,561] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T01:17:19.306665+00:00 [queued]>
+[2023-06-01 01:17:21,562] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 01:17:21,564] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-06-01 01:17:21,565] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 01:17:21,582] {taskinstance.py:1397} INFO - Executing <Task(ReadScopus): get_scopus_data> on 2023-06-01 01:17:19.306665+00:00
+[2023-06-01 01:17:21,590] {standard_task_runner.py:52} INFO - Started process 2465 to run task
+[2023-06-01 01:17:21,596] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_scopus_data', 'manual__2023-06-01T01:17:19.306665+00:00', '--job-id', '139', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpmh2rq4va', '--error-file', '/tmp/tmpaqqbcf9k']
+[2023-06-01 01:17:21,601] {standard_task_runner.py:80} INFO - Job 139: Subtask get_scopus_data
+[2023-06-01 01:17:21,682] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T01:17:19.306665+00:00 [running]> on host 5d9ccb732815
+[2023-06-01 01:17:21,808] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_scopus_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-01T01:17:19.306665+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-01T01:17:19.306665+00:00
+[2023-06-01 01:17:21,812] {logging_mixin.py:115} INFO - Getting Scopus Data
+[2023-06-01 01:17:21,813] {logging_mixin.py:115} INFO - The api key is:  640ababb3eaaa3723c7cc11be848250b
+[2023-06-01 01:17:21,816] {logging_mixin.py:115} INFO - DAG PATH:  /opt/***
+[2023-06-01 01:17:22,189] {logging_mixin.py:115} INFO -       Cedula  ...    Scopus_ID
+0   52390079  ...  24832026300
+1         -1  ...  57212998692
+2   39785999  ...  20436581100
+3   21065987  ...   7103099833
+4   65771857  ...  57226563089
+5   65771857  ...  57215079697
+6   65771857  ...  57216526998
+7   10141825  ...  24462330500
+9   52704428  ...  13403648000
+10  52772896  ...  56491243500
+11  79115528  ...  20436488200
+12  53036967  ...  57226445944
+13  53036967  ...  57287763700
+14  16655940  ...  57192414185
+15  79127450  ...  57202787139
+16  80084561  ...  57215083227
+17  80084561  ...  36601412800
+18  91261764  ...  36933974000
+19  22429942  ...   6507268443
+20  22429942  ...  57195267579
+21  80413743  ...  24069980200
+22  52622390  ...  57215082906
+23  79384695  ...  55391881200
+24  79384695  ...  57215221073
+25  79384695  ...  36883033600
+26  79384695  ...   7004217890
+28  79622056  ...   8941520100
+29  20243354  ...  57202532348
+30   3072080  ...   6507025689
+31  28604429  ...  57205856244
+32  28604429  ...  57191888659
+
+[31 rows x 10 columns]
+[2023-06-01 01:17:22,190] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+[2023-06-01 01:17:22,987] {elsentity.py:77} INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+[2023-06-01 01:17:22,990] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/airflow/dags/read_scopus_operator.py", line 29, in execute
+    self.saveData()
+  File "/opt/airflow/dags/read_scopus_operator.py", line 43, in saveData
+    author_name=row["Nombre"],client=self.scopus_client)
+  File "/opt/airflow/dags/read_scopus_operator.py", line 62, in saveAuthorInfo
+    json_object["Scopus_ID"]=1213
+TypeError: 'str' object does not support item assignment
+[2023-06-01 01:17:23,014] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=vic_investigacion_ETL, task_id=get_scopus_data, execution_date=20230601T011719, start_date=20230601T011721, end_date=20230601T011723
+[2023-06-01 01:17:23,027] {standard_task_runner.py:97} ERROR - Failed to execute job 139 for task get_scopus_data ('str' object does not support item assignment; 2465)
+[2023-06-01 01:17:23,069] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-06-01 01:17:23,098] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

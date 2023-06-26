@@ -1,0 +1,22 @@
+[2023-04-24 16:10:15,250] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data manual__2023-04-24T16:10:12.419317+00:00 [queued]>
+[2023-04-24 16:10:15,263] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data manual__2023-04-24T16:10:12.419317+00:00 [queued]>
+[2023-04-24 16:10:15,264] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24 16:10:15,265] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-04-24 16:10:15,265] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24 16:10:15,287] {taskinstance.py:1397} INFO - Executing <Task(ReadWOS): get_wos_data> on 2023-04-24 16:10:12.419317+00:00
+[2023-04-24 16:10:15,308] {standard_task_runner.py:52} INFO - Started process 2206 to run task
+[2023-04-24 16:10:15,315] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_wos_data', 'manual__2023-04-24T16:10:12.419317+00:00', '--job-id', '267', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp5n34jmhv', '--error-file', '/tmp/tmpwlmzp7gv']
+[2023-04-24 16:10:15,317] {standard_task_runner.py:80} INFO - Job 267: Subtask get_wos_data
+[2023-04-24 16:10:15,429] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_wos_data manual__2023-04-24T16:10:12.419317+00:00 [running]> on host b136a0a45498
+[2023-04-24 16:10:15,548] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_wos_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-24T16:10:12.419317+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-04-24T16:10:12.419317+00:00
+[2023-04-24 16:10:15,551] {logging_mixin.py:115} INFO - Getting WOS Data
+[2023-04-24 16:10:15,569] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_wos_data, execution_date=20230424T161012, start_date=20230424T161015, end_date=20230424T161015
+[2023-04-24 16:10:15,609] {local_task_job.py:156} INFO - Task exited with return code 0

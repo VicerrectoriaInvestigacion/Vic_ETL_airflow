@@ -1,0 +1,253 @@
+[2023-04-14 14:12:04,867] {processor.py:153} INFO - Started process (PID=15120) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:12:04,869] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:12:04,871] {logging_mixin.py:115} INFO - [2023-04-14 14:12:04,871] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:12:04,895] {logging_mixin.py:115} INFO - [2023-04-14 14:12:04,892] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/scopus_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scopus_operator.py", line 3, in <module>
+    from my_operator import MyOperator
+ModuleNotFoundError: No module named 'my_operator'
+[2023-04-14 14:12:04,896] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:12:04,931] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.072 seconds
+[2023-04-14 14:12:35,063] {processor.py:153} INFO - Started process (PID=15148) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:12:35,065] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:12:35,065] {logging_mixin.py:115} INFO - [2023-04-14 14:12:35,065] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:12:35,072] {logging_mixin.py:115} INFO - [2023-04-14 14:12:35,071] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/scopus_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scopus_operator.py", line 3, in <module>
+    from my_operator import MyOperator
+ModuleNotFoundError: No module named 'my_operator'
+[2023-04-14 14:12:35,073] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:12:35,093] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.035 seconds
+[2023-04-14 14:13:05,303] {processor.py:153} INFO - Started process (PID=15176) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:13:05,305] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:13:05,306] {logging_mixin.py:115} INFO - [2023-04-14 14:13:05,306] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:13:05,319] {logging_mixin.py:115} INFO - [2023-04-14 14:13:05,316] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/scopus_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scopus_operator.py", line 3, in <module>
+    from my_operator import MyOperator
+ModuleNotFoundError: No module named 'my_operator'
+[2023-04-14 14:13:05,320] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:13:05,349] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.055 seconds
+[2023-04-14 14:13:35,545] {processor.py:153} INFO - Started process (PID=15195) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:13:35,548] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:13:35,550] {logging_mixin.py:115} INFO - [2023-04-14 14:13:35,549] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:13:35,560] {logging_mixin.py:115} INFO - [2023-04-14 14:13:35,557] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/scopus_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scopus_operator.py", line 3, in <module>
+    from my_operator import MyOperator
+ModuleNotFoundError: No module named 'my_operator'
+[2023-04-14 14:13:35,561] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:13:35,639] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.100 seconds
+[2023-04-14 14:14:05,815] {processor.py:153} INFO - Started process (PID=15223) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:14:05,817] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:14:05,819] {logging_mixin.py:115} INFO - [2023-04-14 14:14:05,819] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:14:05,828] {logging_mixin.py:115} INFO - [2023-04-14 14:14:05,826] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/scopus_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scopus_operator.py", line 3, in <module>
+    from my_operator import MyOperator
+ModuleNotFoundError: No module named 'my_operator'
+[2023-04-14 14:14:05,829] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:14:05,868] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.061 seconds
+[2023-04-14 14:14:35,993] {processor.py:153} INFO - Started process (PID=15251) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:14:35,994] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:14:35,996] {logging_mixin.py:115} INFO - [2023-04-14 14:14:35,996] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:14:36,005] {logging_mixin.py:115} INFO - [2023-04-14 14:14:36,003] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/scopus_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scopus_operator.py", line 3, in <module>
+    from my_operator import MyOperator
+ModuleNotFoundError: No module named 'my_operator'
+[2023-04-14 14:14:36,006] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:14:36,036] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.048 seconds
+[2023-04-14 14:15:06,191] {processor.py:153} INFO - Started process (PID=15279) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:06,193] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:15:06,194] {logging_mixin.py:115} INFO - [2023-04-14 14:15:06,194] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:06,201] {logging_mixin.py:115} INFO - [2023-04-14 14:15:06,199] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/scopus_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scopus_operator.py", line 3, in <module>
+    from my_operator import MyOperator
+ModuleNotFoundError: No module named 'my_operator'
+[2023-04-14 14:15:06,202] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:06,245] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.058 seconds
+[2023-04-14 14:15:20,317] {processor.py:153} INFO - Started process (PID=15289) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:20,319] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:15:20,321] {logging_mixin.py:115} INFO - [2023-04-14 14:15:20,320] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:20,394] {processor.py:651} INFO - DAG(s) dict_keys(['python_operator']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:20,661] {logging_mixin.py:115} INFO - [2023-04-14 14:15:20,660] {manager.py:508} INFO - Created Permission View: can edit on DAG:python_operator
+[2023-04-14 14:15:20,670] {logging_mixin.py:115} INFO - [2023-04-14 14:15:20,670] {manager.py:508} INFO - Created Permission View: can read on DAG:python_operator
+[2023-04-14 14:15:20,676] {logging_mixin.py:115} INFO - [2023-04-14 14:15:20,676] {manager.py:508} INFO - Created Permission View: can delete on DAG:python_operator
+[2023-04-14 14:15:20,677] {logging_mixin.py:115} INFO - [2023-04-14 14:15:20,677] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:15:20,691] {logging_mixin.py:115} INFO - [2023-04-14 14:15:20,690] {dag.py:2439} INFO - Creating ORM DAG for python_operator
+[2023-04-14 14:15:20,704] {logging_mixin.py:115} INFO - [2023-04-14 14:15:20,704] {dag.py:2972} INFO - Setting next_dagrun for python_operator to 2022-08-01T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2023-04-14 14:15:20,716] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.405 seconds
+[2023-04-14 14:15:32,432] {processor.py:153} INFO - Started process (PID=15299) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:32,435] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:15:32,437] {logging_mixin.py:115} INFO - [2023-04-14 14:15:32,436] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:32,477] {processor.py:651} INFO - DAG(s) dict_keys(['python_operator']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:15:32,503] {logging_mixin.py:115} INFO - [2023-04-14 14:15:32,503] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:15:32,526] {logging_mixin.py:115} INFO - [2023-04-14 14:15:32,526] {dag.py:2972} INFO - Setting next_dagrun for python_operator to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:15:32,538] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.116 seconds
+[2023-04-14 14:16:02,656] {processor.py:153} INFO - Started process (PID=15328) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:16:02,659] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:16:02,660] {logging_mixin.py:115} INFO - [2023-04-14 14:16:02,660] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:16:02,677] {processor.py:651} INFO - DAG(s) dict_keys(['python_operator']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:16:02,733] {logging_mixin.py:115} INFO - [2023-04-14 14:16:02,733] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:16:02,754] {logging_mixin.py:115} INFO - [2023-04-14 14:16:02,753] {dag.py:2972} INFO - Setting next_dagrun for python_operator to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:16:02,769] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.122 seconds
+[2023-04-14 14:16:32,953] {processor.py:153} INFO - Started process (PID=15347) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:16:32,956] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:16:32,958] {logging_mixin.py:115} INFO - [2023-04-14 14:16:32,958] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:16:32,981] {processor.py:651} INFO - DAG(s) dict_keys(['python_operator']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:16:33,031] {logging_mixin.py:115} INFO - [2023-04-14 14:16:33,031] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:16:33,049] {logging_mixin.py:115} INFO - [2023-04-14 14:16:33,049] {dag.py:2972} INFO - Setting next_dagrun for python_operator to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:16:33,058] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.113 seconds
+[2023-04-14 14:17:03,155] {processor.py:153} INFO - Started process (PID=15375) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:17:03,156] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:17:03,158] {logging_mixin.py:115} INFO - [2023-04-14 14:17:03,157] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:17:03,192] {processor.py:651} INFO - DAG(s) dict_keys(['python_operator']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:17:03,230] {logging_mixin.py:115} INFO - [2023-04-14 14:17:03,230] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:17:03,248] {logging_mixin.py:115} INFO - [2023-04-14 14:17:03,248] {dag.py:2972} INFO - Setting next_dagrun for python_operator to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:17:03,257] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.109 seconds
+[2023-04-14 14:17:33,410] {processor.py:153} INFO - Started process (PID=15403) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:17:33,412] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:17:33,413] {logging_mixin.py:115} INFO - [2023-04-14 14:17:33,413] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:17:33,426] {processor.py:651} INFO - DAG(s) dict_keys(['python_operator']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:17:33,460] {logging_mixin.py:115} INFO - [2023-04-14 14:17:33,460] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:17:33,477] {logging_mixin.py:115} INFO - [2023-04-14 14:17:33,477] {dag.py:2972} INFO - Setting next_dagrun for python_operator to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:17:33,484] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.080 seconds
+[2023-04-14 14:18:03,579] {processor.py:153} INFO - Started process (PID=15431) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:03,581] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:18:03,582] {logging_mixin.py:115} INFO - [2023-04-14 14:18:03,582] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:03,595] {processor.py:651} INFO - DAG(s) dict_keys(['python_operator']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:03,626] {logging_mixin.py:115} INFO - [2023-04-14 14:18:03,626] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:18:03,645] {logging_mixin.py:115} INFO - [2023-04-14 14:18:03,645] {dag.py:2972} INFO - Setting next_dagrun for python_operator to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:18:03,653] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.083 seconds
+[2023-04-14 14:18:33,952] {processor.py:153} INFO - Started process (PID=15449) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:33,955] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:18:33,958] {logging_mixin.py:115} INFO - [2023-04-14 14:18:33,957] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:34,076] {processor.py:651} INFO - DAG(s) dict_keys(['python_operator']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:34,139] {logging_mixin.py:115} INFO - [2023-04-14 14:18:34,138] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:18:34,168] {logging_mixin.py:115} INFO - [2023-04-14 14:18:34,168] {dag.py:2972} INFO - Setting next_dagrun for python_operator to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:18:34,178] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.239 seconds
+[2023-04-14 14:18:48,313] {processor.py:153} INFO - Started process (PID=15468) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:48,315] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:18:48,316] {logging_mixin.py:115} INFO - [2023-04-14 14:18:48,316] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:48,337] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:18:48,417] {logging_mixin.py:115} INFO - [2023-04-14 14:18:48,417] {manager.py:508} INFO - Created Permission View: can edit on DAG:vic_investigacion_ETL
+[2023-04-14 14:18:48,422] {logging_mixin.py:115} INFO - [2023-04-14 14:18:48,422] {manager.py:508} INFO - Created Permission View: can read on DAG:vic_investigacion_ETL
+[2023-04-14 14:18:48,427] {logging_mixin.py:115} INFO - [2023-04-14 14:18:48,427] {manager.py:508} INFO - Created Permission View: can delete on DAG:vic_investigacion_ETL
+[2023-04-14 14:18:48,427] {logging_mixin.py:115} INFO - [2023-04-14 14:18:48,427] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:18:48,434] {logging_mixin.py:115} INFO - [2023-04-14 14:18:48,434] {dag.py:2439} INFO - Creating ORM DAG for vic_investigacion_ETL
+[2023-04-14 14:18:48,441] {logging_mixin.py:115} INFO - [2023-04-14 14:18:48,441] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:18:48,450] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.143 seconds
+[2023-04-14 14:19:18,492] {processor.py:153} INFO - Started process (PID=15496) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:19:18,493] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:19:18,495] {logging_mixin.py:115} INFO - [2023-04-14 14:19:18,494] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:19:18,507] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:19:18,541] {logging_mixin.py:115} INFO - [2023-04-14 14:19:18,541] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:19:18,560] {logging_mixin.py:115} INFO - [2023-04-14 14:19:18,560] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:19:18,571] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.084 seconds
+[2023-04-14 14:19:48,814] {processor.py:153} INFO - Started process (PID=15515) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:19:48,816] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:19:48,817] {logging_mixin.py:115} INFO - [2023-04-14 14:19:48,817] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:19:48,832] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:19:48,864] {logging_mixin.py:115} INFO - [2023-04-14 14:19:48,864] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:19:48,883] {logging_mixin.py:115} INFO - [2023-04-14 14:19:48,882] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:19:48,890] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.084 seconds
+[2023-04-14 14:20:19,016] {processor.py:153} INFO - Started process (PID=15544) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:20:19,018] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:20:19,020] {logging_mixin.py:115} INFO - [2023-04-14 14:20:19,020] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:20:19,037] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:20:19,078] {logging_mixin.py:115} INFO - [2023-04-14 14:20:19,078] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:20:19,116] {logging_mixin.py:115} INFO - [2023-04-14 14:20:19,115] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to 2023-04-14T00:00:00+00:00, run_after=2023-04-14T00:00:00+00:00
+[2023-04-14 14:20:19,124] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.117 seconds
+[2023-04-14 14:20:49,317] {processor.py:153} INFO - Started process (PID=15572) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:20:49,319] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:20:49,320] {logging_mixin.py:115} INFO - [2023-04-14 14:20:49,320] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:20:49,334] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:20:49,362] {logging_mixin.py:115} INFO - [2023-04-14 14:20:49,361] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:20:49,377] {logging_mixin.py:115} INFO - [2023-04-14 14:20:49,377] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:20:49,385] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.075 seconds
+[2023-04-14 14:21:19,526] {processor.py:153} INFO - Started process (PID=15600) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:21:19,527] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:21:19,529] {logging_mixin.py:115} INFO - [2023-04-14 14:21:19,529] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:21:19,540] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:21:19,567] {logging_mixin.py:115} INFO - [2023-04-14 14:21:19,567] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:21:19,596] {logging_mixin.py:115} INFO - [2023-04-14 14:21:19,595] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:21:19,604] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.084 seconds
+[2023-04-14 14:21:49,768] {processor.py:153} INFO - Started process (PID=15619) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:21:49,770] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:21:49,772] {logging_mixin.py:115} INFO - [2023-04-14 14:21:49,772] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:21:49,788] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:21:49,820] {logging_mixin.py:115} INFO - [2023-04-14 14:21:49,819] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:21:49,836] {logging_mixin.py:115} INFO - [2023-04-14 14:21:49,836] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:21:49,844] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.084 seconds
+[2023-04-14 14:22:20,039] {processor.py:153} INFO - Started process (PID=15645) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:22:20,041] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:22:20,043] {logging_mixin.py:115} INFO - [2023-04-14 14:22:20,043] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:22:20,059] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:22:20,091] {logging_mixin.py:115} INFO - [2023-04-14 14:22:20,091] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:22:20,107] {logging_mixin.py:115} INFO - [2023-04-14 14:22:20,107] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:22:20,114] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.083 seconds
+[2023-04-14 14:22:50,264] {processor.py:153} INFO - Started process (PID=15673) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:22:50,268] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:22:50,270] {logging_mixin.py:115} INFO - [2023-04-14 14:22:50,269] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:22:50,285] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:22:50,314] {logging_mixin.py:115} INFO - [2023-04-14 14:22:50,314] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:22:50,330] {logging_mixin.py:115} INFO - [2023-04-14 14:22:50,330] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:22:50,338] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.085 seconds
+[2023-04-14 14:23:20,492] {processor.py:153} INFO - Started process (PID=15700) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:23:20,494] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:23:20,495] {logging_mixin.py:115} INFO - [2023-04-14 14:23:20,495] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:23:20,507] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:23:20,536] {logging_mixin.py:115} INFO - [2023-04-14 14:23:20,536] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:23:20,552] {logging_mixin.py:115} INFO - [2023-04-14 14:23:20,552] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:23:20,560] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.073 seconds
+[2023-04-14 14:23:50,768] {processor.py:153} INFO - Started process (PID=15719) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:23:50,770] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:23:50,772] {logging_mixin.py:115} INFO - [2023-04-14 14:23:50,772] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:23:50,788] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:23:50,820] {logging_mixin.py:115} INFO - [2023-04-14 14:23:50,820] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:23:50,835] {logging_mixin.py:115} INFO - [2023-04-14 14:23:50,835] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:23:50,842] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.080 seconds
+[2023-04-14 14:24:20,991] {processor.py:153} INFO - Started process (PID=15747) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:24:20,993] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:24:20,995] {logging_mixin.py:115} INFO - [2023-04-14 14:24:20,995] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:24:21,012] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:24:21,054] {logging_mixin.py:115} INFO - [2023-04-14 14:24:21,054] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:24:21,079] {logging_mixin.py:115} INFO - [2023-04-14 14:24:21,079] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:24:21,087] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.103 seconds
+[2023-04-14 14:24:51,346] {processor.py:153} INFO - Started process (PID=15775) to work on /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:24:51,349] {processor.py:641} INFO - Processing file /opt/airflow/dags/scopus_operator.py for tasks to queue
+[2023-04-14 14:24:51,352] {logging_mixin.py:115} INFO - [2023-04-14 14:24:51,352] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:24:51,368] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/scopus_operator.py
+[2023-04-14 14:24:51,404] {logging_mixin.py:115} INFO - [2023-04-14 14:24:51,404] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-04-14 14:24:51,425] {logging_mixin.py:115} INFO - [2023-04-14 14:24:51,425] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-04-14 14:24:51,435] {processor.py:161} INFO - Processing /opt/airflow/dags/scopus_operator.py took 0.127 seconds

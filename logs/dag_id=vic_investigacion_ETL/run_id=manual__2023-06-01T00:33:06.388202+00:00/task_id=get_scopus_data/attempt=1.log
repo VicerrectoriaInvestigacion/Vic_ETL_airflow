@@ -1,0 +1,266 @@
+[2023-06-01 00:33:08,508] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T00:33:06.388202+00:00 [queued]>
+[2023-06-01 00:33:08,520] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T00:33:06.388202+00:00 [queued]>
+[2023-06-01 00:33:08,521] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 00:33:08,521] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-06-01 00:33:08,522] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-01 00:33:08,533] {taskinstance.py:1397} INFO - Executing <Task(ReadScopus): get_scopus_data> on 2023-06-01 00:33:06.388202+00:00
+[2023-06-01 00:33:08,540] {standard_task_runner.py:52} INFO - Started process 117 to run task
+[2023-06-01 00:33:08,547] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_scopus_data', 'manual__2023-06-01T00:33:06.388202+00:00', '--job-id', '81', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpcyjqmf6m', '--error-file', '/tmp/tmpoylc2419']
+[2023-06-01 00:33:08,550] {standard_task_runner.py:80} INFO - Job 81: Subtask get_scopus_data
+[2023-06-01 00:33:08,716] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_scopus_data manual__2023-06-01T00:33:06.388202+00:00 [running]> on host 5d9ccb732815
+[2023-06-01 00:33:08,865] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_scopus_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-01T00:33:06.388202+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-01T00:33:06.388202+00:00
+[2023-06-01 00:33:08,871] {logging_mixin.py:115} INFO - Getting Scopus Data
+[2023-06-01 00:33:08,874] {logging_mixin.py:115} INFO - The api key is:  640ababb3eaaa3723c7cc11be848250b
+[2023-06-01 00:33:08,875] {logging_mixin.py:115} INFO - DAG PATH:  /opt/***
+[2023-06-01 00:33:09,280] {logging_mixin.py:115} INFO -         Cedula  ...     Scopus_ID
+0   52390079.0  ...  2.483203e+10
+1          NaN  ...  5.721300e+10
+2   39785999.0  ...  2.043658e+10
+3   21065987.0  ...  7.103100e+09
+4   65771857.0  ...  5.722656e+10
+5   65771857.0  ...  5.721508e+10
+6   65771857.0  ...  5.721653e+10
+7   10141825.0  ...  2.446233e+10
+8   52693472.0  ...           NaN
+9   52704428.0  ...  1.340365e+10
+10  52772896.0  ...  5.649124e+10
+11  79115528.0  ...  2.043649e+10
+12  53036967.0  ...  5.722645e+10
+13  53036967.0  ...  5.728776e+10
+14  16655940.0  ...  5.719241e+10
+15  79127450.0  ...  5.720279e+10
+16  80084561.0  ...  5.721508e+10
+17  80084561.0  ...  3.660141e+10
+18  91261764.0  ...  3.693397e+10
+19  22429942.0  ...  6.507268e+09
+20  22429942.0  ...  5.719527e+10
+21  80413743.0  ...  2.406998e+10
+22  52622390.0  ...  5.721508e+10
+23  79384695.0  ...  5.539188e+10
+24  79384695.0  ...  5.721522e+10
+25  79384695.0  ...  3.688303e+10
+26  79384695.0  ...  7.004218e+09
+27  52863512.0  ...           NaN
+28  79622056.0  ...  8.941520e+09
+29  20243354.0  ...  5.720253e+10
+30   3072080.0  ...  6.507026e+09
+31  28604429.0  ...  5.720586e+10
+32  28604429.0  ...  5.719189e+10
+33  52022600.0  ...           NaN
+
+[34 rows x 10 columns]
+[2023-06-01 00:33:09,282] {logging_mixin.py:115} INFO - SCOPUS ID:  24832026300.0
+[2023-06-01 00:33:09,283] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300.0
+[2023-06-01 00:33:09,897] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/24832026300.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:10,905] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300.0%29
+[2023-06-01 00:33:11,417] {logging_mixin.py:115} INFO - SCOPUS ID:  57212998692.0
+[2023-06-01 00:33:12,394] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692.0
+[2023-06-01 00:33:12,794] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57212998692.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:13,796] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212998692.0%29
+[2023-06-01 00:33:14,290] {logging_mixin.py:115} INFO - SCOPUS ID:  20436581100.0
+[2023-06-01 00:33:15,278] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100.0
+[2023-06-01 00:33:15,645] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/20436581100.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:16,646] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2820436581100.0%29
+[2023-06-01 00:33:17,104] {logging_mixin.py:115} INFO - SCOPUS ID:  7103099833.0
+[2023-06-01 00:33:18,100] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7103099833.0
+[2023-06-01 00:33:18,555] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/7103099833.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:19,562] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%287103099833.0%29
+[2023-06-01 00:33:20,091] {logging_mixin.py:115} INFO - SCOPUS ID:  57226563089.0
+[2023-06-01 00:33:21,076] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226563089.0
+[2023-06-01 00:33:21,830] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57226563089.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:22,831] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857226563089.0%29
+[2023-06-01 00:33:23,330] {logging_mixin.py:115} INFO - SCOPUS ID:  57215079697.0
+[2023-06-01 00:33:24,334] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215079697.0
+[2023-06-01 00:33:24,813] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57215079697.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:25,815] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857215079697.0%29
+[2023-06-01 00:33:26,370] {logging_mixin.py:115} INFO - SCOPUS ID:  57216526998.0
+[2023-06-01 00:33:27,367] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57216526998.0
+[2023-06-01 00:33:27,738] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57216526998.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:28,742] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857216526998.0%29
+[2023-06-01 00:33:29,206] {logging_mixin.py:115} INFO - SCOPUS ID:  24462330500.0
+[2023-06-01 00:33:30,202] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24462330500.0
+[2023-06-01 00:33:30,655] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/24462330500.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:31,656] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824462330500.0%29
+[2023-06-01 00:33:32,183] {logging_mixin.py:115} INFO - SCOPUS ID:  nan
+[2023-06-01 00:33:33,182] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/nan
+[2023-06-01 00:33:33,570] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/nan
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:34,573] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28nan%29
+[2023-06-01 00:33:35,079] {logging_mixin.py:115} INFO - SCOPUS ID:  13403648000.0
+[2023-06-01 00:33:36,079] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/13403648000.0
+[2023-06-01 00:33:36,547] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/13403648000.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:37,549] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2813403648000.0%29
+[2023-06-01 00:33:38,061] {logging_mixin.py:115} INFO - SCOPUS ID:  56491243500.0
+[2023-06-01 00:33:39,048] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/56491243500.0
+[2023-06-01 00:33:39,440] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/56491243500.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:40,440] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856491243500.0%29
+[2023-06-01 00:33:40,973] {logging_mixin.py:115} INFO - SCOPUS ID:  20436488200.0
+[2023-06-01 00:33:41,957] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436488200.0
+[2023-06-01 00:33:42,417] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/20436488200.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:43,423] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2820436488200.0%29
+[2023-06-01 00:33:43,902] {logging_mixin.py:115} INFO - SCOPUS ID:  57226445944.0
+[2023-06-01 00:33:44,904] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226445944.0
+[2023-06-01 00:33:45,378] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57226445944.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:46,392] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857226445944.0%29
+[2023-06-01 00:33:46,895] {logging_mixin.py:115} INFO - SCOPUS ID:  57287763700.0
+[2023-06-01 00:33:47,879] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57287763700.0
+[2023-06-01 00:33:48,267] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57287763700.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:49,271] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857287763700.0%29
+[2023-06-01 00:33:49,712] {logging_mixin.py:115} INFO - SCOPUS ID:  57192414185.0
+[2023-06-01 00:33:50,714] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57192414185.0
+[2023-06-01 00:33:51,121] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57192414185.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:52,126] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857192414185.0%29
+[2023-06-01 00:33:52,673] {logging_mixin.py:115} INFO - SCOPUS ID:  57202787139.0
+[2023-06-01 00:33:53,648] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202787139.0
+[2023-06-01 00:33:54,076] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57202787139.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:55,078] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202787139.0%29
+[2023-06-01 00:33:55,618] {logging_mixin.py:115} INFO - SCOPUS ID:  57215083227.0
+[2023-06-01 00:33:56,623] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215083227.0
+[2023-06-01 00:33:57,048] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57215083227.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:33:58,051] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857215083227.0%29
+[2023-06-01 00:33:58,604] {logging_mixin.py:115} INFO - SCOPUS ID:  36601412800.0
+[2023-06-01 00:33:59,602] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36601412800.0
+[2023-06-01 00:33:59,988] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/36601412800.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:00,994] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2836601412800.0%29
+[2023-06-01 00:34:01,444] {logging_mixin.py:115} INFO - SCOPUS ID:  36933974000.0
+[2023-06-01 00:34:02,442] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36933974000.0
+[2023-06-01 00:34:02,855] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/36933974000.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:03,855] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2836933974000.0%29
+[2023-06-01 00:34:04,319] {logging_mixin.py:115} INFO - SCOPUS ID:  6507268443.0
+[2023-06-01 00:34:05,306] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507268443.0
+[2023-06-01 00:34:05,800] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/6507268443.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:06,798] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%286507268443.0%29
+[2023-06-01 00:34:07,279] {logging_mixin.py:115} INFO - SCOPUS ID:  57195267579.0
+[2023-06-01 00:34:08,269] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57195267579.0
+[2023-06-01 00:34:08,722] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57195267579.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:09,723] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857195267579.0%29
+[2023-06-01 00:34:10,282] {logging_mixin.py:115} INFO - SCOPUS ID:  24069980200.0
+[2023-06-01 00:34:11,280] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24069980200.0
+[2023-06-01 00:34:11,706] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/24069980200.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:12,711] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824069980200.0%29
+[2023-06-01 00:34:13,220] {logging_mixin.py:115} INFO - SCOPUS ID:  57215082906.0
+[2023-06-01 00:34:14,204] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215082906.0
+[2023-06-01 00:34:14,654] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57215082906.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:15,655] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857215082906.0%29
+[2023-06-01 00:34:16,191] {logging_mixin.py:115} INFO - SCOPUS ID:  55391881200.0
+[2023-06-01 00:34:17,167] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/55391881200.0
+[2023-06-01 00:34:17,607] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/55391881200.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:18,610] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2855391881200.0%29
+[2023-06-01 00:34:19,158] {logging_mixin.py:115} INFO - SCOPUS ID:  57215221073.0
+[2023-06-01 00:34:20,156] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215221073.0
+[2023-06-01 00:34:20,553] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57215221073.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:21,555] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857215221073.0%29
+[2023-06-01 00:34:22,104] {logging_mixin.py:115} INFO - SCOPUS ID:  36883033600.0
+[2023-06-01 00:34:23,103] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36883033600.0
+[2023-06-01 00:34:23,534] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/36883033600.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:24,537] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2836883033600.0%29
+[2023-06-01 00:34:25,055] {logging_mixin.py:115} INFO - SCOPUS ID:  7004217890.0
+[2023-06-01 00:34:26,043] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004217890.0
+[2023-06-01 00:34:26,463] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/7004217890.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:27,470] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%287004217890.0%29
+[2023-06-01 00:34:28,076] {logging_mixin.py:115} INFO - SCOPUS ID:  nan
+[2023-06-01 00:34:29,059] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/nan
+[2023-06-01 00:34:29,434] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/nan
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:30,435] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28nan%29
+[2023-06-01 00:34:30,939] {logging_mixin.py:115} INFO - SCOPUS ID:  8941520100.0
+[2023-06-01 00:34:31,931] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/8941520100.0
+[2023-06-01 00:34:32,303] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/8941520100.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:33,308] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%288941520100.0%29
+[2023-06-01 00:34:33,735] {logging_mixin.py:115} INFO - SCOPUS ID:  57202532348.0
+[2023-06-01 00:34:34,732] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202532348.0
+[2023-06-01 00:34:35,102] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57202532348.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:36,106] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202532348.0%29
+[2023-06-01 00:34:36,586] {logging_mixin.py:115} INFO - SCOPUS ID:  6507025689.0
+[2023-06-01 00:34:37,581] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507025689.0
+[2023-06-01 00:34:37,992] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/6507025689.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:38,995] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%286507025689.0%29
+[2023-06-01 00:34:39,453] {logging_mixin.py:115} INFO - SCOPUS ID:  57205856244.0
+[2023-06-01 00:34:40,452] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57205856244.0
+[2023-06-01 00:34:40,939] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57205856244.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:41,940] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857205856244.0%29
+[2023-06-01 00:34:42,475] {logging_mixin.py:115} INFO - SCOPUS ID:  57191888659.0
+[2023-06-01 00:34:43,476] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57191888659.0
+[2023-06-01 00:34:43,903] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/57191888659.0
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:44,905] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857191888659.0%29
+[2023-06-01 00:34:45,689] {logging_mixin.py:115} INFO - SCOPUS ID:  nan
+[2023-06-01 00:34:46,677] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/nan
+[2023-06-01 00:34:47,133] {elsentity.py:81} WARNING - HTTP 400 Error from https://api.elsevier.com/content/author/author_id/nan
+and using headers {'X-ELS-APIKey': '640ababb3eaaa3723c7cc11be848250b', 'User-Agent': 'elsapy-v0.5.1', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"INVALID_INPUT","statusText":"Invalid authorId(s) submitted"}}}
+[2023-06-01 00:34:48,139] {elsclient.py:109} INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28nan%29
+[2023-06-01 00:34:48,712] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_scopus_data, execution_date=20230601T003306, start_date=20230601T003308, end_date=20230601T003448
+[2023-06-01 00:34:48,789] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-06-01 00:34:48,816] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

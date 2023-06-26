@@ -1,0 +1,22 @@
+[2023-04-24 16:24:21,539] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_group_lac_data manual__2023-04-24T16:24:19.356730+00:00 [queued]>
+[2023-04-24 16:24:21,549] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_group_lac_data manual__2023-04-24T16:24:19.356730+00:00 [queued]>
+[2023-04-24 16:24:21,549] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24 16:24:21,550] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-04-24 16:24:21,550] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24 16:24:21,561] {taskinstance.py:1397} INFO - Executing <Task(ReadGroupLAC): get_group_lac_data> on 2023-04-24 16:24:19.356730+00:00
+[2023-04-24 16:24:21,585] {standard_task_runner.py:52} INFO - Started process 2962 to run task
+[2023-04-24 16:24:21,594] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_group_lac_data', 'manual__2023-04-24T16:24:19.356730+00:00', '--job-id', '295', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpr20kkd2u', '--error-file', '/tmp/tmpxl_t_cq6']
+[2023-04-24 16:24:21,596] {standard_task_runner.py:80} INFO - Job 295: Subtask get_group_lac_data
+[2023-04-24 16:24:21,736] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_group_lac_data manual__2023-04-24T16:24:19.356730+00:00 [running]> on host b136a0a45498
+[2023-04-24 16:24:21,847] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_group_lac_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-24T16:24:19.356730+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-04-24T16:24:19.356730+00:00
+[2023-04-24 16:24:21,850] {logging_mixin.py:115} INFO - Getting Group LAC Data
+[2023-04-24 16:24:21,865] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_group_lac_data, execution_date=20230424T162419, start_date=20230424T162421, end_date=20230424T162421
+[2023-04-24 16:24:21,890] {local_task_job.py:156} INFO - Task exited with return code 0

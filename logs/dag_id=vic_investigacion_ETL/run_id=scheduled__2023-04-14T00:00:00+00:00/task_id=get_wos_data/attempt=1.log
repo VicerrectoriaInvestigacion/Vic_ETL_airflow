@@ -1,0 +1,94 @@
+[2023-04-14 16:17:00,802] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [queued]>
+[2023-04-14 16:17:00,816] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [queued]>
+[2023-04-14 16:17:00,816] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-14 16:17:00,817] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-04-14 16:17:00,818] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-14 16:17:00,827] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): get_wos_data> on 2023-04-14 00:00:00+00:00
+[2023-04-14 16:17:00,833] {standard_task_runner.py:52} INFO - Started process 260 to run task
+[2023-04-14 16:17:00,838] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_wos_data', 'scheduled__2023-04-14T00:00:00+00:00', '--job-id', '49', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpg3tve37q', '--error-file', '/tmp/tmpif3qpzln']
+[2023-04-14 16:17:00,841] {standard_task_runner.py:80} INFO - Job 49: Subtask get_wos_data
+[2023-04-14 16:17:00,943] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [running]> on host c91627f658c0
+[2023-04-14 16:17:01,021] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_wos_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-14T00:00:00+00:00
+[2023-04-14 16:17:01,023] {logging_mixin.py:115} INFO - Getting WOS Data
+[2023-04-14 16:17:01,024] {python.py:173} INFO - Done. Returned value was: None
+[2023-04-14 16:17:01,049] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_wos_data, execution_date=20230414T000000, start_date=20230414T161700, end_date=20230414T161701
+[2023-04-14 16:17:01,092] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-04-14 16:17:01,118] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-04-14 16:39:37,570] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [queued]>
+[2023-04-14 16:39:37,578] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [queued]>
+[2023-04-14 16:39:37,579] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-14 16:39:37,580] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-04-14 16:39:37,580] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-14 16:39:37,589] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): get_wos_data> on 2023-04-14 00:00:00+00:00
+[2023-04-14 16:39:37,596] {standard_task_runner.py:52} INFO - Started process 96 to run task
+[2023-04-14 16:39:37,601] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_wos_data', 'scheduled__2023-04-14T00:00:00+00:00', '--job-id', '56', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpi4su49lx', '--error-file', '/tmp/tmpznqvb98j']
+[2023-04-14 16:39:37,605] {standard_task_runner.py:80} INFO - Job 56: Subtask get_wos_data
+[2023-04-14 16:39:37,700] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [running]> on host d1b5acf00b55
+[2023-04-14 16:39:37,772] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_wos_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-14T00:00:00+00:00
+[2023-04-14 16:39:37,774] {logging_mixin.py:115} INFO - Getting WOS Data
+[2023-04-14 16:39:37,775] {python.py:173} INFO - Done. Returned value was: None
+[2023-04-14 16:39:37,802] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_wos_data, execution_date=20230414T000000, start_date=20230414T163937, end_date=20230414T163937
+[2023-04-14 16:39:37,854] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-04-14 16:39:37,884] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-04-14 16:55:52,175] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [queued]>
+[2023-04-14 16:55:52,181] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [queued]>
+[2023-04-14 16:55:52,182] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-14 16:55:52,183] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-04-14 16:55:52,183] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-14 16:55:52,191] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): get_wos_data> on 2023-04-14 00:00:00+00:00
+[2023-04-14 16:55:52,196] {standard_task_runner.py:52} INFO - Started process 87 to run task
+[2023-04-14 16:55:52,200] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_wos_data', 'scheduled__2023-04-14T00:00:00+00:00', '--job-id', '65', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpptvvb2h_', '--error-file', '/tmp/tmpd82_qlz8']
+[2023-04-14 16:55:52,201] {standard_task_runner.py:80} INFO - Job 65: Subtask get_wos_data
+[2023-04-14 16:55:52,260] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [running]> on host 51874f25fd7b
+[2023-04-14 16:55:52,322] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_wos_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-14T00:00:00+00:00
+[2023-04-14 16:55:52,323] {logging_mixin.py:115} INFO - Getting WOS Data
+[2023-04-14 16:55:52,324] {python.py:173} INFO - Done. Returned value was: None
+[2023-04-14 16:55:52,335] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_wos_data, execution_date=20230414T000000, start_date=20230414T165552, end_date=20230414T165552
+[2023-04-14 16:55:52,371] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-04-14 16:55:52,404] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-05-31 23:29:31,624] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [queued]>
+[2023-05-31 23:29:31,632] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [queued]>
+[2023-05-31 23:29:31,632] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-05-31 23:29:31,633] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-05-31 23:29:31,634] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-05-31 23:29:31,642] {taskinstance.py:1397} INFO - Executing <Task(ReadWOS): get_wos_data> on 2023-04-14 00:00:00+00:00
+[2023-05-31 23:29:31,648] {standard_task_runner.py:52} INFO - Started process 125 to run task
+[2023-05-31 23:29:31,652] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'get_wos_data', 'scheduled__2023-04-14T00:00:00+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp9i6ts6uk', '--error-file', '/tmp/tmpvujbwj0i']
+[2023-05-31 23:29:31,655] {standard_task_runner.py:80} INFO - Job 6: Subtask get_wos_data
+[2023-05-31 23:29:31,754] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.get_wos_data scheduled__2023-04-14T00:00:00+00:00 [running]> on host 5d9ccb732815
+[2023-05-31 23:29:32,312] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=get_wos_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-14T00:00:00+00:00
+[2023-05-31 23:29:32,313] {logging_mixin.py:115} INFO - Getting WOS Data
+[2023-05-31 23:29:32,328] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=get_wos_data, execution_date=20230414T000000, start_date=20230531T232931, end_date=20230531T232932
+[2023-05-31 23:29:32,392] {local_task_job.py:156} INFO - Task exited with return code 0

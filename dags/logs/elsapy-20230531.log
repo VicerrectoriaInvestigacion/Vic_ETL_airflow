@@ -1,0 +1,323 @@
+2023-05-31 20:37:24,900 - elsapy.elsclient - INFO - Module loaded.
+2023-05-31 20:37:24,902 - elsapy.elsentity - INFO - Module loaded.
+2023-05-31 20:37:24,902 - elsapy.utils - INFO - Module loaded.
+2023-05-31 20:37:24,902 - elsapy.elsprofile - INFO - Module loaded.
+2023-05-31 20:37:24,902 - elsapy.elssearch - INFO - Module loaded.
+2023-05-31 20:40:31,076 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:40:31,925 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:40:32,930 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:40:33,614 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:40:34,619 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:40:35,138 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:40:36,139 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:40:36,897 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:40:37,900 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:40:38,459 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:40:39,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:40:39,890 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:40:40,895 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:40:41,370 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:40:42,374 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:40:42,927 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:40:43,931 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:40:44,444 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:41:18,563 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:41:19,111 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:41:20,116 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:41:20,658 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:41:21,663 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:41:22,465 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:41:23,468 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:41:24,011 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:41:25,016 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:41:25,636 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:41:26,638 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:41:27,100 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:41:28,107 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:41:28,810 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:41:29,813 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:41:30,256 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:41:31,261 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:41:31,763 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:41:32,768 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/56491243500
+2023-05-31 20:41:33,321 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/56491243500
+2023-05-31 20:41:34,323 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436488200
+2023-05-31 20:41:34,768 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436488200
+2023-05-31 20:41:35,772 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226445944
+2023-05-31 20:41:36,259 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226445944
+2023-05-31 20:41:37,265 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57287763700
+2023-05-31 20:41:37,801 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57287763700
+2023-05-31 20:41:38,804 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57192414185
+2023-05-31 20:41:39,284 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57192414185
+2023-05-31 20:41:40,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202787139
+2023-05-31 20:41:40,788 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57202787139
+2023-05-31 20:41:41,793 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215083227
+2023-05-31 20:41:42,361 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215083227
+2023-05-31 20:41:43,366 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36601412800
+2023-05-31 20:41:43,819 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36601412800
+2023-05-31 20:41:44,822 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36933974000
+2023-05-31 20:41:45,269 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36933974000
+2023-05-31 20:41:46,274 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507268443
+2023-05-31 20:41:47,733 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/6507268443
+2023-05-31 20:41:48,738 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57195267579
+2023-05-31 20:41:49,211 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57195267579
+2023-05-31 20:41:50,211 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24069980200
+2023-05-31 20:41:50,659 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24069980200
+2023-05-31 20:41:51,659 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215082906
+2023-05-31 20:41:52,066 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215082906
+2023-05-31 20:41:53,071 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/55391881200
+2023-05-31 20:41:54,007 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/55391881200
+2023-05-31 20:41:55,011 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215221073
+2023-05-31 20:41:57,147 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215221073
+2023-05-31 20:41:58,152 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36883033600
+2023-05-31 20:41:58,586 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36883033600
+2023-05-31 20:41:59,589 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004217890
+2023-05-31 20:42:00,168 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7004217890
+2023-05-31 20:42:01,173 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/8941520100
+2023-05-31 20:42:01,664 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/8941520100
+2023-05-31 20:42:02,669 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202532348
+2023-05-31 20:42:03,182 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57202532348
+2023-05-31 20:42:04,187 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507025689
+2023-05-31 20:42:04,758 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/6507025689
+2023-05-31 20:42:05,763 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57205856244
+2023-05-31 20:42:06,267 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57205856244
+2023-05-31 20:42:07,272 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57191888659
+2023-05-31 20:42:07,715 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57191888659
+2023-05-31 20:44:42,158 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:44:42,661 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:44:43,665 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:44:44,263 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:44:45,267 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:44:45,758 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:44:46,762 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:44:47,326 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:44:48,330 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:44:48,794 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:44:49,798 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:44:50,283 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:44:51,288 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:44:51,778 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:45:28,594 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:45:29,114 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:45:30,119 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:45:30,631 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:45:31,632 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:45:32,275 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:45:33,278 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:45:33,797 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:46:03,829 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:46:04,473 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:46:05,474 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:46:06,036 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:46:07,038 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:46:07,538 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:46:08,543 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:46:09,238 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:46:10,238 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:46:10,680 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:46:11,683 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:46:12,924 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:46:13,924 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:46:14,411 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:46:15,416 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:46:15,875 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:46:16,877 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:46:17,293 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:46:18,299 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/56491243500
+2023-05-31 20:46:18,822 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/56491243500
+2023-05-31 20:46:19,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436488200
+2023-05-31 20:46:20,342 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436488200
+2023-05-31 20:46:21,346 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226445944
+2023-05-31 20:46:21,849 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226445944
+2023-05-31 20:46:22,855 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57287763700
+2023-05-31 20:46:23,351 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57287763700
+2023-05-31 20:46:24,356 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57192414185
+2023-05-31 20:46:25,108 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57192414185
+2023-05-31 20:46:26,113 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202787139
+2023-05-31 20:46:26,602 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57202787139
+2023-05-31 20:46:27,604 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215083227
+2023-05-31 20:46:28,286 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215083227
+2023-05-31 20:46:29,292 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36601412800
+2023-05-31 20:46:29,726 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36601412800
+2023-05-31 20:46:30,731 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36933974000
+2023-05-31 20:46:31,313 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36933974000
+2023-05-31 20:46:32,318 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507268443
+2023-05-31 20:46:32,796 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/6507268443
+2023-05-31 20:46:33,801 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57195267579
+2023-05-31 20:46:34,234 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57195267579
+2023-05-31 20:46:35,239 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24069980200
+2023-05-31 20:46:35,861 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24069980200
+2023-05-31 20:47:59,069 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:47:59,604 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:48:00,605 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:48:01,167 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:48:02,172 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:48:02,725 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:48:03,729 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:48:04,275 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:48:05,278 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:48:05,722 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:48:06,725 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:48:07,207 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:48:08,212 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:48:08,730 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:48:09,735 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:48:10,200 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:48:11,206 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:48:11,632 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:48:12,635 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/56491243500
+2023-05-31 20:48:13,191 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/56491243500
+2023-05-31 20:48:14,196 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436488200
+2023-05-31 20:48:14,777 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436488200
+2023-05-31 20:48:15,783 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226445944
+2023-05-31 20:48:16,300 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226445944
+2023-05-31 20:48:17,305 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57287763700
+2023-05-31 20:48:17,795 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57287763700
+2023-05-31 20:48:18,800 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57192414185
+2023-05-31 20:48:19,286 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57192414185
+2023-05-31 20:48:20,291 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202787139
+2023-05-31 20:48:20,830 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57202787139
+2023-05-31 20:48:21,833 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215083227
+2023-05-31 20:48:22,281 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215083227
+2023-05-31 20:48:23,285 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36601412800
+2023-05-31 20:48:23,757 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36601412800
+2023-05-31 20:48:24,762 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36933974000
+2023-05-31 20:48:25,258 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36933974000
+2023-05-31 20:48:26,263 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507268443
+2023-05-31 20:48:26,772 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/6507268443
+2023-05-31 20:48:27,776 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57195267579
+2023-05-31 20:48:28,219 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57195267579
+2023-05-31 20:48:29,220 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24069980200
+2023-05-31 20:48:29,829 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24069980200
+2023-05-31 20:48:30,834 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215082906
+2023-05-31 20:48:33,738 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215082906
+2023-05-31 20:48:34,739 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/55391881200
+2023-05-31 20:48:35,254 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/55391881200
+2023-05-31 20:48:36,259 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215221073
+2023-05-31 20:48:36,772 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215221073
+2023-05-31 20:48:37,777 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36883033600
+2023-05-31 20:48:38,297 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36883033600
+2023-05-31 20:48:39,297 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004217890
+2023-05-31 20:48:39,759 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7004217890
+2023-05-31 20:48:40,780 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/8941520100
+2023-05-31 20:48:41,405 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/8941520100
+2023-05-31 20:48:42,410 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202532348
+2023-05-31 20:48:42,926 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57202532348
+2023-05-31 20:48:43,928 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507025689
+2023-05-31 20:48:44,500 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/6507025689
+2023-05-31 20:48:45,502 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57205856244
+2023-05-31 20:48:45,973 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57205856244
+2023-05-31 20:48:46,977 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57191888659
+2023-05-31 20:48:47,653 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57191888659
+2023-05-31 20:50:10,324 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:50:10,845 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24832026300
+2023-05-31 20:50:11,850 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:50:12,341 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57212998692
+2023-05-31 20:50:13,346 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:50:13,806 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436581100
+2023-05-31 20:50:14,811 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:50:15,329 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7103099833
+2023-05-31 20:50:16,332 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:50:16,810 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226563089
+2023-05-31 20:50:17,812 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:50:18,294 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215079697
+2023-05-31 20:50:19,299 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:50:19,786 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57216526998
+2023-05-31 20:50:20,788 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:50:21,229 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24462330500
+2023-05-31 20:50:22,233 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:50:22,724 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/13403648000
+2023-05-31 20:50:23,727 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/56491243500
+2023-05-31 20:50:24,215 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/56491243500
+2023-05-31 20:50:25,216 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/20436488200
+2023-05-31 20:50:25,692 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/20436488200
+2023-05-31 20:50:26,696 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57226445944
+2023-05-31 20:50:27,177 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57226445944
+2023-05-31 20:50:28,182 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57287763700
+2023-05-31 20:50:28,658 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57287763700
+2023-05-31 20:50:29,661 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57192414185
+2023-05-31 20:50:30,227 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57192414185
+2023-05-31 20:50:31,231 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202787139
+2023-05-31 20:50:31,725 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57202787139
+2023-05-31 20:50:32,730 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215083227
+2023-05-31 20:50:33,943 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215083227
+2023-05-31 20:50:34,948 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36601412800
+2023-05-31 20:50:35,397 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36601412800
+2023-05-31 20:50:36,402 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36933974000
+2023-05-31 20:50:36,867 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36933974000
+2023-05-31 20:50:37,872 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507268443
+2023-05-31 20:50:38,385 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/6507268443
+2023-05-31 20:50:39,388 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57195267579
+2023-05-31 20:50:39,838 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57195267579
+2023-05-31 20:50:40,844 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/24069980200
+2023-05-31 20:50:41,286 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/24069980200
+2023-05-31 20:50:42,291 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215082906
+2023-05-31 20:50:42,752 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215082906
+2023-05-31 20:50:43,757 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/55391881200
+2023-05-31 20:50:44,261 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/55391881200
+2023-05-31 20:50:45,266 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57215221073
+2023-05-31 20:50:45,862 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57215221073
+2023-05-31 20:50:46,867 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/36883033600
+2023-05-31 20:50:47,328 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/36883033600
+2023-05-31 20:50:48,332 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004217890
+2023-05-31 20:50:49,915 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7004217890
+2023-05-31 20:50:50,918 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/8941520100
+2023-05-31 20:50:51,414 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/8941520100
+2023-05-31 20:50:52,421 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57202532348
+2023-05-31 20:50:52,858 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57202532348
+2023-05-31 20:50:53,863 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6507025689
+2023-05-31 20:50:54,439 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/6507025689
+2023-05-31 20:50:55,444 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57205856244
+2023-05-31 20:50:55,909 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57205856244
+2023-05-31 20:50:56,915 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57191888659
+2023-05-31 20:50:57,425 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57191888659
+2023-06-01 17:21:59,102 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:22:00,000 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:23:43,969 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:23:44,773 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:24:57,683 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:24:58,474 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:27:29,459 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:27:30,231 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:29:03,482 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:29:04,451 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:30:10,978 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:30:11,973 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:30:18,486 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:30:19,272 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:32:13,956 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:32:14,784 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:32:19,516 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:32:20,410 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:32:46,029 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:32:46,743 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:33:30,460 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:33:31,303 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:33:36,496 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:33:37,222 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:35:42,741 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:35:43,590 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 17:35:57,242 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 17:35:57,932 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:08:37,131 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:08:38,178 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:09:57,465 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:09:58,358 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:10:26,247 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:10:27,045 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:14:45,157 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:14:46,215 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:15:51,913 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:15:52,653 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:16:21,076 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:16:21,893 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:25:06,039 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:25:07,022 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:41:56,524 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:41:57,334 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:42:10,394 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:42:11,105 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:42:37,956 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:42:38,956 - elsapy.utils - INFO - Converting prism:coverDate
+2023-06-01 18:42:48,167 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2824832026300%29
+2023-06-01 18:42:48,890 - elsapy.utils - INFO - Converting prism:coverDate
