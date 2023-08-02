@@ -18,6 +18,9 @@ docker-compose up
 ```
 
 Para correr el proyecto de Apache Airflow y tener en cuenta cambios realizados en el archivo docker-compose.yaml (Esto solo se corre si se hicieron cambios en docker-compose.yaml)
+
+Se recomiendo usarlo también cuando se agrega un Operator y genera algún error al intentar detectar dicho Operator.
+
 ```sh
 docker-compose up --build
 ```
@@ -108,6 +111,25 @@ Dado lo anterior, siempre se accederán a los datos mediante un path inicial: "s
 Si se quiere ejecutar uno primero que el otro acomodarlo de la siguiente manera:
 
 <img width="458" alt="Screenshot 2023-08-01 at 9 02 07 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/51a3873d-94ea-454f-8e2e-67b4ffc4bf0a">
+
+# Agregar datos nuevos
+
+<img width="295" alt="Screenshot 2023-08-01 at 9 03 41 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/c8d7d5f4-16f1-4d32-a9fb-aab04bd8c764">
+
+
+Ubicarse en la carpeta "data" y ahí agregar todas las carpetas y/o archivos necesarios.
+
+
+
+**Nota**
+Recordar que para acceder a los datos se debe mediante un path inicial: "self.dag_path/data/[PATH DEL ARCHIVO]" en el Operator.
+
+
+**Nota**
+Procurar no modificar la carpeta "BigQuery" ya que esta contiene las credenciales para conectarse a la bodega.
+
+
+
 
 
 
