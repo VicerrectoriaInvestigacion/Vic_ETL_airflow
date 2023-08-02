@@ -58,6 +58,14 @@ para poder ingresar a la consola de Airflow, ingresar la siguientes credenciales
 | Password | airflow |
 
 
+
+# Correr el DAG
+
+<img width="1760" alt="Screenshot 2023-08-01 at 9 09 14 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/c1f784db-66f4-4653-bbfa-845ada23fa5f">
+
+Hacer click en el botón de play, automáticamente el DAG se comenzará a ejecutar.
+
+
 # Agregar una nueva carpeta con datos
 
 <img width="349" alt="Screenshot 2023-06-26 at 5 57 26 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/1ae89e58-0053-46c5-9940-c34e2650ff24">
