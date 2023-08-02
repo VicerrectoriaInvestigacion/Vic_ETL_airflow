@@ -1,0 +1,22 @@
+[2023-08-01 23:32:15,041] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.profesores_validados manual__2023-08-01T23:32:12.145748+00:00 [queued]>
+[2023-08-01 23:32:15,058] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.profesores_validados manual__2023-08-01T23:32:12.145748+00:00 [queued]>
+[2023-08-01 23:32:15,060] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-01 23:32:15,062] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-08-01 23:32:15,064] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-01 23:32:15,106] {taskinstance.py:1397} INFO - Executing <Task(PrepareProfesoresValidados): profesores_validados> on 2023-08-01 23:32:12.145748+00:00
+[2023-08-01 23:32:15,123] {standard_task_runner.py:52} INFO - Started process 1861 to run task
+[2023-08-01 23:32:15,136] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'profesores_validados', 'manual__2023-08-01T23:32:12.145748+00:00', '--job-id', '176', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp0ouu1m41', '--error-file', '/tmp/tmpkhog4szc']
+[2023-08-01 23:32:15,140] {standard_task_runner.py:80} INFO - Job 176: Subtask profesores_validados
+[2023-08-01 23:32:15,384] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.profesores_validados manual__2023-08-01T23:32:12.145748+00:00 [running]> on host 6c8a51d4a614
+[2023-08-01 23:32:15,897] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=profesores_validados
+AIRFLOW_CTX_EXECUTION_DATE=2023-08-01T23:32:12.145748+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-08-01T23:32:12.145748+00:00
+[2023-08-01 23:32:15,907] {logging_mixin.py:115} INFO - Preparing Profesores validados
+[2023-08-01 23:32:21,522] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=profesores_validados, execution_date=20230801T233212, start_date=20230801T233215, end_date=20230801T233221
+[2023-08-01 23:32:21,945] {local_task_job.py:156} INFO - Task exited with return code 0

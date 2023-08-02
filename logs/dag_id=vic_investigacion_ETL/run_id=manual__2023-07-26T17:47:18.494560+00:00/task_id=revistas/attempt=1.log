@@ -1,0 +1,30 @@
+[2023-07-26 17:47:20,724] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.revistas manual__2023-07-26T17:47:18.494560+00:00 [queued]>
+[2023-07-26 17:47:20,740] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.revistas manual__2023-07-26T17:47:18.494560+00:00 [queued]>
+[2023-07-26 17:47:20,742] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-26 17:47:20,746] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-07-26 17:47:20,747] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-26 17:47:20,763] {taskinstance.py:1397} INFO - Executing <Task(PrepareRevistas): revistas> on 2023-07-26 17:47:18.494560+00:00
+[2023-07-26 17:47:20,777] {standard_task_runner.py:52} INFO - Started process 131 to run task
+[2023-07-26 17:47:20,785] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'revistas', 'manual__2023-07-26T17:47:18.494560+00:00', '--job-id', '141', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpphw1m5uz', '--error-file', '/tmp/tmpfp69yjcs']
+[2023-07-26 17:47:20,788] {standard_task_runner.py:80} INFO - Job 141: Subtask revistas
+[2023-07-26 17:47:20,940] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.revistas manual__2023-07-26T17:47:18.494560+00:00 [running]> on host 6c8a51d4a614
+[2023-07-26 17:47:21,074] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=revistas
+AIRFLOW_CTX_EXECUTION_DATE=2023-07-26T17:47:18.494560+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-07-26T17:47:18.494560+00:00
+[2023-07-26 17:47:21,082] {logging_mixin.py:115} INFO - Reading Journals
+[2023-07-26 17:47:21,084] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/airflow/dags/prepare_revistas_operator.py", line 20, in execute
+    self.cleanData()
+  File "/opt/airflow/dags/prepare_revistas_operator.py", line 24, in cleanData
+    self.cleanJournals()
+AttributeError: 'PrepareRevistas' object has no attribute 'cleanJournals'
+[2023-07-26 17:47:21,130] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=vic_investigacion_ETL, task_id=revistas, execution_date=20230726T174718, start_date=20230726T174720, end_date=20230726T174721
+[2023-07-26 17:47:21,169] {standard_task_runner.py:97} ERROR - Failed to execute job 141 for task revistas ('PrepareRevistas' object has no attribute 'cleanJournals'; 131)
+[2023-07-26 17:47:21,210] {local_task_job.py:156} INFO - Task exited with return code 1

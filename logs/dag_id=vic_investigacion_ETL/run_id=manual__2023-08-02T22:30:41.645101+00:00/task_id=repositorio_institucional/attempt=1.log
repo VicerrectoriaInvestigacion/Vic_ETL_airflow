@@ -1,0 +1,38 @@
+[2023-08-02 22:30:45,434] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-08-02T22:30:41.645101+00:00 [queued]>
+[2023-08-02 22:30:45,448] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-08-02T22:30:41.645101+00:00 [queued]>
+[2023-08-02 22:30:45,449] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-02 22:30:45,450] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-08-02 22:30:45,451] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-02 22:30:45,468] {taskinstance.py:1397} INFO - Executing <Task(PrepareRepositorioInstitucional): repositorio_institucional> on 2023-08-02 22:30:41.645101+00:00
+[2023-08-02 22:30:45,505] {standard_task_runner.py:52} INFO - Started process 596 to run task
+[2023-08-02 22:30:45,515] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'repositorio_institucional', 'manual__2023-08-02T22:30:41.645101+00:00', '--job-id', '202', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpsr95r5l0', '--error-file', '/tmp/tmp6ebvfhy6']
+[2023-08-02 22:30:45,523] {standard_task_runner.py:80} INFO - Job 202: Subtask repositorio_institucional
+[2023-08-02 22:30:45,741] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-08-02T22:30:41.645101+00:00 [running]> on host 6c8a51d4a614
+[2023-08-02 22:30:45,902] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=repositorio_institucional
+AIRFLOW_CTX_EXECUTION_DATE=2023-08-02T22:30:41.645101+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-08-02T22:30:41.645101+00:00
+[2023-08-02 22:30:45,908] {logging_mixin.py:115} INFO - Preparing Repositorio Institucional
+[2023-08-02 22:30:57,834] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/airflow/dags/prepare_repositorio_inst_operator.py", line 28, in execute
+    self.cleanData()
+  File "/opt/airflow/dags/prepare_repositorio_inst_operator.py", line 40, in cleanData
+    institucional.to_csv(f"{self.dag_path}/data/to_upload/rewrite/respositorio_inst.csv",index=False)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/to_upload/rewrite/respositorio_inst.csv'
+[2023-08-02 22:30:57,864] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=vic_investigacion_ETL, task_id=repositorio_institucional, execution_date=20230802T223041, start_date=20230802T223045, end_date=20230802T223057
+[2023-08-02 22:30:57,875] {standard_task_runner.py:97} ERROR - Failed to execute job 202 for task repositorio_institucional ([Errno 2] No such file or directory: '/opt/airflow/data/to_upload/rewrite/respositorio_inst.csv'; 596)
+[2023-08-02 22:30:57,994] {local_task_job.py:156} INFO - Task exited with return code 1

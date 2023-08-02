@@ -1,0 +1,22 @@
+[2023-08-02 22:32:51,548] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.revistas manual__2023-08-02T22:32:49.392259+00:00 [queued]>
+[2023-08-02 22:32:51,556] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.revistas manual__2023-08-02T22:32:49.392259+00:00 [queued]>
+[2023-08-02 22:32:51,557] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-02 22:32:51,558] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-08-02 22:32:51,558] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-02 22:32:51,569] {taskinstance.py:1397} INFO - Executing <Task(PrepareRevistas): revistas> on 2023-08-02 22:32:49.392259+00:00
+[2023-08-02 22:32:51,584] {standard_task_runner.py:52} INFO - Started process 735 to run task
+[2023-08-02 22:32:51,589] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'revistas', 'manual__2023-08-02T22:32:49.392259+00:00', '--job-id', '214', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpzftxjj6p', '--error-file', '/tmp/tmpuycsr7ol']
+[2023-08-02 22:32:51,590] {standard_task_runner.py:80} INFO - Job 214: Subtask revistas
+[2023-08-02 22:32:51,665] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.revistas manual__2023-08-02T22:32:49.392259+00:00 [running]> on host 6c8a51d4a614
+[2023-08-02 22:32:51,749] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=revistas
+AIRFLOW_CTX_EXECUTION_DATE=2023-08-02T22:32:49.392259+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-08-02T22:32:49.392259+00:00
+[2023-08-02 22:32:51,754] {logging_mixin.py:115} INFO - Reading Revistas
+[2023-08-02 22:33:33,629] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=revistas, execution_date=20230802T223249, start_date=20230802T223251, end_date=20230802T223333
+[2023-08-02 22:33:33,774] {local_task_job.py:156} INFO - Task exited with return code 0

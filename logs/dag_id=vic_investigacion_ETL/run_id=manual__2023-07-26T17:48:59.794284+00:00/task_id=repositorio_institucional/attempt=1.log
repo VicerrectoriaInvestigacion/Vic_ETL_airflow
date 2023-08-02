@@ -1,0 +1,22 @@
+[2023-07-26 17:49:02,654] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-07-26T17:48:59.794284+00:00 [queued]>
+[2023-07-26 17:49:02,669] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-07-26T17:48:59.794284+00:00 [queued]>
+[2023-07-26 17:49:02,677] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-26 17:49:02,679] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-07-26 17:49:02,684] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-26 17:49:02,704] {taskinstance.py:1397} INFO - Executing <Task(PrepareRepositorioInstitucional): repositorio_institucional> on 2023-07-26 17:48:59.794284+00:00
+[2023-07-26 17:49:02,719] {standard_task_runner.py:52} INFO - Started process 237 to run task
+[2023-07-26 17:49:02,765] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'repositorio_institucional', 'manual__2023-07-26T17:48:59.794284+00:00', '--job-id', '151', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpmpz_6w9h', '--error-file', '/tmp/tmpx9srrs9e']
+[2023-07-26 17:49:02,770] {standard_task_runner.py:80} INFO - Job 151: Subtask repositorio_institucional
+[2023-07-26 17:49:03,046] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-07-26T17:48:59.794284+00:00 [running]> on host 6c8a51d4a614
+[2023-07-26 17:49:03,569] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=repositorio_institucional
+AIRFLOW_CTX_EXECUTION_DATE=2023-07-26T17:48:59.794284+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-07-26T17:48:59.794284+00:00
+[2023-07-26 17:49:03,589] {logging_mixin.py:115} INFO - Preparing Repositorio Institucional
+[2023-07-26 17:49:33,572] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=repositorio_institucional, execution_date=20230726T174859, start_date=20230726T174902, end_date=20230726T174933
+[2023-07-26 17:49:33,899] {local_task_job.py:156} INFO - Task exited with return code 0

@@ -1,0 +1,45 @@
+[2023-07-04 23:43:14,793] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-04T23:43:12.068605+00:00 [queued]>
+[2023-07-04 23:43:14,798] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-04T23:43:12.068605+00:00 [queued]>
+[2023-07-04 23:43:14,798] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-04 23:43:14,799] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-07-04 23:43:14,799] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-04 23:43:14,806] {taskinstance.py:1397} INFO - Executing <Task(ExportData): upload_data_big_query> on 2023-07-04 23:43:12.068605+00:00
+[2023-07-04 23:43:14,811] {standard_task_runner.py:52} INFO - Started process 2193 to run task
+[2023-07-04 23:43:14,814] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'upload_data_big_query', 'manual__2023-07-04T23:43:12.068605+00:00', '--job-id', '44', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpk15akxbi', '--error-file', '/tmp/tmp28mry5o1']
+[2023-07-04 23:43:14,818] {standard_task_runner.py:80} INFO - Job 44: Subtask upload_data_big_query
+[2023-07-04 23:43:14,867] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-04T23:43:12.068605+00:00 [running]> on host f4f0af373b5a
+[2023-07-04 23:43:14,911] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=upload_data_big_query
+AIRFLOW_CTX_EXECUTION_DATE=2023-07-04T23:43:12.068605+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-07-04T23:43:12.068605+00:00
+[2023-07-04 23:43:14,912] {logging_mixin.py:115} INFO - Exporting Data
+[2023-07-04 23:43:14,913] {logging_mixin.py:115} INFO - /opt/***/data/to_upload/journals.xlsx
+[2023-07-04 23:43:14,914] {logging_mixin.py:115} INFO - FileName: journals
+[2023-07-04 23:43:15,251] {logging_mixin.py:115} INFO -        ISSN                              Name  ... Category Vigencia Minciencias
+0  14741741         Nature Reviews Immunology  ...      NaN                  NaN
+1  17401534       Nature Reviews Microbiology  ...      NaN                  NaN
+2  17483395             Nature Nanotechnology  ...      NaN                  NaN
+3  17545706  Energy and Environmental Science  ...      NaN                  NaN
+4  0147006X     Annual Review of Neuroscience  ...      NaN                  NaN
+
+[5 rows x 9 columns]
+[2023-07-04 23:43:24,015] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=380c2c5c-3a60-4a58-99aa-e242dae36fde>
+[2023-07-04 23:43:24,017] {logging_mixin.py:115} INFO - /opt/***/data/to_upload/produccion_validada.csv
+[2023-07-04 23:43:24,020] {logging_mixin.py:115} INFO - FileName: produccion_validada
+[2023-07-04 23:43:24,166] {logging_mixin.py:115} INFO -                     Programa_de_creacion  ... Afiliacion_Citantes_Google_Scholar
+0  Pregrado en Ciencia de la Información  ...                                NaN
+1  Pregrado en Ciencia de la Información  ...                                NaN
+2  Pregrado en Ciencia de la Información  ...                                NaN
+3  Pregrado en Ciencia de la Información  ...                                NaN
+4  Pregrado en Ciencia de la Información  ...                                NaN
+
+[5 rows x 27 columns]
+[2023-07-04 23:43:30,511] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=27a9c0d7-06a8-4bab-84e9-84aaa2aac854>
+[2023-07-04 23:43:30,530] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=upload_data_big_query, execution_date=20230704T234312, start_date=20230704T234314, end_date=20230704T234330
+[2023-07-04 23:43:30,649] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-07-04 23:43:30,673] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

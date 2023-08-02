@@ -1,0 +1,22 @@
+[2023-07-26 17:18:24,030] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.proyectos manual__2023-07-26T17:18:22.074003+00:00 [queued]>
+[2023-07-26 17:18:24,042] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.proyectos manual__2023-07-26T17:18:22.074003+00:00 [queued]>
+[2023-07-26 17:18:24,043] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-26 17:18:24,043] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-07-26 17:18:24,044] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-26 17:18:24,055] {taskinstance.py:1397} INFO - Executing <Task(PrepareProyectos): proyectos> on 2023-07-26 17:18:22.074003+00:00
+[2023-07-26 17:18:24,063] {standard_task_runner.py:52} INFO - Started process 147 to run task
+[2023-07-26 17:18:24,070] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'proyectos', 'manual__2023-07-26T17:18:22.074003+00:00', '--job-id', '123', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp9446e47i', '--error-file', '/tmp/tmpan8_mf2a']
+[2023-07-26 17:18:24,073] {standard_task_runner.py:80} INFO - Job 123: Subtask proyectos
+[2023-07-26 17:18:24,194] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.proyectos manual__2023-07-26T17:18:22.074003+00:00 [running]> on host 6c8a51d4a614
+[2023-07-26 17:18:24,288] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=proyectos
+AIRFLOW_CTX_EXECUTION_DATE=2023-07-26T17:18:22.074003+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-07-26T17:18:22.074003+00:00
+[2023-07-26 17:18:24,293] {logging_mixin.py:115} INFO - Reading Journals
+[2023-07-26 17:18:31,695] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=proyectos, execution_date=20230726T171822, start_date=20230726T171824, end_date=20230726T171831
+[2023-07-26 17:18:31,774] {local_task_job.py:156} INFO - Task exited with return code 0

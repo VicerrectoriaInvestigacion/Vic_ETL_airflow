@@ -1,0 +1,76 @@
+[2023-07-11 23:22:07,289] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-11T23:21:59.735209+00:00 [queued]>
+[2023-07-11 23:22:07,297] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-11T23:21:59.735209+00:00 [queued]>
+[2023-07-11 23:22:07,298] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-11 23:22:07,299] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-07-11 23:22:07,299] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-11 23:22:07,308] {taskinstance.py:1397} INFO - Executing <Task(ExportData): upload_data_big_query> on 2023-07-11 23:21:59.735209+00:00
+[2023-07-11 23:22:07,314] {standard_task_runner.py:52} INFO - Started process 75798 to run task
+[2023-07-11 23:22:07,317] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'upload_data_big_query', 'manual__2023-07-11T23:21:59.735209+00:00', '--job-id', '60', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp0yeuhl27', '--error-file', '/tmp/tmpbnc5xz5b']
+[2023-07-11 23:22:07,319] {standard_task_runner.py:80} INFO - Job 60: Subtask upload_data_big_query
+[2023-07-11 23:22:07,376] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-11T23:21:59.735209+00:00 [running]> on host f4f0af373b5a
+[2023-07-11 23:22:07,430] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=upload_data_big_query
+AIRFLOW_CTX_EXECUTION_DATE=2023-07-11T23:21:59.735209+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-07-11T23:21:59.735209+00:00
+[2023-07-11 23:22:07,432] {logging_mixin.py:115} INFO - Exporting Data
+[2023-07-11 23:22:07,434] {logging_mixin.py:115} INFO - /opt/***/data/to_upload/journals.xlsx
+[2023-07-11 23:22:07,435] {logging_mixin.py:115} INFO - FileName: journals
+[2023-07-11 23:22:09,036] {logging_mixin.py:115} INFO -        ISSN                              Name  ... Category Vigencia Minciencias
+0  14741741         Nature Reviews Immunology  ...      NaN                  NaN
+1  17401534       Nature Reviews Microbiology  ...      NaN                  NaN
+2  17483395             Nature Nanotechnology  ...      NaN                  NaN
+3  17545706  Energy and Environmental Science  ...      NaN                  NaN
+4  0147006X     Annual Review of Neuroscience  ...      NaN                  NaN
+
+[5 rows x 9 columns]
+[2023-07-11 23:22:17,694] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=a125a010-b18b-406f-82e2-b4a0ba9042ac>
+[2023-07-11 23:22:17,698] {logging_mixin.py:115} INFO - /opt/***/data/to_upload/produccion_validada.csv
+[2023-07-11 23:22:17,698] {logging_mixin.py:115} INFO - FileName: produccion_validada
+[2023-07-11 23:22:17,919] {logging_mixin.py:115} INFO -                     Programa_de_creacion  ... Afiliacion_Citantes_Google_Scholar
+0  Pregrado en Ciencia de la Información  ...                                NaN
+1  Pregrado en Ciencia de la Información  ...                                NaN
+2  Pregrado en Ciencia de la Información  ...                                NaN
+3  Pregrado en Ciencia de la Información  ...                                NaN
+4  Pregrado en Ciencia de la Información  ...                                NaN
+
+[5 rows x 27 columns]
+[2023-07-11 23:22:21,831] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=d028dc05-304c-46c0-9c71-e3513f543fc8>
+[2023-07-11 23:22:21,833] {logging_mixin.py:115} INFO - /opt/***/data/to_upload/profesores_validados.csv
+[2023-07-11 23:22:21,834] {logging_mixin.py:115} INFO - FileName: profesores_validados
+[2023-07-11 23:22:21,860] {logging_mixin.py:115} INFO -   Observaciones                        Nombre  ... Tipo ID_Clínico
+0           NaN         Juliana Atuesta Ortiz  ...  NaN        NaN
+1           NaN  José Alejandro Convers Elias  ...  NaN        NaN
+2           NaN   Catalina del Castillo Silva  ...  NaN        NaN
+3           NaN    Sara Regina Fonseca García  ...  NaN        NaN
+4           NaN       Eloisa Jaramillo Arango  ...  NaN        NaN
+
+[5 rows x 15 columns]
+[2023-07-11 23:22:25,460] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=68bca410-3767-4e1c-863c-b9a024006691>
+[2023-07-11 23:22:25,464] {logging_mixin.py:115} INFO - /opt/***/data/to_upload/profesores_validados_scopus_ids.csv
+[2023-07-11 23:22:25,467] {logging_mixin.py:115} INFO - FileName: profesores_validados_scopus_ids
+[2023-07-11 23:22:25,491] {logging_mixin.py:115} INFO -       Scopus_ID  ID_documento
+0  1.340983e+10      79378553
+1  1.404559e+10      19444788
+2  1.502611e+10      39786577
+3  1.503012e+10      74380875
+4  1.575824e+10      98494191
+[2023-07-11 23:22:29,036] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=8481e8bc-4d02-456a-96e5-cb6ff464853d>
+[2023-07-11 23:22:29,038] {logging_mixin.py:115} INFO - /opt/***/data/to_upload/respositorio_inst.xlsx
+[2023-07-11 23:22:29,039] {logging_mixin.py:115} INFO - FileName: respositorio_inst
+[2023-07-11 23:22:33,277] {logging_mixin.py:115} INFO -         Autor_dc_contributor_author  ...                            Temas_dc_subject_armarc
+0  Castañeda Acosta, Javier Alberto  ...  Trinidad - Comunión - Vida religiosa - Teolog...
+1    Florián Sánchez, Hans Leonardo  ...  Hospitalidad - Pedagogía - Internacionalismo ...
+2       Bejarano Puello, Rosa María  ...  Administración de la calidad - Mejoramiento de...
+3           Peralta Bonilla, Berlly  ...  Páramos - Colombia - Conservación del medio am...
+4           Rodríguez Angulo, Pablo  ...  Dignidad - Justicia - Violencia - Aspectos fil...
+
+[5 rows x 15 columns]
+[2023-07-11 23:22:47,607] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=acd61aea-bbb6-4567-a4ef-7711c17465ec>
+[2023-07-11 23:22:49,223] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=upload_data_big_query, execution_date=20230711T232159, start_date=20230711T232207, end_date=20230711T232249
+[2023-07-11 23:22:50,171] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-07-11 23:22:50,258] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

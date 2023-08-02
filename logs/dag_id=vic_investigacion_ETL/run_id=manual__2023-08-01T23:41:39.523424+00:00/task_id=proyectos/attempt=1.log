@@ -1,0 +1,47 @@
+[2023-08-01 23:41:43,141] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.proyectos manual__2023-08-01T23:41:39.523424+00:00 [queued]>
+[2023-08-01 23:41:43,171] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.proyectos manual__2023-08-01T23:41:39.523424+00:00 [queued]>
+[2023-08-01 23:41:43,172] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-01 23:41:43,174] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-08-01 23:41:43,178] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-01 23:41:43,265] {taskinstance.py:1397} INFO - Executing <Task(PrepareProyectos): proyectos> on 2023-08-01 23:41:39.523424+00:00
+[2023-08-01 23:41:43,333] {standard_task_runner.py:52} INFO - Started process 2337 to run task
+[2023-08-01 23:41:43,411] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'proyectos', 'manual__2023-08-01T23:41:39.523424+00:00', '--job-id', '183', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmpi2u97lgq', '--error-file', '/tmp/tmpuu9v88ku']
+[2023-08-01 23:41:43,425] {standard_task_runner.py:80} INFO - Job 183: Subtask proyectos
+[2023-08-01 23:41:43,834] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.proyectos manual__2023-08-01T23:41:39.523424+00:00 [running]> on host 6c8a51d4a614
+[2023-08-01 23:41:44,156] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=proyectos
+AIRFLOW_CTX_EXECUTION_DATE=2023-08-01T23:41:39.523424+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-08-01T23:41:39.523424+00:00
+[2023-08-01 23:41:44,175] {logging_mixin.py:115} INFO - Reading Journals
+[2023-08-01 23:41:54,057] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 3361, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas/_libs/index.pyx", line 76, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 108, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 5198, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 5206, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'FECHA DE NEGOCIACION'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/airflow/dags/prepare_proyectos_operator.py", line 22, in execute
+    self.cleanData()
+  File "/opt/airflow/dags/prepare_proyectos_operator.py", line 26, in cleanData
+    self.cleanProyectos()
+  File "/opt/airflow/dags/prepare_proyectos_operator.py", line 39, in cleanProyectos
+    proyectos['FECHA DE NEGOCIACION'] = proyectos['FECHA DE NEGOCIACION'].apply(lambda x: self._convert_to_datetime(x))
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/frame.py", line 3458, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 3363, in get_loc
+    raise KeyError(key) from err
+KeyError: 'FECHA DE NEGOCIACION'
+[2023-08-01 23:41:54,125] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=vic_investigacion_ETL, task_id=proyectos, execution_date=20230801T234139, start_date=20230801T234143, end_date=20230801T234154
+[2023-08-01 23:41:54,155] {standard_task_runner.py:97} ERROR - Failed to execute job 183 for task proyectos ('FECHA DE NEGOCIACION'; 2337)
+[2023-08-01 23:41:54,325] {local_task_job.py:156} INFO - Task exited with return code 1

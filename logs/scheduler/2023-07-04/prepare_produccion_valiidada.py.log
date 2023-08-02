@@ -1,0 +1,290 @@
+[2023-07-04 22:45:19,375] {processor.py:153} INFO - Started process (PID=10112) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:45:19,376] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:45:19,377] {logging_mixin.py:115} INFO - [2023-07-04 22:45:19,377] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:45:19,391] {logging_mixin.py:115} INFO - [2023-07-04 22:45:19,390] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:19,616] {logging_mixin.py:115} INFO - [2023-07-04 22:45:19,616] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:19,619] {logging_mixin.py:115} INFO - [2023-07-04 22:45:19,618] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:19,621] {logging_mixin.py:115} INFO - [2023-07-04 22:45:19,620] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:19,623] {logging_mixin.py:115} INFO - [2023-07-04 22:45:19,623] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:19,623] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:45:19,635] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.264 seconds
+[2023-07-04 22:45:50,284] {processor.py:153} INFO - Started process (PID=10154) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:45:50,285] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:45:50,286] {logging_mixin.py:115} INFO - [2023-07-04 22:45:50,286] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:45:50,295] {logging_mixin.py:115} INFO - [2023-07-04 22:45:50,294] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:50,516] {logging_mixin.py:115} INFO - [2023-07-04 22:45:50,515] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:50,519] {logging_mixin.py:115} INFO - [2023-07-04 22:45:50,518] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:50,521] {logging_mixin.py:115} INFO - [2023-07-04 22:45:50,521] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:50,524] {logging_mixin.py:115} INFO - [2023-07-04 22:45:50,523] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:45:50,524] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:45:50,535] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.257 seconds
+[2023-07-04 22:46:21,018] {processor.py:153} INFO - Started process (PID=10203) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:21,020] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:46:21,021] {logging_mixin.py:115} INFO - [2023-07-04 22:46:21,021] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:21,037] {logging_mixin.py:115} INFO - [2023-07-04 22:46:21,036] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:21,248] {logging_mixin.py:115} INFO - [2023-07-04 22:46:21,247] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:21,250] {logging_mixin.py:115} INFO - [2023-07-04 22:46:21,249] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:21,252] {logging_mixin.py:115} INFO - [2023-07-04 22:46:21,252] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:21,254] {logging_mixin.py:115} INFO - [2023-07-04 22:46:21,254] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:21,255] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:21,265] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.254 seconds
+[2023-07-04 22:46:25,126] {processor.py:153} INFO - Started process (PID=10230) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:25,127] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:46:25,129] {logging_mixin.py:115} INFO - [2023-07-04 22:46:25,128] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:25,142] {logging_mixin.py:115} INFO - [2023-07-04 22:46:25,142] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:25,384] {logging_mixin.py:115} INFO - [2023-07-04 22:46:25,384] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:25,387] {logging_mixin.py:115} INFO - [2023-07-04 22:46:25,387] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:25,390] {logging_mixin.py:115} INFO - [2023-07-04 22:46:25,390] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:25,393] {logging_mixin.py:115} INFO - [2023-07-04 22:46:25,392] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:25,393] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:25,408] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.285 seconds
+[2023-07-04 22:46:30,509] {processor.py:153} INFO - Started process (PID=10232) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:30,510] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:46:30,512] {logging_mixin.py:115} INFO - [2023-07-04 22:46:30,512] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:30,539] {logging_mixin.py:115} INFO - [2023-07-04 22:46:30,538] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:30,877] {logging_mixin.py:115} INFO - [2023-07-04 22:46:30,875] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:30,882] {logging_mixin.py:115} INFO - [2023-07-04 22:46:30,881] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:30,885] {logging_mixin.py:115} INFO - [2023-07-04 22:46:30,884] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:30,888] {logging_mixin.py:115} INFO - [2023-07-04 22:46:30,887] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:46:30,889] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:46:30,908] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.407 seconds
+[2023-07-04 22:47:01,256] {processor.py:153} INFO - Started process (PID=10281) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:01,257] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:47:01,259] {logging_mixin.py:115} INFO - [2023-07-04 22:47:01,259] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:01,272] {logging_mixin.py:115} INFO - [2023-07-04 22:47:01,271] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:01,507] {logging_mixin.py:115} INFO - [2023-07-04 22:47:01,507] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:01,510] {logging_mixin.py:115} INFO - [2023-07-04 22:47:01,509] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:01,512] {logging_mixin.py:115} INFO - [2023-07-04 22:47:01,512] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:01,515] {logging_mixin.py:115} INFO - [2023-07-04 22:47:01,514] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:01,515] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:01,526] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.278 seconds
+[2023-07-04 22:47:04,601] {processor.py:153} INFO - Started process (PID=10283) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:04,603] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:47:04,605] {logging_mixin.py:115} INFO - [2023-07-04 22:47:04,605] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:04,626] {logging_mixin.py:115} INFO - [2023-07-04 22:47:04,626] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:04,883] {logging_mixin.py:115} INFO - [2023-07-04 22:47:04,883] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:04,886] {logging_mixin.py:115} INFO - [2023-07-04 22:47:04,885] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:04,888] {logging_mixin.py:115} INFO - [2023-07-04 22:47:04,887] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:04,890] {logging_mixin.py:115} INFO - [2023-07-04 22:47:04,889] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:04,890] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:04,901] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.309 seconds
+[2023-07-04 22:47:08,616] {processor.py:153} INFO - Started process (PID=10294) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:08,617] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:47:08,618] {logging_mixin.py:115} INFO - [2023-07-04 22:47:08,618] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:08,633] {logging_mixin.py:115} INFO - [2023-07-04 22:47:08,632] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:09,098] {logging_mixin.py:115} INFO - [2023-07-04 22:47:09,098] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:09,102] {logging_mixin.py:115} INFO - [2023-07-04 22:47:09,101] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:09,105] {logging_mixin.py:115} INFO - [2023-07-04 22:47:09,104] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:09,108] {logging_mixin.py:115} INFO - [2023-07-04 22:47:09,107] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:09,109] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:09,132] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.519 seconds
+[2023-07-04 22:47:39,882] {processor.py:153} INFO - Started process (PID=10344) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:39,883] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:47:39,883] {logging_mixin.py:115} INFO - [2023-07-04 22:47:39,883] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:39,891] {logging_mixin.py:115} INFO - [2023-07-04 22:47:39,891] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:40,114] {logging_mixin.py:115} INFO - [2023-07-04 22:47:40,113] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:40,117] {logging_mixin.py:115} INFO - [2023-07-04 22:47:40,116] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:40,119] {logging_mixin.py:115} INFO - [2023-07-04 22:47:40,119] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:40,122] {logging_mixin.py:115} INFO - [2023-07-04 22:47:40,121] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:47:40,123] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:47:40,133] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.254 seconds
+[2023-07-04 22:48:10,530] {processor.py:153} INFO - Started process (PID=10385) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:48:10,532] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:48:10,534] {logging_mixin.py:115} INFO - [2023-07-04 22:48:10,534] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:48:10,550] {logging_mixin.py:115} INFO - [2023-07-04 22:48:10,549] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:10,774] {logging_mixin.py:115} INFO - [2023-07-04 22:48:10,773] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:10,776] {logging_mixin.py:115} INFO - [2023-07-04 22:48:10,776] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:10,778] {logging_mixin.py:115} INFO - [2023-07-04 22:48:10,778] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:10,781] {logging_mixin.py:115} INFO - [2023-07-04 22:48:10,780] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:10,781] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:48:10,791] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.270 seconds
+[2023-07-04 22:48:41,427] {processor.py:153} INFO - Started process (PID=10435) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:48:41,431] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:48:41,433] {logging_mixin.py:115} INFO - [2023-07-04 22:48:41,433] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:48:41,457] {logging_mixin.py:115} INFO - [2023-07-04 22:48:41,456] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:41,788] {logging_mixin.py:115} INFO - [2023-07-04 22:48:41,788] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:41,791] {logging_mixin.py:115} INFO - [2023-07-04 22:48:41,790] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:41,793] {logging_mixin.py:115} INFO - [2023-07-04 22:48:41,793] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:41,795] {logging_mixin.py:115} INFO - [2023-07-04 22:48:41,795] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:48:41,796] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:48:41,808] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.389 seconds
+[2023-07-04 22:49:12,131] {processor.py:153} INFO - Started process (PID=10484) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:49:12,134] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:49:12,135] {logging_mixin.py:115} INFO - [2023-07-04 22:49:12,135] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:49:12,152] {logging_mixin.py:115} INFO - [2023-07-04 22:49:12,151] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:12,410] {logging_mixin.py:115} INFO - [2023-07-04 22:49:12,409] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:12,412] {logging_mixin.py:115} INFO - [2023-07-04 22:49:12,412] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:12,414] {logging_mixin.py:115} INFO - [2023-07-04 22:49:12,414] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:12,416] {logging_mixin.py:115} INFO - [2023-07-04 22:49:12,416] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:12,417] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:49:12,427] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.307 seconds
+[2023-07-04 22:49:42,980] {processor.py:153} INFO - Started process (PID=10534) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:49:42,981] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:49:42,983] {logging_mixin.py:115} INFO - [2023-07-04 22:49:42,983] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:49:42,997] {logging_mixin.py:115} INFO - [2023-07-04 22:49:42,996] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:43,432] {logging_mixin.py:115} INFO - [2023-07-04 22:49:43,431] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:43,435] {logging_mixin.py:115} INFO - [2023-07-04 22:49:43,434] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:43,437] {logging_mixin.py:115} INFO - [2023-07-04 22:49:43,437] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:43,439] {logging_mixin.py:115} INFO - [2023-07-04 22:49:43,439] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:49:43,440] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:49:43,453] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.485 seconds
+[2023-07-04 22:52:17,528] {processor.py:153} INFO - Started process (PID=43) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:52:17,529] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:52:17,532] {logging_mixin.py:115} INFO - [2023-07-04 22:52:17,531] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:52:17,548] {logging_mixin.py:115} INFO - [2023-07-04 22:52:17,547] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:18,022] {logging_mixin.py:115} INFO - [2023-07-04 22:52:18,010] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:18,032] {logging_mixin.py:115} INFO - [2023-07-04 22:52:18,031] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:18,043] {logging_mixin.py:115} INFO - [2023-07-04 22:52:18,038] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:18,050] {logging_mixin.py:115} INFO - [2023-07-04 22:52:18,049] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:18,052] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:52:18,106] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.583 seconds
+[2023-07-04 22:52:48,426] {processor.py:153} INFO - Started process (PID=93) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:52:48,428] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:52:48,430] {logging_mixin.py:115} INFO - [2023-07-04 22:52:48,429] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:52:48,448] {logging_mixin.py:115} INFO - [2023-07-04 22:52:48,447] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:48,737] {logging_mixin.py:115} INFO - [2023-07-04 22:52:48,737] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:48,740] {logging_mixin.py:115} INFO - [2023-07-04 22:52:48,740] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:48,749] {logging_mixin.py:115} INFO - [2023-07-04 22:52:48,742] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:48,767] {logging_mixin.py:115} INFO - [2023-07-04 22:52:48,758] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:52:48,769] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:52:48,798] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.382 seconds
+[2023-07-04 22:53:18,966] {processor.py:153} INFO - Started process (PID=144) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:53:18,968] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:53:18,969] {logging_mixin.py:115} INFO - [2023-07-04 22:53:18,968] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:53:18,977] {logging_mixin.py:115} INFO - [2023-07-04 22:53:18,977] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:19,280] {logging_mixin.py:115} INFO - [2023-07-04 22:53:19,280] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:19,282] {logging_mixin.py:115} INFO - [2023-07-04 22:53:19,282] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:19,285] {logging_mixin.py:115} INFO - [2023-07-04 22:53:19,284] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:19,286] {logging_mixin.py:115} INFO - [2023-07-04 22:53:19,286] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:19,287] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:53:19,298] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.335 seconds
+[2023-07-04 22:53:49,517] {processor.py:153} INFO - Started process (PID=196) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:53:49,518] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:53:49,519] {logging_mixin.py:115} INFO - [2023-07-04 22:53:49,519] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:53:49,531] {logging_mixin.py:115} INFO - [2023-07-04 22:53:49,530] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:49,934] {logging_mixin.py:115} INFO - [2023-07-04 22:53:49,933] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:49,937] {logging_mixin.py:115} INFO - [2023-07-04 22:53:49,936] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:49,939] {logging_mixin.py:115} INFO - [2023-07-04 22:53:49,938] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:49,941] {logging_mixin.py:115} INFO - [2023-07-04 22:53:49,941] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:53:49,942] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:53:49,959] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.447 seconds
+[2023-07-04 22:54:20,072] {processor.py:153} INFO - Started process (PID=238) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:20,075] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:54:20,077] {logging_mixin.py:115} INFO - [2023-07-04 22:54:20,077] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:20,108] {logging_mixin.py:115} INFO - [2023-07-04 22:54:20,107] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:20,410] {logging_mixin.py:115} INFO - [2023-07-04 22:54:20,410] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:20,413] {logging_mixin.py:115} INFO - [2023-07-04 22:54:20,413] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:20,416] {logging_mixin.py:115} INFO - [2023-07-04 22:54:20,415] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:20,418] {logging_mixin.py:115} INFO - [2023-07-04 22:54:20,417] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:20,419] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:20,432] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.369 seconds
+[2023-07-04 22:54:50,667] {processor.py:153} INFO - Started process (PID=290) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:50,670] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:54:50,672] {logging_mixin.py:115} INFO - [2023-07-04 22:54:50,672] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:50,693] {logging_mixin.py:115} INFO - [2023-07-04 22:54:50,692] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:51,033] {logging_mixin.py:115} INFO - [2023-07-04 22:54:51,033] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:51,036] {logging_mixin.py:115} INFO - [2023-07-04 22:54:51,036] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:51,042] {logging_mixin.py:115} INFO - [2023-07-04 22:54:51,038] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:51,045] {logging_mixin.py:115} INFO - [2023-07-04 22:54:51,045] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:51,046] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:51,059] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.401 seconds
+[2023-07-04 22:54:56,853] {processor.py:153} INFO - Started process (PID=323) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:56,855] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:54:56,856] {logging_mixin.py:115} INFO - [2023-07-04 22:54:56,856] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:56,876] {logging_mixin.py:115} INFO - [2023-07-04 22:54:56,875] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:57,152] {logging_mixin.py:115} INFO - [2023-07-04 22:54:57,152] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:57,155] {logging_mixin.py:115} INFO - [2023-07-04 22:54:57,155] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:57,157] {logging_mixin.py:115} INFO - [2023-07-04 22:54:57,156] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:57,160] {logging_mixin.py:115} INFO - [2023-07-04 22:54:57,160] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:54:57,161] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:54:57,175] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.329 seconds
+[2023-07-04 22:55:27,819] {processor.py:153} INFO - Started process (PID=374) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:55:27,820] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:55:27,821] {logging_mixin.py:115} INFO - [2023-07-04 22:55:27,821] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:55:27,830] {logging_mixin.py:115} INFO - [2023-07-04 22:55:27,829] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:28,037] {logging_mixin.py:115} INFO - [2023-07-04 22:55:28,036] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:28,039] {logging_mixin.py:115} INFO - [2023-07-04 22:55:28,039] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:28,042] {logging_mixin.py:115} INFO - [2023-07-04 22:55:28,041] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:28,044] {logging_mixin.py:115} INFO - [2023-07-04 22:55:28,043] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:28,044] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:55:28,056] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.240 seconds
+[2023-07-04 22:55:58,339] {processor.py:153} INFO - Started process (PID=415) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:55:58,340] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:55:58,341] {logging_mixin.py:115} INFO - [2023-07-04 22:55:58,341] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:55:58,348] {logging_mixin.py:115} INFO - [2023-07-04 22:55:58,348] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:58,560] {logging_mixin.py:115} INFO - [2023-07-04 22:55:58,559] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:58,562] {logging_mixin.py:115} INFO - [2023-07-04 22:55:58,561] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:58,564] {logging_mixin.py:115} INFO - [2023-07-04 22:55:58,563] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:58,566] {logging_mixin.py:115} INFO - [2023-07-04 22:55:58,565] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:55:58,566] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:55:58,577] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.241 seconds
+[2023-07-04 22:56:28,656] {processor.py:153} INFO - Started process (PID=466) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:56:28,657] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:56:28,658] {logging_mixin.py:115} INFO - [2023-07-04 22:56:28,658] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:56:28,665] {logging_mixin.py:115} INFO - [2023-07-04 22:56:28,665] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:28,889] {logging_mixin.py:115} INFO - [2023-07-04 22:56:28,889] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:28,892] {logging_mixin.py:115} INFO - [2023-07-04 22:56:28,892] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:28,895] {logging_mixin.py:115} INFO - [2023-07-04 22:56:28,894] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:28,897] {logging_mixin.py:115} INFO - [2023-07-04 22:56:28,897] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:28,898] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:56:28,913] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.261 seconds
+[2023-07-04 22:56:59,036] {processor.py:153} INFO - Started process (PID=516) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:56:59,038] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:56:59,039] {logging_mixin.py:115} INFO - [2023-07-04 22:56:59,039] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:56:59,051] {logging_mixin.py:115} INFO - [2023-07-04 22:56:59,050] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:59,280] {logging_mixin.py:115} INFO - [2023-07-04 22:56:59,280] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:59,283] {logging_mixin.py:115} INFO - [2023-07-04 22:56:59,282] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:59,284] {logging_mixin.py:115} INFO - [2023-07-04 22:56:59,284] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:59,286] {logging_mixin.py:115} INFO - [2023-07-04 22:56:59,286] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:56:59,287] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:56:59,298] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.266 seconds
+[2023-07-04 22:57:29,622] {processor.py:153} INFO - Started process (PID=567) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:57:29,625] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:57:29,627] {logging_mixin.py:115} INFO - [2023-07-04 22:57:29,626] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:57:29,641] {logging_mixin.py:115} INFO - [2023-07-04 22:57:29,640] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:57:29,870] {logging_mixin.py:115} INFO - [2023-07-04 22:57:29,870] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:57:29,873] {logging_mixin.py:115} INFO - [2023-07-04 22:57:29,873] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:57:29,875] {logging_mixin.py:115} INFO - [2023-07-04 22:57:29,875] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:57:29,878] {logging_mixin.py:115} INFO - [2023-07-04 22:57:29,878] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:57:29,879] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:57:29,890] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.276 seconds
+[2023-07-04 22:58:00,303] {processor.py:153} INFO - Started process (PID=618) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:00,306] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:58:00,308] {logging_mixin.py:115} INFO - [2023-07-04 22:58:00,308] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:00,321] {logging_mixin.py:115} INFO - [2023-07-04 22:58:00,321] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:00,551] {logging_mixin.py:115} INFO - [2023-07-04 22:58:00,551] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:00,554] {logging_mixin.py:115} INFO - [2023-07-04 22:58:00,553] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:00,556] {logging_mixin.py:115} INFO - [2023-07-04 22:58:00,555] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:00,558] {logging_mixin.py:115} INFO - [2023-07-04 22:58:00,557] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:00,558] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:00,569] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.273 seconds
+[2023-07-04 22:58:02,422] {processor.py:153} INFO - Started process (PID=620) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:02,424] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:58:02,426] {logging_mixin.py:115} INFO - [2023-07-04 22:58:02,425] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:02,448] {logging_mixin.py:115} INFO - [2023-07-04 22:58:02,447] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:02,662] {logging_mixin.py:115} INFO - [2023-07-04 22:58:02,661] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:02,664] {logging_mixin.py:115} INFO - [2023-07-04 22:58:02,664] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:02,666] {logging_mixin.py:115} INFO - [2023-07-04 22:58:02,666] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:02,668] {logging_mixin.py:115} INFO - [2023-07-04 22:58:02,668] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:02,669] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:02,679] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.263 seconds
+[2023-07-04 22:58:25,830] {processor.py:153} INFO - Started process (PID=640) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:25,833] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:58:25,834] {logging_mixin.py:115} INFO - [2023-07-04 22:58:25,834] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:25,857] {logging_mixin.py:115} INFO - [2023-07-04 22:58:25,856] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:26,187] {logging_mixin.py:115} INFO - [2023-07-04 22:58:26,186] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:26,189] {logging_mixin.py:115} INFO - [2023-07-04 22:58:26,189] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:26,191] {logging_mixin.py:115} INFO - [2023-07-04 22:58:26,191] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:26,194] {logging_mixin.py:115} INFO - [2023-07-04 22:58:26,194] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:26,196] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:26,214] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.391 seconds
+[2023-07-04 22:58:56,362] {processor.py:153} INFO - Started process (PID=693) to work on /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:56,364] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_produccion_valiidada.py for tasks to queue
+[2023-07-04 22:58:56,365] {logging_mixin.py:115} INFO - [2023-07-04 22:58:56,365] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:56,378] {logging_mixin.py:115} INFO - [2023-07-04 22:58:56,376] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:56,674] {logging_mixin.py:115} INFO - [2023-07-04 22:58:56,674] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:56,677] {logging_mixin.py:115} INFO - [2023-07-04 22:58:56,676] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:56,679] {logging_mixin.py:115} INFO - [2023-07-04 22:58:56,678] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:56,681] {logging_mixin.py:115} INFO - [2023-07-04 22:58:56,680] {log_util.py:40} INFO - Module loaded.
+[2023-07-04 22:58:56,681] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_produccion_valiidada.py
+[2023-07-04 22:58:56,692] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_produccion_valiidada.py took 0.335 seconds

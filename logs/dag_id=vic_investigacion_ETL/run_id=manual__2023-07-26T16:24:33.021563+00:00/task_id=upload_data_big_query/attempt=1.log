@@ -1,0 +1,39 @@
+[2023-07-26 16:25:01,937] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-26T16:24:33.021563+00:00 [queued]>
+[2023-07-26 16:25:01,944] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-26T16:24:33.021563+00:00 [queued]>
+[2023-07-26 16:25:01,944] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-26 16:25:01,945] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-07-26 16:25:01,945] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-26 16:25:01,953] {taskinstance.py:1397} INFO - Executing <Task(ExportData): upload_data_big_query> on 2023-07-26 16:24:33.021563+00:00
+[2023-07-26 16:25:01,959] {standard_task_runner.py:52} INFO - Started process 2949 to run task
+[2023-07-26 16:25:01,962] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'upload_data_big_query', 'manual__2023-07-26T16:24:33.021563+00:00', '--job-id', '97', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmplh5gwkfo', '--error-file', '/tmp/tmp2jyydjdu']
+[2023-07-26 16:25:01,964] {standard_task_runner.py:80} INFO - Job 97: Subtask upload_data_big_query
+[2023-07-26 16:25:02,024] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.upload_data_big_query manual__2023-07-26T16:24:33.021563+00:00 [running]> on host f4f0af373b5a
+[2023-07-26 16:25:02,079] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=upload_data_big_query
+AIRFLOW_CTX_EXECUTION_DATE=2023-07-26T16:24:33.021563+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-07-26T16:24:33.021563+00:00
+[2023-07-26 16:25:02,081] {logging_mixin.py:115} INFO - Exporting Data
+[2023-07-26 16:25:02,083] {logging_mixin.py:115} INFO - 📝File name: journals, File Path: $/opt/***/data/to_upload/journals.csv
+[2023-07-26 16:25:11,693] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=7a5e1959-e4d2-4ff3-b612-7fcdcd2f6737>
+[2023-07-26 16:25:11,695] {logging_mixin.py:115} INFO - 📝File name: produccion_validada, File Path: $/opt/***/data/to_upload/produccion_validada.csv
+[2023-07-26 16:25:18,427] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=900b6872-7c3c-41b2-9445-3aee1f802701>
+[2023-07-26 16:25:18,432] {logging_mixin.py:115} INFO - 📝File name: profesores_core_data, File Path: $/opt/***/data/to_upload/profesores_core_data.csv
+[2023-07-26 16:25:22,616] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=f03cac6e-6f62-449d-8f6a-a77b1d09f7e6>
+[2023-07-26 16:25:22,621] {logging_mixin.py:115} INFO - 📝File name: profesores_formacion, File Path: $/opt/***/data/to_upload/profesores_formacion.csv
+[2023-07-26 16:25:26,710] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=b49d9517-c859-4dab-8f75-5b68678e7a92>
+[2023-07-26 16:25:26,711] {logging_mixin.py:115} INFO - 📝File name: profesores_hijos, File Path: $/opt/***/data/to_upload/profesores_hijos.csv
+[2023-07-26 16:25:31,945] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=bcc5dd0c-a5c5-475b-9983-42090ff0542f>
+[2023-07-26 16:25:31,947] {logging_mixin.py:115} INFO - 📝File name: profesores_validados, File Path: $/opt/***/data/to_upload/profesores_validados.csv
+[2023-07-26 16:25:35,006] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=5dcf0302-8436-4b93-886c-e0b0f761d59c>
+[2023-07-26 16:25:35,007] {logging_mixin.py:115} INFO - 📝File name: profesores_validados_scopus_ids, File Path: $/opt/***/data/to_upload/profesores_validados_scopus_ids.csv
+[2023-07-26 16:25:37,809] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=290d6452-7110-46bd-bdf7-9bea29bd59c3>
+[2023-07-26 16:25:37,811] {logging_mixin.py:115} INFO - 📝File name: respositorio_inst, File Path: $/opt/***/data/to_upload/respositorio_inst.xlsx
+[2023-07-26 16:26:18,582] {logging_mixin.py:115} INFO - LoadJob<project=viceinvestigacion, location=US, id=f1b18158-0a76-4caa-a907-aec202b4deb3>
+[2023-07-26 16:26:18,919] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=upload_data_big_query, execution_date=20230726T162433, start_date=20230726T162501, end_date=20230726T162618
+[2023-07-26 16:26:19,154] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-07-26 16:26:19,188] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

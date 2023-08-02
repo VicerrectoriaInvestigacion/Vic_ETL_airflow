@@ -1,0 +1,25 @@
+[2023-08-02 22:32:02,855] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-08-02T22:32:00.479946+00:00 [queued]>
+[2023-08-02 22:32:02,867] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-08-02T22:32:00.479946+00:00 [queued]>
+[2023-08-02 22:32:02,868] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-02 22:32:02,869] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-08-02 22:32:02,870] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-02 22:32:02,886] {taskinstance.py:1397} INFO - Executing <Task(PrepareRepositorioInstitucional): repositorio_institucional> on 2023-08-02 22:32:00.479946+00:00
+[2023-08-02 22:32:02,898] {standard_task_runner.py:52} INFO - Started process 678 to run task
+[2023-08-02 22:32:02,904] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'repositorio_institucional', 'manual__2023-08-02T22:32:00.479946+00:00', '--job-id', '208', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp_3kxi4ms', '--error-file', '/tmp/tmpkpq5x_f0']
+[2023-08-02 22:32:02,908] {standard_task_runner.py:80} INFO - Job 208: Subtask repositorio_institucional
+[2023-08-02 22:32:03,060] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.repositorio_institucional manual__2023-08-02T22:32:00.479946+00:00 [running]> on host 6c8a51d4a614
+[2023-08-02 22:32:03,239] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=repositorio_institucional
+AIRFLOW_CTX_EXECUTION_DATE=2023-08-02T22:32:00.479946+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-08-02T22:32:00.479946+00:00
+[2023-08-02 22:32:03,250] {logging_mixin.py:115} INFO - Preparing Repositorio Institucional
+[2023-08-02 22:32:39,062] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=repositorio_institucional, execution_date=20230802T223200, start_date=20230802T223202, end_date=20230802T223239
+[2023-08-02 22:32:39,095] {local_task_job.py:221} WARNING - State of this instance has been externally set to success. Terminating instance.
+[2023-08-02 22:32:39,107] {process_utils.py:129} INFO - Sending Signals.SIGTERM to group 678. PIDs of all processes in the group: [678]
+[2023-08-02 22:32:39,108] {process_utils.py:80} INFO - Sending the signal Signals.SIGTERM to group 678
+[2023-08-02 22:32:39,287] {process_utils.py:75} INFO - Process psutil.Process(pid=678, status='terminated', exitcode=0, started='22:32:02') (678) terminated with exit code 0

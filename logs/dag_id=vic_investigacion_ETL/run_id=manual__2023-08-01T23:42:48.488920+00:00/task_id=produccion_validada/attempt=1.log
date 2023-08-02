@@ -1,0 +1,22 @@
+[2023-08-01 23:42:52,396] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.produccion_validada manual__2023-08-01T23:42:48.488920+00:00 [queued]>
+[2023-08-01 23:42:52,437] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: vic_investigacion_ETL.produccion_validada manual__2023-08-01T23:42:48.488920+00:00 [queued]>
+[2023-08-01 23:42:52,442] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-01 23:42:52,447] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-08-01 23:42:52,456] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-01 23:42:52,534] {taskinstance.py:1397} INFO - Executing <Task(PrepareProduccionValidada): produccion_validada> on 2023-08-01 23:42:48.488920+00:00
+[2023-08-01 23:42:52,587] {standard_task_runner.py:52} INFO - Started process 2402 to run task
+[2023-08-01 23:42:52,637] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'vic_investigacion_ETL', 'produccion_validada', 'manual__2023-08-01T23:42:48.488920+00:00', '--job-id', '189', '--raw', '--subdir', 'DAGS_FOLDER/vic_investigacion_dag.py', '--cfg-path', '/tmp/tmp63gnuk01', '--error-file', '/tmp/tmpgn3o5z1n']
+[2023-08-01 23:42:52,650] {standard_task_runner.py:80} INFO - Job 189: Subtask produccion_validada
+[2023-08-01 23:42:53,054] {task_command.py:371} INFO - Running <TaskInstance: vic_investigacion_ETL.produccion_validada manual__2023-08-01T23:42:48.488920+00:00 [running]> on host 6c8a51d4a614
+[2023-08-01 23:42:53,392] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=vic_investigacion_ETL
+AIRFLOW_CTX_TASK_ID=produccion_validada
+AIRFLOW_CTX_EXECUTION_DATE=2023-08-01T23:42:48.488920+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-08-01T23:42:48.488920+00:00
+[2023-08-01 23:42:53,413] {logging_mixin.py:115} INFO - Preparing producción validada
+[2023-08-01 23:43:00,396] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=vic_investigacion_ETL, task_id=produccion_validada, execution_date=20230801T234248, start_date=20230801T234252, end_date=20230801T234300
+[2023-08-01 23:43:00,772] {local_task_job.py:156} INFO - Task exited with return code 0

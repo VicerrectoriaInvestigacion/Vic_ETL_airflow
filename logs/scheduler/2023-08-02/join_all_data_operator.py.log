@@ -1,0 +1,1400 @@
+[2023-08-02 00:00:03,912] {processor.py:153} INFO - Started process (PID=6933) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:00:03,916] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:00:03,917] {logging_mixin.py:115} INFO - [2023-08-02 00:00:03,917] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:00:04,107] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:00:04,127] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.219 seconds
+[2023-08-02 00:00:34,537] {processor.py:153} INFO - Started process (PID=6989) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:00:34,538] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:00:34,539] {logging_mixin.py:115} INFO - [2023-08-02 00:00:34,539] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:00:34,674] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:00:34,689] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.154 seconds
+[2023-08-02 00:01:04,905] {processor.py:153} INFO - Started process (PID=7046) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:01:04,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:01:04,907] {logging_mixin.py:115} INFO - [2023-08-02 00:01:04,907] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:01:05,053] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:01:05,069] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 00:01:35,355] {processor.py:153} INFO - Started process (PID=7103) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:01:35,357] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:01:35,358] {logging_mixin.py:115} INFO - [2023-08-02 00:01:35,358] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:01:35,512] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:01:35,527] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.176 seconds
+[2023-08-02 00:02:05,559] {processor.py:153} INFO - Started process (PID=7151) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:02:05,560] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:02:05,561] {logging_mixin.py:115} INFO - [2023-08-02 00:02:05,560] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:02:05,688] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:02:05,702] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.146 seconds
+[2023-08-02 00:02:36,256] {processor.py:153} INFO - Started process (PID=7208) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:02:36,257] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:02:36,257] {logging_mixin.py:115} INFO - [2023-08-02 00:02:36,257] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:02:36,396] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:02:36,411] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.159 seconds
+[2023-08-02 00:03:06,952] {processor.py:153} INFO - Started process (PID=7266) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:03:06,953] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:03:06,953] {logging_mixin.py:115} INFO - [2023-08-02 00:03:06,953] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:03:07,079] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:03:07,094] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.146 seconds
+[2023-08-02 00:03:37,372] {processor.py:153} INFO - Started process (PID=7323) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:03:37,374] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:03:37,375] {logging_mixin.py:115} INFO - [2023-08-02 00:03:37,375] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:03:37,498] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:03:37,512] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.143 seconds
+[2023-08-02 00:04:08,723] {processor.py:153} INFO - Started process (PID=7379) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:04:08,725] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:04:08,726] {logging_mixin.py:115} INFO - [2023-08-02 00:04:08,726] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:04:08,883] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:04:08,898] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.180 seconds
+[2023-08-02 00:04:39,651] {processor.py:153} INFO - Started process (PID=7429) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:04:39,652] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:04:39,653] {logging_mixin.py:115} INFO - [2023-08-02 00:04:39,653] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:04:39,792] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:04:39,806] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 00:05:11,131] {processor.py:153} INFO - Started process (PID=7486) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:05:11,132] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:05:11,133] {logging_mixin.py:115} INFO - [2023-08-02 00:05:11,133] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:05:11,276] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:05:11,292] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.164 seconds
+[2023-08-02 00:05:41,927] {processor.py:153} INFO - Started process (PID=7542) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:05:41,930] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:05:41,931] {logging_mixin.py:115} INFO - [2023-08-02 00:05:41,931] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:05:42,083] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:05:42,103] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.180 seconds
+[2023-08-02 00:06:12,408] {processor.py:153} INFO - Started process (PID=7599) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:06:12,409] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:06:12,410] {logging_mixin.py:115} INFO - [2023-08-02 00:06:12,410] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:06:12,555] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:06:12,570] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.166 seconds
+[2023-08-02 00:06:42,881] {processor.py:153} INFO - Started process (PID=7648) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:06:42,882] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:06:42,883] {logging_mixin.py:115} INFO - [2023-08-02 00:06:42,883] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:06:43,053] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:06:43,072] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.194 seconds
+[2023-08-02 00:07:13,372] {processor.py:153} INFO - Started process (PID=7704) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:07:13,373] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:07:13,373] {logging_mixin.py:115} INFO - [2023-08-02 00:07:13,373] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:07:13,516] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:07:13,535] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.167 seconds
+[2023-08-02 00:07:43,885] {processor.py:153} INFO - Started process (PID=7761) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:07:43,886] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:07:43,887] {logging_mixin.py:115} INFO - [2023-08-02 00:07:43,887] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:07:44,025] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:07:44,041] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.158 seconds
+[2023-08-02 00:08:14,384] {processor.py:153} INFO - Started process (PID=7818) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:08:14,386] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:08:14,387] {logging_mixin.py:115} INFO - [2023-08-02 00:08:14,387] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:08:14,529] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:08:14,544] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.164 seconds
+[2023-08-02 00:08:44,823] {processor.py:153} INFO - Started process (PID=7866) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:08:44,824] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:08:44,825] {logging_mixin.py:115} INFO - [2023-08-02 00:08:44,824] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:08:44,976] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:08:44,994] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.174 seconds
+[2023-08-02 00:09:15,850] {processor.py:153} INFO - Started process (PID=7923) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:09:15,851] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:09:15,852] {logging_mixin.py:115} INFO - [2023-08-02 00:09:15,852] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:09:15,981] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:09:15,997] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 00:09:46,447] {processor.py:153} INFO - Started process (PID=7980) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:09:46,448] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:09:46,449] {logging_mixin.py:115} INFO - [2023-08-02 00:09:46,448] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:09:46,593] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:09:46,608] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.165 seconds
+[2023-08-02 00:10:17,194] {processor.py:153} INFO - Started process (PID=8038) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:10:17,196] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:10:17,197] {logging_mixin.py:115} INFO - [2023-08-02 00:10:17,197] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:10:17,343] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:10:17,358] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.168 seconds
+[2023-08-02 00:10:47,547] {processor.py:153} INFO - Started process (PID=8086) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:10:47,549] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:10:47,551] {logging_mixin.py:115} INFO - [2023-08-02 00:10:47,551] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:10:47,705] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:10:47,724] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.181 seconds
+[2023-08-02 00:11:18,077] {processor.py:153} INFO - Started process (PID=8143) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:11:18,078] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:11:18,078] {logging_mixin.py:115} INFO - [2023-08-02 00:11:18,078] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:11:18,203] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:11:18,218] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.144 seconds
+[2023-08-02 00:11:48,666] {processor.py:153} INFO - Started process (PID=8200) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:11:48,668] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:11:48,670] {logging_mixin.py:115} INFO - [2023-08-02 00:11:48,669] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:11:48,823] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:11:48,838] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.176 seconds
+[2023-08-02 00:12:19,209] {processor.py:153} INFO - Started process (PID=8257) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:12:19,210] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:12:19,211] {logging_mixin.py:115} INFO - [2023-08-02 00:12:19,211] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:12:19,393] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:12:19,413] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.207 seconds
+[2023-08-02 00:12:49,626] {processor.py:153} INFO - Started process (PID=8306) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:12:49,627] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:12:49,628] {logging_mixin.py:115} INFO - [2023-08-02 00:12:49,628] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:12:49,789] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:12:49,805] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.182 seconds
+[2023-08-02 00:13:19,936] {processor.py:153} INFO - Started process (PID=8363) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:13:19,937] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:13:19,937] {logging_mixin.py:115} INFO - [2023-08-02 00:13:19,937] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:13:20,069] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:13:20,085] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.151 seconds
+[2023-08-02 00:13:50,646] {processor.py:153} INFO - Started process (PID=8420) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:13:50,648] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:13:50,649] {logging_mixin.py:115} INFO - [2023-08-02 00:13:50,649] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:13:50,795] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:13:50,811] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.168 seconds
+[2023-08-02 00:14:21,551] {processor.py:153} INFO - Started process (PID=8476) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:14:21,552] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:14:21,553] {logging_mixin.py:115} INFO - [2023-08-02 00:14:21,553] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:14:21,726] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:14:21,750] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.202 seconds
+[2023-08-02 00:14:52,632] {processor.py:153} INFO - Started process (PID=8524) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:14:52,633] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:14:52,634] {logging_mixin.py:115} INFO - [2023-08-02 00:14:52,634] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:14:52,781] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:14:52,795] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.167 seconds
+[2023-08-02 00:15:22,960] {processor.py:153} INFO - Started process (PID=8581) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:15:22,961] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:15:22,962] {logging_mixin.py:115} INFO - [2023-08-02 00:15:22,962] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:15:23,128] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:15:23,143] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.187 seconds
+[2023-08-02 00:15:53,395] {processor.py:153} INFO - Started process (PID=8638) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:15:53,396] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:15:53,396] {logging_mixin.py:115} INFO - [2023-08-02 00:15:53,396] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:15:53,542] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:15:53,559] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.168 seconds
+[2023-08-02 00:16:23,891] {processor.py:153} INFO - Started process (PID=8695) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:16:23,893] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:16:23,894] {logging_mixin.py:115} INFO - [2023-08-02 00:16:23,894] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:16:24,073] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:16:24,093] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.207 seconds
+[2023-08-02 00:16:54,359] {processor.py:153} INFO - Started process (PID=8743) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:16:54,360] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:16:54,361] {logging_mixin.py:115} INFO - [2023-08-02 00:16:54,361] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:16:54,503] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:16:54,518] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.162 seconds
+[2023-08-02 00:17:24,817] {processor.py:153} INFO - Started process (PID=8800) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:17:24,818] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:17:24,819] {logging_mixin.py:115} INFO - [2023-08-02 00:17:24,818] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:17:24,981] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:17:24,998] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.184 seconds
+[2023-08-02 00:17:55,233] {processor.py:153} INFO - Started process (PID=8857) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:17:55,234] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:17:55,235] {logging_mixin.py:115} INFO - [2023-08-02 00:17:55,235] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:17:55,383] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:17:55,401] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.172 seconds
+[2023-08-02 00:18:25,623] {processor.py:153} INFO - Started process (PID=8913) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:18:25,625] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:18:25,625] {logging_mixin.py:115} INFO - [2023-08-02 00:18:25,625] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:18:25,778] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:18:25,793] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.173 seconds
+[2023-08-02 00:18:56,246] {processor.py:153} INFO - Started process (PID=8961) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:18:56,248] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:18:56,248] {logging_mixin.py:115} INFO - [2023-08-02 00:18:56,248] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:18:56,384] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:18:56,399] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.155 seconds
+[2023-08-02 00:19:27,075] {processor.py:153} INFO - Started process (PID=9019) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:19:27,077] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:19:27,078] {logging_mixin.py:115} INFO - [2023-08-02 00:19:27,078] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:19:27,235] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:19:27,254] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.182 seconds
+[2023-08-02 00:19:57,993] {processor.py:153} INFO - Started process (PID=9076) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:19:57,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:19:57,996] {logging_mixin.py:115} INFO - [2023-08-02 00:19:57,996] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:19:58,173] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:19:58,190] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.201 seconds
+[2023-08-02 00:20:28,678] {processor.py:153} INFO - Started process (PID=9133) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:20:28,679] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:20:28,680] {logging_mixin.py:115} INFO - [2023-08-02 00:20:28,680] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:20:28,841] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:20:28,858] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.183 seconds
+[2023-08-02 00:20:59,305] {processor.py:153} INFO - Started process (PID=9180) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:20:59,306] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:20:59,308] {logging_mixin.py:115} INFO - [2023-08-02 00:20:59,307] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:20:59,501] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:20:59,548] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.245 seconds
+[2023-08-02 00:21:30,173] {processor.py:153} INFO - Started process (PID=9239) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:21:30,174] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:21:30,175] {logging_mixin.py:115} INFO - [2023-08-02 00:21:30,175] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:21:30,320] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:21:30,335] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.164 seconds
+[2023-08-02 00:22:01,356] {processor.py:153} INFO - Started process (PID=9296) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:22:01,357] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:22:01,358] {logging_mixin.py:115} INFO - [2023-08-02 00:22:01,358] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:22:01,508] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:22:01,523] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.170 seconds
+[2023-08-02 00:22:32,651] {processor.py:153} INFO - Started process (PID=9353) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:22:32,652] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:22:32,653] {logging_mixin.py:115} INFO - [2023-08-02 00:22:32,653] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:22:32,778] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:22:32,792] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.143 seconds
+[2023-08-02 00:23:04,271] {processor.py:153} INFO - Started process (PID=9410) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:23:04,273] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:23:04,274] {logging_mixin.py:115} INFO - [2023-08-02 00:23:04,274] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:23:04,452] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:23:04,470] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.203 seconds
+[2023-08-02 00:23:34,799] {processor.py:153} INFO - Started process (PID=9458) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:23:34,801] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:23:34,802] {logging_mixin.py:115} INFO - [2023-08-02 00:23:34,801] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:23:34,936] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:23:34,950] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.154 seconds
+[2023-08-02 00:24:05,990] {processor.py:153} INFO - Started process (PID=9515) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:24:05,993] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:24:05,994] {logging_mixin.py:115} INFO - [2023-08-02 00:24:05,994] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:24:06,148] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:24:06,163] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.177 seconds
+[2023-08-02 00:24:36,483] {processor.py:153} INFO - Started process (PID=9571) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:24:36,484] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:24:36,485] {logging_mixin.py:115} INFO - [2023-08-02 00:24:36,485] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:24:36,616] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:24:36,631] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 00:25:07,080] {processor.py:153} INFO - Started process (PID=9629) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:25:07,081] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:25:07,082] {logging_mixin.py:115} INFO - [2023-08-02 00:25:07,082] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:25:07,215] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:25:07,234] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.156 seconds
+[2023-08-02 00:25:37,675] {processor.py:153} INFO - Started process (PID=9678) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:25:37,676] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:25:37,677] {logging_mixin.py:115} INFO - [2023-08-02 00:25:37,677] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:25:37,819] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:25:37,835] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.164 seconds
+[2023-08-02 00:26:08,072] {processor.py:153} INFO - Started process (PID=9735) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:26:08,078] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:26:08,079] {logging_mixin.py:115} INFO - [2023-08-02 00:26:08,079] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:26:08,204] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:26:08,218] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 00:26:38,478] {processor.py:153} INFO - Started process (PID=9792) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:26:38,479] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:26:38,480] {logging_mixin.py:115} INFO - [2023-08-02 00:26:38,479] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:26:38,612] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:26:38,627] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.152 seconds
+[2023-08-02 00:27:09,315] {processor.py:153} INFO - Started process (PID=9849) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:27:09,315] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:27:09,316] {logging_mixin.py:115} INFO - [2023-08-02 00:27:09,316] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:27:09,450] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:27:09,464] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.153 seconds
+[2023-08-02 00:27:39,761] {processor.py:153} INFO - Started process (PID=9897) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:27:39,762] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:27:39,763] {logging_mixin.py:115} INFO - [2023-08-02 00:27:39,763] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:27:39,904] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:27:39,919] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.161 seconds
+[2023-08-02 00:28:10,334] {processor.py:153} INFO - Started process (PID=9952) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:28:10,335] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:28:10,336] {logging_mixin.py:115} INFO - [2023-08-02 00:28:10,335] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:28:10,472] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:28:10,488] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 00:28:40,712] {processor.py:153} INFO - Started process (PID=10010) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:28:40,713] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:28:40,713] {logging_mixin.py:115} INFO - [2023-08-02 00:28:40,713] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:28:40,845] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:28:40,860] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.151 seconds
+[2023-08-02 00:29:11,498] {processor.py:153} INFO - Started process (PID=10067) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:29:11,500] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:29:11,501] {logging_mixin.py:115} INFO - [2023-08-02 00:29:11,500] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:29:11,668] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:29:11,688] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.194 seconds
+[2023-08-02 00:29:42,172] {processor.py:153} INFO - Started process (PID=10115) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:29:42,173] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:29:42,173] {logging_mixin.py:115} INFO - [2023-08-02 00:29:42,173] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:29:42,307] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:29:42,322] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.153 seconds
+[2023-08-02 00:30:12,730] {processor.py:153} INFO - Started process (PID=10172) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:30:12,731] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:30:12,732] {logging_mixin.py:115} INFO - [2023-08-02 00:30:12,732] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:30:12,859] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:30:12,874] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.147 seconds
+[2023-08-02 00:30:43,847] {processor.py:153} INFO - Started process (PID=10229) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:30:43,848] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:30:43,849] {logging_mixin.py:115} INFO - [2023-08-02 00:30:43,849] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:30:43,985] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:30:44,003] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.159 seconds
+[2023-08-02 00:31:15,507] {processor.py:153} INFO - Started process (PID=10286) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:31:15,510] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:31:15,512] {logging_mixin.py:115} INFO - [2023-08-02 00:31:15,512] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:31:15,735] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:31:15,769] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.267 seconds
+[2023-08-02 00:31:46,799] {processor.py:153} INFO - Started process (PID=10334) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:31:46,800] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:31:46,801] {logging_mixin.py:115} INFO - [2023-08-02 00:31:46,801] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:31:46,945] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:31:46,960] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.165 seconds
+[2023-08-02 00:32:17,507] {processor.py:153} INFO - Started process (PID=10391) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:32:17,508] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:32:17,509] {logging_mixin.py:115} INFO - [2023-08-02 00:32:17,509] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:32:17,646] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:32:17,661] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 00:32:48,009] {processor.py:153} INFO - Started process (PID=10448) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:32:48,011] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:32:48,012] {logging_mixin.py:115} INFO - [2023-08-02 00:32:48,012] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:32:48,154] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:32:48,170] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.164 seconds
+[2023-08-02 00:33:18,864] {processor.py:153} INFO - Started process (PID=10505) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:33:18,865] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:33:18,866] {logging_mixin.py:115} INFO - [2023-08-02 00:33:18,866] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:33:19,012] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:33:19,029] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 00:33:49,366] {processor.py:153} INFO - Started process (PID=10553) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:33:49,367] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:33:49,369] {logging_mixin.py:115} INFO - [2023-08-02 00:33:49,369] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:33:49,506] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:33:49,521] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.158 seconds
+[2023-08-02 00:34:19,873] {processor.py:153} INFO - Started process (PID=10611) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:34:19,875] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:34:19,876] {logging_mixin.py:115} INFO - [2023-08-02 00:34:19,876] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:34:20,024] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:34:20,040] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.171 seconds
+[2023-08-02 00:34:50,504] {processor.py:153} INFO - Started process (PID=10669) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:34:50,507] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:34:50,509] {logging_mixin.py:115} INFO - [2023-08-02 00:34:50,508] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:34:50,664] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:34:50,682] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.185 seconds
+[2023-08-02 00:35:21,204] {processor.py:153} INFO - Started process (PID=10727) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:35:21,206] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 00:35:21,207] {logging_mixin.py:115} INFO - [2023-08-02 00:35:21,207] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:35:21,368] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 00:35:21,398] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.198 seconds
+[2023-08-02 01:39:59,909] {processor.py:153} INFO - Started process (PID=10787) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:39:59,928] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:39:59,935] {logging_mixin.py:115} INFO - [2023-08-02 01:39:59,935] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:40:00,756] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:40:00,836] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 1.000 seconds
+[2023-08-02 01:40:31,572] {processor.py:153} INFO - Started process (PID=10835) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:40:31,579] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:40:31,581] {logging_mixin.py:115} INFO - [2023-08-02 01:40:31,581] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:40:31,779] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:40:31,817] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.256 seconds
+[2023-08-02 01:41:02,644] {processor.py:153} INFO - Started process (PID=10892) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:41:02,647] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:41:02,648] {logging_mixin.py:115} INFO - [2023-08-02 01:41:02,648] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:41:02,932] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:41:02,959] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.326 seconds
+[2023-08-02 01:41:33,067] {processor.py:153} INFO - Started process (PID=10949) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:41:33,069] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:41:33,070] {logging_mixin.py:115} INFO - [2023-08-02 01:41:33,070] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:41:33,240] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:41:33,260] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.199 seconds
+[2023-08-02 01:42:03,545] {processor.py:153} INFO - Started process (PID=10997) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:42:03,546] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:42:03,548] {logging_mixin.py:115} INFO - [2023-08-02 01:42:03,548] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:42:03,726] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:42:03,743] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.204 seconds
+[2023-08-02 01:42:33,843] {processor.py:153} INFO - Started process (PID=11054) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:42:33,844] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:42:33,845] {logging_mixin.py:115} INFO - [2023-08-02 01:42:33,845] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:42:33,984] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:42:33,998] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.158 seconds
+[2023-08-02 01:43:04,245] {processor.py:153} INFO - Started process (PID=11111) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:43:04,246] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:43:04,247] {logging_mixin.py:115} INFO - [2023-08-02 01:43:04,247] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:43:04,438] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:43:04,466] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.226 seconds
+[2023-08-02 01:43:34,578] {processor.py:153} INFO - Started process (PID=11168) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:43:34,580] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:43:34,581] {logging_mixin.py:115} INFO - [2023-08-02 01:43:34,581] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:43:34,774] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:43:34,799] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.226 seconds
+[2023-08-02 01:44:05,113] {processor.py:153} INFO - Started process (PID=11217) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:44:05,116] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:44:05,117] {logging_mixin.py:115} INFO - [2023-08-02 01:44:05,117] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:44:05,358] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:44:05,396] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.291 seconds
+[2023-08-02 01:44:35,717] {processor.py:153} INFO - Started process (PID=11274) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:44:35,724] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:44:35,726] {logging_mixin.py:115} INFO - [2023-08-02 01:44:35,726] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:44:35,897] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:44:35,915] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.203 seconds
+[2023-08-02 01:45:06,781] {processor.py:153} INFO - Started process (PID=11331) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:45:06,782] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:45:06,783] {logging_mixin.py:115} INFO - [2023-08-02 01:45:06,783] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:45:06,924] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:45:06,938] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.161 seconds
+[2023-08-02 01:45:37,014] {processor.py:153} INFO - Started process (PID=11387) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:45:37,016] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:45:37,017] {logging_mixin.py:115} INFO - [2023-08-02 01:45:37,017] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:45:37,195] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:45:37,210] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.200 seconds
+[2023-08-02 01:46:07,302] {processor.py:153} INFO - Started process (PID=11435) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:46:07,303] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:46:07,305] {logging_mixin.py:115} INFO - [2023-08-02 01:46:07,305] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:46:07,465] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:46:07,483] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.185 seconds
+[2023-08-02 01:46:38,204] {processor.py:153} INFO - Started process (PID=11492) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:46:38,206] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:46:38,207] {logging_mixin.py:115} INFO - [2023-08-02 01:46:38,207] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:46:38,395] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:46:38,418] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.217 seconds
+[2023-08-02 01:47:08,911] {processor.py:153} INFO - Started process (PID=11549) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:47:08,913] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:47:08,914] {logging_mixin.py:115} INFO - [2023-08-02 01:47:08,914] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:47:09,052] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:47:09,067] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.160 seconds
+[2023-08-02 01:47:39,893] {processor.py:153} INFO - Started process (PID=11606) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:47:39,895] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:47:39,898] {logging_mixin.py:115} INFO - [2023-08-02 01:47:39,898] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:47:40,139] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:47:40,157] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.269 seconds
+[2023-08-02 01:48:10,593] {processor.py:153} INFO - Started process (PID=11654) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:48:10,594] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:48:10,595] {logging_mixin.py:115} INFO - [2023-08-02 01:48:10,595] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:48:10,820] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:48:10,867] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.279 seconds
+[2023-08-02 01:48:41,158] {processor.py:153} INFO - Started process (PID=11711) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:48:41,160] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:48:41,161] {logging_mixin.py:115} INFO - [2023-08-02 01:48:41,161] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:48:41,311] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:48:41,326] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.172 seconds
+[2023-08-02 01:49:12,218] {processor.py:153} INFO - Started process (PID=11768) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:49:12,219] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:49:12,221] {logging_mixin.py:115} INFO - [2023-08-02 01:49:12,221] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:49:12,372] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:49:12,420] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.207 seconds
+[2023-08-02 01:49:42,744] {processor.py:153} INFO - Started process (PID=11826) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:49:42,746] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:49:42,747] {logging_mixin.py:115} INFO - [2023-08-02 01:49:42,746] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:49:42,923] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:49:42,955] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.216 seconds
+[2023-08-02 01:50:13,045] {processor.py:153} INFO - Started process (PID=11874) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:50:13,047] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:50:13,048] {logging_mixin.py:115} INFO - [2023-08-02 01:50:13,048] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:50:13,182] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:50:13,198] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.156 seconds
+[2023-08-02 01:50:43,489] {processor.py:153} INFO - Started process (PID=11931) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:50:43,491] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:50:43,492] {logging_mixin.py:115} INFO - [2023-08-02 01:50:43,492] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:50:43,695] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:50:43,712] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.227 seconds
+[2023-08-02 01:51:14,373] {processor.py:153} INFO - Started process (PID=11988) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:51:14,374] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:51:14,375] {logging_mixin.py:115} INFO - [2023-08-02 01:51:14,375] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:51:14,515] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:51:14,533] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.164 seconds
+[2023-08-02 01:51:44,867] {processor.py:153} INFO - Started process (PID=12037) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:51:44,869] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:51:44,870] {logging_mixin.py:115} INFO - [2023-08-02 01:51:44,870] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:51:45,112] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:51:45,143] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.285 seconds
+[2023-08-02 01:52:15,269] {processor.py:153} INFO - Started process (PID=12095) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:52:15,271] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:52:15,272] {logging_mixin.py:115} INFO - [2023-08-02 01:52:15,272] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:52:15,482] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:52:15,518] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.254 seconds
+[2023-08-02 01:52:45,852] {processor.py:153} INFO - Started process (PID=12152) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:52:45,854] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:52:45,855] {logging_mixin.py:115} INFO - [2023-08-02 01:52:45,855] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:52:46,098] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:52:46,123] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.276 seconds
+[2023-08-02 01:53:16,862] {processor.py:153} INFO - Started process (PID=12200) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:53:16,864] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:53:16,865] {logging_mixin.py:115} INFO - [2023-08-02 01:53:16,865] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:53:17,054] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:53:17,077] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.220 seconds
+[2023-08-02 01:53:47,464] {processor.py:153} INFO - Started process (PID=12257) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:53:47,465] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:53:47,466] {logging_mixin.py:115} INFO - [2023-08-02 01:53:47,466] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:53:47,650] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:53:47,667] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.207 seconds
+[2023-08-02 01:54:18,441] {processor.py:153} INFO - Started process (PID=12314) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:54:18,442] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:54:18,443] {logging_mixin.py:115} INFO - [2023-08-02 01:54:18,443] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:54:18,619] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:54:18,640] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.205 seconds
+[2023-08-02 01:54:48,856] {processor.py:153} INFO - Started process (PID=12371) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:54:48,860] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:54:48,866] {logging_mixin.py:115} INFO - [2023-08-02 01:54:48,866] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:54:49,367] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:54:49,423] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.582 seconds
+[2023-08-02 01:55:19,666] {processor.py:153} INFO - Started process (PID=12419) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:55:19,667] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:55:19,668] {logging_mixin.py:115} INFO - [2023-08-02 01:55:19,668] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:55:19,829] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:55:19,847] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.187 seconds
+[2023-08-02 01:55:50,203] {processor.py:153} INFO - Started process (PID=12476) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:55:50,205] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:55:50,206] {logging_mixin.py:115} INFO - [2023-08-02 01:55:50,206] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:55:50,378] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:55:50,394] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.196 seconds
+[2023-08-02 01:56:21,010] {processor.py:153} INFO - Started process (PID=12533) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:56:21,014] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:56:21,015] {logging_mixin.py:115} INFO - [2023-08-02 01:56:21,015] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:56:21,461] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:56:21,509] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.512 seconds
+[2023-08-02 01:56:51,784] {processor.py:153} INFO - Started process (PID=12581) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:56:51,786] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:56:51,787] {logging_mixin.py:115} INFO - [2023-08-02 01:56:51,787] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:56:52,054] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:56:52,115] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.340 seconds
+[2023-08-02 01:57:22,325] {processor.py:153} INFO - Started process (PID=12638) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:57:22,327] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:57:22,328] {logging_mixin.py:115} INFO - [2023-08-02 01:57:22,328] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:57:22,499] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:57:22,517] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.197 seconds
+[2023-08-02 01:57:53,100] {processor.py:153} INFO - Started process (PID=12694) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:57:53,101] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:57:53,102] {logging_mixin.py:115} INFO - [2023-08-02 01:57:53,102] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:57:53,299] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:57:53,323] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.229 seconds
+[2023-08-02 01:58:24,054] {processor.py:153} INFO - Started process (PID=12742) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:58:24,055] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:58:24,056] {logging_mixin.py:115} INFO - [2023-08-02 01:58:24,056] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:58:24,230] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:58:24,253] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.203 seconds
+[2023-08-02 01:58:54,720] {processor.py:153} INFO - Started process (PID=12800) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:58:54,722] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:58:54,725] {logging_mixin.py:115} INFO - [2023-08-02 01:58:54,725] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:58:55,129] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:58:55,161] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.468 seconds
+[2023-08-02 01:59:25,598] {processor.py:153} INFO - Started process (PID=12857) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:59:25,600] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:59:25,601] {logging_mixin.py:115} INFO - [2023-08-02 01:59:25,601] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:59:25,837] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:59:25,861] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.269 seconds
+[2023-08-02 01:59:56,089] {processor.py:153} INFO - Started process (PID=12912) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:59:56,091] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 01:59:56,092] {logging_mixin.py:115} INFO - [2023-08-02 01:59:56,092] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:59:56,315] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 01:59:56,349] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.266 seconds
+[2023-08-02 02:00:26,674] {processor.py:153} INFO - Started process (PID=12962) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:00:26,675] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:00:26,677] {logging_mixin.py:115} INFO - [2023-08-02 02:00:26,677] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:00:26,835] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:00:26,852] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.186 seconds
+[2023-08-02 02:00:56,912] {processor.py:153} INFO - Started process (PID=13019) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:00:56,913] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:00:56,914] {logging_mixin.py:115} INFO - [2023-08-02 02:00:56,914] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:00:57,069] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:00:57,087] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.178 seconds
+[2023-08-02 02:01:27,642] {processor.py:153} INFO - Started process (PID=13075) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:01:27,643] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:01:27,644] {logging_mixin.py:115} INFO - [2023-08-02 02:01:27,644] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:01:27,818] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:01:27,835] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.196 seconds
+[2023-08-02 02:01:58,560] {processor.py:153} INFO - Started process (PID=13124) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:01:58,561] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:01:58,562] {logging_mixin.py:115} INFO - [2023-08-02 02:01:58,562] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:01:58,694] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:01:58,709] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.151 seconds
+[2023-08-02 02:02:29,606] {processor.py:153} INFO - Started process (PID=13180) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:02:29,607] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:02:29,608] {logging_mixin.py:115} INFO - [2023-08-02 02:02:29,608] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:02:29,740] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:02:29,754] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 02:03:00,208] {processor.py:153} INFO - Started process (PID=13238) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:03:00,209] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:03:00,210] {logging_mixin.py:115} INFO - [2023-08-02 02:03:00,210] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:03:00,350] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:03:00,366] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.161 seconds
+[2023-08-02 02:03:30,745] {processor.py:153} INFO - Started process (PID=13285) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:03:30,747] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:03:30,748] {logging_mixin.py:115} INFO - [2023-08-02 02:03:30,748] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:03:30,887] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:03:30,902] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.161 seconds
+[2023-08-02 02:04:02,264] {processor.py:153} INFO - Started process (PID=13343) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:04:02,265] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:04:02,266] {logging_mixin.py:115} INFO - [2023-08-02 02:04:02,266] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:04:02,415] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:04:02,430] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 02:04:32,670] {processor.py:153} INFO - Started process (PID=13401) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:04:32,671] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:04:32,672] {logging_mixin.py:115} INFO - [2023-08-02 02:04:32,672] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:04:32,814] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:04:32,828] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.161 seconds
+[2023-08-02 02:05:04,730] {processor.py:153} INFO - Started process (PID=13458) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:05:04,731] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:05:04,732] {logging_mixin.py:115} INFO - [2023-08-02 02:05:04,732] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:05:04,911] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:05:04,931] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.204 seconds
+[2023-08-02 02:05:35,113] {processor.py:153} INFO - Started process (PID=13507) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:05:35,114] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:05:35,115] {logging_mixin.py:115} INFO - [2023-08-02 02:05:35,115] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:05:35,254] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:05:35,268] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.158 seconds
+[2023-08-02 02:06:05,479] {processor.py:153} INFO - Started process (PID=13564) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:06:05,480] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:06:05,481] {logging_mixin.py:115} INFO - [2023-08-02 02:06:05,481] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:06:05,646] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:06:05,663] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.186 seconds
+[2023-08-02 02:06:37,570] {processor.py:153} INFO - Started process (PID=13621) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:06:37,572] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:06:37,574] {logging_mixin.py:115} INFO - [2023-08-02 02:06:37,574] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:06:37,741] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:06:37,755] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.189 seconds
+[2023-08-02 02:07:07,874] {processor.py:153} INFO - Started process (PID=13676) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:07:07,876] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:07:07,877] {logging_mixin.py:115} INFO - [2023-08-02 02:07:07,877] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:07:08,064] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:07:08,084] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.213 seconds
+[2023-08-02 02:07:38,304] {processor.py:153} INFO - Started process (PID=13724) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:07:38,307] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:07:38,312] {logging_mixin.py:115} INFO - [2023-08-02 02:07:38,312] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:07:38,498] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:07:38,513] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.213 seconds
+[2023-08-02 02:08:08,982] {processor.py:153} INFO - Started process (PID=13780) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:08:08,983] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:08:08,984] {logging_mixin.py:115} INFO - [2023-08-02 02:08:08,984] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:08:09,116] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:08:09,130] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.152 seconds
+[2023-08-02 02:08:40,557] {processor.py:153} INFO - Started process (PID=13837) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:08:40,558] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:08:40,559] {logging_mixin.py:115} INFO - [2023-08-02 02:08:40,559] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:08:40,701] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:08:40,715] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.163 seconds
+[2023-08-02 02:09:11,426] {processor.py:153} INFO - Started process (PID=13884) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:09:11,428] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:09:11,428] {logging_mixin.py:115} INFO - [2023-08-02 02:09:11,428] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:09:11,559] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:09:11,573] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 02:09:43,010] {processor.py:153} INFO - Started process (PID=13941) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:09:43,011] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:09:43,012] {logging_mixin.py:115} INFO - [2023-08-02 02:09:43,012] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:09:43,157] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:09:43,172] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.166 seconds
+[2023-08-02 02:10:13,540] {processor.py:153} INFO - Started process (PID=13998) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:10:13,541] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:10:13,542] {logging_mixin.py:115} INFO - [2023-08-02 02:10:13,542] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:10:13,675] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:10:13,691] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.155 seconds
+[2023-08-02 02:10:45,297] {processor.py:153} INFO - Started process (PID=14054) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:10:45,302] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:10:45,308] {logging_mixin.py:115} INFO - [2023-08-02 02:10:45,308] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:10:45,509] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:10:45,527] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.239 seconds
+[2023-08-02 02:11:16,073] {processor.py:153} INFO - Started process (PID=14103) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:11:16,075] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:11:16,075] {logging_mixin.py:115} INFO - [2023-08-02 02:11:16,075] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:11:16,217] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:11:16,232] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.162 seconds
+[2023-08-02 02:11:47,251] {processor.py:153} INFO - Started process (PID=14160) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:11:47,252] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:11:47,253] {logging_mixin.py:115} INFO - [2023-08-02 02:11:47,253] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:11:47,414] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:11:47,429] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.183 seconds
+[2023-08-02 02:12:17,683] {processor.py:153} INFO - Started process (PID=14217) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:12:17,686] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:12:17,687] {logging_mixin.py:115} INFO - [2023-08-02 02:12:17,687] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:12:17,833] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:12:17,848] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 02:12:48,660] {processor.py:153} INFO - Started process (PID=14265) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:12:48,661] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:12:48,662] {logging_mixin.py:115} INFO - [2023-08-02 02:12:48,662] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:12:48,809] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:12:48,823] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.165 seconds
+[2023-08-02 02:13:19,953] {processor.py:153} INFO - Started process (PID=14322) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:13:19,954] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:13:19,955] {logging_mixin.py:115} INFO - [2023-08-02 02:13:19,955] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:13:20,117] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:13:20,138] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.188 seconds
+[2023-08-02 02:13:51,027] {processor.py:153} INFO - Started process (PID=14378) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:13:51,029] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:13:51,030] {logging_mixin.py:115} INFO - [2023-08-02 02:13:51,029] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:13:51,167] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:13:51,184] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.160 seconds
+[2023-08-02 02:14:22,513] {processor.py:153} INFO - Started process (PID=14436) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:14:22,514] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:14:22,515] {logging_mixin.py:115} INFO - [2023-08-02 02:14:22,515] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:14:22,754] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:14:22,771] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.263 seconds
+[2023-08-02 02:14:53,423] {processor.py:153} INFO - Started process (PID=14483) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:14:53,424] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:14:53,425] {logging_mixin.py:115} INFO - [2023-08-02 02:14:53,425] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:14:53,584] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:14:53,608] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.187 seconds
+[2023-08-02 02:15:24,082] {processor.py:153} INFO - Started process (PID=14540) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:15:24,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:15:24,086] {logging_mixin.py:115} INFO - [2023-08-02 02:15:24,086] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:15:24,218] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:15:24,233] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.154 seconds
+[2023-08-02 02:15:54,319] {processor.py:153} INFO - Started process (PID=14598) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:15:54,321] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:15:54,321] {logging_mixin.py:115} INFO - [2023-08-02 02:15:54,321] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:15:54,459] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:15:54,479] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.164 seconds
+[2023-08-02 02:16:25,428] {processor.py:153} INFO - Started process (PID=14655) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:16:25,429] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:16:25,430] {logging_mixin.py:115} INFO - [2023-08-02 02:16:25,430] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:16:25,566] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:16:25,583] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.158 seconds
+[2023-08-02 02:16:56,463] {processor.py:153} INFO - Started process (PID=14703) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:16:56,464] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:16:56,465] {logging_mixin.py:115} INFO - [2023-08-02 02:16:56,465] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:16:56,597] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:16:56,611] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.152 seconds
+[2023-08-02 02:17:27,178] {processor.py:153} INFO - Started process (PID=14759) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:17:27,179] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:17:27,180] {logging_mixin.py:115} INFO - [2023-08-02 02:17:27,180] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:17:27,331] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:17:27,346] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.170 seconds
+[2023-08-02 02:17:58,424] {processor.py:153} INFO - Started process (PID=14818) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:17:58,425] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:17:58,426] {logging_mixin.py:115} INFO - [2023-08-02 02:17:58,426] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:17:58,574] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:17:58,589] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.168 seconds
+[2023-08-02 02:18:29,244] {processor.py:153} INFO - Started process (PID=14875) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:18:29,245] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:18:29,245] {logging_mixin.py:115} INFO - [2023-08-02 02:18:29,245] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:18:29,395] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:18:29,410] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 02:19:00,108] {processor.py:153} INFO - Started process (PID=14923) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:19:00,109] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:19:00,110] {logging_mixin.py:115} INFO - [2023-08-02 02:19:00,110] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:19:00,251] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:19:00,269] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.163 seconds
+[2023-08-02 02:19:30,929] {processor.py:153} INFO - Started process (PID=14979) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:19:30,930] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:19:30,930] {logging_mixin.py:115} INFO - [2023-08-02 02:19:30,930] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:19:31,086] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:19:31,105] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.179 seconds
+[2023-08-02 02:20:01,393] {processor.py:153} INFO - Started process (PID=15036) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:20:01,394] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:20:01,395] {logging_mixin.py:115} INFO - [2023-08-02 02:20:01,395] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:20:01,554] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:20:01,569] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.179 seconds
+[2023-08-02 02:20:32,501] {processor.py:153} INFO - Started process (PID=15084) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:20:32,503] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:20:32,504] {logging_mixin.py:115} INFO - [2023-08-02 02:20:32,504] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:20:32,667] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:20:32,684] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.185 seconds
+[2023-08-02 02:21:03,390] {processor.py:153} INFO - Started process (PID=15144) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:21:03,391] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:21:03,392] {logging_mixin.py:115} INFO - [2023-08-02 02:21:03,392] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:21:03,559] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:21:03,579] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.192 seconds
+[2023-08-02 02:21:33,648] {processor.py:153} INFO - Started process (PID=15201) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:21:33,649] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:21:33,650] {logging_mixin.py:115} INFO - [2023-08-02 02:21:33,650] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:21:33,779] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:21:33,793] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.147 seconds
+[2023-08-02 02:22:04,421] {processor.py:153} INFO - Started process (PID=15257) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:22:04,423] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:22:04,424] {logging_mixin.py:115} INFO - [2023-08-02 02:22:04,424] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:22:04,598] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:22:04,624] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.206 seconds
+[2023-08-02 02:22:35,109] {processor.py:153} INFO - Started process (PID=15305) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:22:35,110] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:22:35,111] {logging_mixin.py:115} INFO - [2023-08-02 02:22:35,111] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:22:35,249] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:22:35,263] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 02:23:05,827] {processor.py:153} INFO - Started process (PID=15362) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:23:05,828] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:23:05,829] {logging_mixin.py:115} INFO - [2023-08-02 02:23:05,829] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:23:05,975] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:23:05,989] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.165 seconds
+[2023-08-02 02:23:36,250] {processor.py:153} INFO - Started process (PID=15418) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:23:36,251] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:23:36,252] {logging_mixin.py:115} INFO - [2023-08-02 02:23:36,252] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:23:36,386] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:23:36,400] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.154 seconds
+[2023-08-02 02:24:07,457] {processor.py:153} INFO - Started process (PID=15477) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:24:07,459] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:24:07,460] {logging_mixin.py:115} INFO - [2023-08-02 02:24:07,460] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:24:07,638] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:24:07,672] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.218 seconds
+[2023-08-02 02:24:38,440] {processor.py:153} INFO - Started process (PID=15525) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:24:38,441] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:24:38,441] {logging_mixin.py:115} INFO - [2023-08-02 02:24:38,441] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:24:38,579] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:24:38,594] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 02:25:09,401] {processor.py:153} INFO - Started process (PID=15582) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:25:09,402] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:25:09,402] {logging_mixin.py:115} INFO - [2023-08-02 02:25:09,402] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:25:09,558] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:25:09,575] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.179 seconds
+[2023-08-02 02:25:40,260] {processor.py:153} INFO - Started process (PID=15639) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:25:40,261] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:25:40,261] {logging_mixin.py:115} INFO - [2023-08-02 02:25:40,261] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:25:40,399] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:25:40,413] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 02:26:11,069] {processor.py:153} INFO - Started process (PID=15696) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:26:11,070] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:26:11,071] {logging_mixin.py:115} INFO - [2023-08-02 02:26:11,071] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:26:11,218] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:26:11,234] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.168 seconds
+[2023-08-02 02:26:41,766] {processor.py:153} INFO - Started process (PID=15744) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:26:41,767] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:26:41,768] {logging_mixin.py:115} INFO - [2023-08-02 02:26:41,767] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:26:41,899] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:26:41,913] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 02:27:12,717] {processor.py:153} INFO - Started process (PID=15802) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:27:12,718] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:27:12,719] {logging_mixin.py:115} INFO - [2023-08-02 02:27:12,719] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:27:12,856] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:27:12,871] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 02:27:43,489] {processor.py:153} INFO - Started process (PID=15859) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:27:43,490] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:27:43,491] {logging_mixin.py:115} INFO - [2023-08-02 02:27:43,491] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:27:43,636] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:27:43,650] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.164 seconds
+[2023-08-02 02:28:14,605] {processor.py:153} INFO - Started process (PID=15915) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:28:14,608] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:28:14,612] {logging_mixin.py:115} INFO - [2023-08-02 02:28:14,612] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:28:14,768] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:28:14,784] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.182 seconds
+[2023-08-02 02:28:45,819] {processor.py:153} INFO - Started process (PID=15964) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:28:45,820] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:28:45,821] {logging_mixin.py:115} INFO - [2023-08-02 02:28:45,821] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:28:45,979] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:28:45,997] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.181 seconds
+[2023-08-02 02:29:16,255] {processor.py:153} INFO - Started process (PID=16022) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:29:16,256] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:29:16,257] {logging_mixin.py:115} INFO - [2023-08-02 02:29:16,256] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:29:16,406] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:29:16,421] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 02:29:47,105] {processor.py:153} INFO - Started process (PID=16079) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:29:47,106] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:29:47,106] {logging_mixin.py:115} INFO - [2023-08-02 02:29:47,106] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:29:47,258] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:29:47,273] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.171 seconds
+[2023-08-02 02:32:51,972] {processor.py:153} INFO - Started process (PID=16135) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:32:51,981] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:32:51,988] {logging_mixin.py:115} INFO - [2023-08-02 02:32:51,988] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:32:52,485] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:32:52,513] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.565 seconds
+[2023-08-02 02:33:23,023] {processor.py:153} INFO - Started process (PID=16183) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:33:23,025] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:33:23,026] {logging_mixin.py:115} INFO - [2023-08-02 02:33:23,026] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:33:23,186] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:33:23,205] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.185 seconds
+[2023-08-02 02:34:23,745] {processor.py:153} INFO - Started process (PID=16259) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:34:23,746] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:34:23,747] {logging_mixin.py:115} INFO - [2023-08-02 02:34:23,747] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:34:23,876] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:34:23,890] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.148 seconds
+[2023-08-02 02:36:08,279] {processor.py:153} INFO - Started process (PID=16316) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:36:08,283] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:36:08,286] {logging_mixin.py:115} INFO - [2023-08-02 02:36:08,285] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:36:08,648] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:36:08,673] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.403 seconds
+[2023-08-02 02:36:39,306] {processor.py:153} INFO - Started process (PID=16364) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:36:39,307] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:36:39,308] {logging_mixin.py:115} INFO - [2023-08-02 02:36:39,308] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:36:39,449] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:36:39,462] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.159 seconds
+[2023-08-02 02:40:06,782] {processor.py:153} INFO - Started process (PID=16421) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:40:06,785] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:40:06,788] {logging_mixin.py:115} INFO - [2023-08-02 02:40:06,786] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:40:07,019] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:40:07,058] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.282 seconds
+[2023-08-02 02:40:38,694] {processor.py:153} INFO - Started process (PID=16477) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:40:38,696] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:40:38,698] {logging_mixin.py:115} INFO - [2023-08-02 02:40:38,698] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:40:38,873] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:40:38,891] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.200 seconds
+[2023-08-02 02:41:20,533] {processor.py:153} INFO - Started process (PID=16526) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:41:20,534] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:41:20,535] {logging_mixin.py:115} INFO - [2023-08-02 02:41:20,535] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:41:20,666] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:41:20,680] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 02:42:23,386] {processor.py:153} INFO - Started process (PID=16580) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:42:23,388] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:42:23,389] {logging_mixin.py:115} INFO - [2023-08-02 02:42:23,389] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:42:23,538] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:42:23,553] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 02:42:54,449] {processor.py:153} INFO - Started process (PID=16631) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:42:54,450] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 02:42:54,451] {logging_mixin.py:115} INFO - [2023-08-02 02:42:54,451] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:42:54,597] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 02:42:54,613] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.167 seconds
+[2023-08-02 03:50:09,341] {processor.py:153} INFO - Started process (PID=16689) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 03:50:09,343] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 03:50:09,353] {logging_mixin.py:115} INFO - [2023-08-02 03:50:09,353] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 03:50:09,588] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 03:50:09,656] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.322 seconds
+[2023-08-02 03:50:39,856] {processor.py:153} INFO - Started process (PID=16737) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 03:50:39,857] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 03:50:39,858] {logging_mixin.py:115} INFO - [2023-08-02 03:50:39,858] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 03:50:39,984] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 03:50:39,998] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.145 seconds
+[2023-08-02 04:05:44,778] {processor.py:153} INFO - Started process (PID=16784) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:05:44,779] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 04:05:44,780] {logging_mixin.py:115} INFO - [2023-08-02 04:05:44,780] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:05:44,921] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:05:44,949] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.174 seconds
+[2023-08-02 04:06:16,284] {processor.py:153} INFO - Started process (PID=16842) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:06:16,285] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 04:06:16,286] {logging_mixin.py:115} INFO - [2023-08-02 04:06:16,285] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:06:16,473] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:06:16,554] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.273 seconds
+[2023-08-02 04:12:20,026] {processor.py:153} INFO - Started process (PID=16898) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:12:20,027] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 04:12:20,032] {logging_mixin.py:115} INFO - [2023-08-02 04:12:20,032] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:12:20,200] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:12:20,218] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.195 seconds
+[2023-08-02 04:30:23,508] {processor.py:153} INFO - Started process (PID=16947) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:30:23,510] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 04:30:23,512] {logging_mixin.py:115} INFO - [2023-08-02 04:30:23,512] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:30:24,106] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:30:24,171] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.674 seconds
+[2023-08-02 04:30:55,183] {processor.py:153} INFO - Started process (PID=17003) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:30:55,184] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 04:30:55,186] {logging_mixin.py:115} INFO - [2023-08-02 04:30:55,186] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:30:55,354] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 04:30:55,369] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.193 seconds
+[2023-08-02 05:17:05,112] {processor.py:153} INFO - Started process (PID=17060) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 05:17:05,113] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 05:17:05,115] {logging_mixin.py:115} INFO - [2023-08-02 05:17:05,115] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 05:17:05,265] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 05:17:05,280] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.173 seconds
+[2023-08-02 06:37:02,658] {processor.py:153} INFO - Started process (PID=17107) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 06:37:02,660] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 06:37:02,661] {logging_mixin.py:115} INFO - [2023-08-02 06:37:02,661] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 06:37:02,834] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 06:37:02,865] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.211 seconds
+[2023-08-02 07:15:29,221] {processor.py:153} INFO - Started process (PID=17156) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 07:15:29,225] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 07:15:29,226] {logging_mixin.py:115} INFO - [2023-08-02 07:15:29,226] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 07:15:29,403] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 07:15:29,427] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.209 seconds
+[2023-08-02 07:15:59,645] {processor.py:153} INFO - Started process (PID=17213) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 07:15:59,647] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 07:15:59,648] {logging_mixin.py:115} INFO - [2023-08-02 07:15:59,648] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 07:15:59,790] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 07:15:59,805] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.162 seconds
+[2023-08-02 08:06:33,679] {processor.py:153} INFO - Started process (PID=17269) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 08:06:33,680] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 08:06:33,683] {logging_mixin.py:115} INFO - [2023-08-02 08:06:33,683] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 08:06:33,981] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 08:06:34,021] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.347 seconds
+[2023-08-02 09:13:58,956] {processor.py:153} INFO - Started process (PID=17317) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:13:58,960] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 09:13:58,963] {logging_mixin.py:115} INFO - [2023-08-02 09:13:58,963] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:13:59,365] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:13:59,393] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.441 seconds
+[2023-08-02 09:52:45,157] {processor.py:153} INFO - Started process (PID=17374) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:52:45,159] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 09:52:45,160] {logging_mixin.py:115} INFO - [2023-08-02 09:52:45,160] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:52:45,362] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:52:45,381] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.229 seconds
+[2023-08-02 09:53:15,621] {processor.py:153} INFO - Started process (PID=17422) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:53:15,622] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 09:53:15,623] {logging_mixin.py:115} INFO - [2023-08-02 09:53:15,623] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:53:15,753] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 09:53:15,768] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.149 seconds
+[2023-08-02 11:03:20,584] {processor.py:153} INFO - Started process (PID=17479) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:03:20,587] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 11:03:20,592] {logging_mixin.py:115} INFO - [2023-08-02 11:03:20,592] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:03:20,843] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:03:20,861] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.282 seconds
+[2023-08-02 11:10:43,272] {processor.py:153} INFO - Started process (PID=17533) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:10:43,275] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 11:10:43,281] {logging_mixin.py:115} INFO - [2023-08-02 11:10:43,281] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:10:43,585] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:10:43,610] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.342 seconds
+[2023-08-02 11:44:26,756] {processor.py:153} INFO - Started process (PID=17585) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:44:26,758] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 11:44:26,759] {logging_mixin.py:115} INFO - [2023-08-02 11:44:26,759] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:44:26,931] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 11:44:26,954] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.202 seconds
+[2023-08-02 12:00:36,892] {processor.py:153} INFO - Started process (PID=17642) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:00:36,893] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:00:36,895] {logging_mixin.py:115} INFO - [2023-08-02 12:00:36,895] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:00:37,108] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:00:37,168] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.280 seconds
+[2023-08-02 12:01:07,696] {processor.py:153} INFO - Started process (PID=17690) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:01:07,697] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:01:07,698] {logging_mixin.py:115} INFO - [2023-08-02 12:01:07,698] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:01:07,837] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:01:07,851] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.158 seconds
+[2023-08-02 12:04:17,216] {processor.py:153} INFO - Started process (PID=17747) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:04:17,218] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:04:17,219] {logging_mixin.py:115} INFO - [2023-08-02 12:04:17,219] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:04:17,407] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:04:17,427] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.214 seconds
+[2023-08-02 12:04:47,790] {processor.py:153} INFO - Started process (PID=17802) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:04:47,791] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:04:47,792] {logging_mixin.py:115} INFO - [2023-08-02 12:04:47,792] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:04:47,954] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:04:47,975] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.188 seconds
+[2023-08-02 12:22:55,303] {processor.py:153} INFO - Started process (PID=17850) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:22:55,309] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:22:55,311] {logging_mixin.py:115} INFO - [2023-08-02 12:22:55,311] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:22:55,597] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:22:55,650] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.350 seconds
+[2023-08-02 12:23:25,819] {processor.py:153} INFO - Started process (PID=17908) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:23:25,820] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:23:25,821] {logging_mixin.py:115} INFO - [2023-08-02 12:23:25,821] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:23:25,950] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:23:25,964] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.148 seconds
+[2023-08-02 12:23:56,830] {processor.py:153} INFO - Started process (PID=17965) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:23:56,832] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:23:56,833] {logging_mixin.py:115} INFO - [2023-08-02 12:23:56,832] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:23:57,006] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:23:57,022] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.195 seconds
+[2023-08-02 12:24:27,768] {processor.py:153} INFO - Started process (PID=18013) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:24:27,770] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:24:27,771] {logging_mixin.py:115} INFO - [2023-08-02 12:24:27,771] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:24:27,920] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:24:27,933] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 12:24:58,845] {processor.py:153} INFO - Started process (PID=18069) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:24:58,847] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:24:58,847] {logging_mixin.py:115} INFO - [2023-08-02 12:24:58,847] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:24:58,977] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:24:58,990] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.148 seconds
+[2023-08-02 12:25:29,824] {processor.py:153} INFO - Started process (PID=18125) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:25:29,825] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:25:29,826] {logging_mixin.py:115} INFO - [2023-08-02 12:25:29,826] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:25:29,960] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:25:29,974] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.153 seconds
+[2023-08-02 12:26:00,803] {processor.py:153} INFO - Started process (PID=18181) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:26:00,804] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:26:00,805] {logging_mixin.py:115} INFO - [2023-08-02 12:26:00,805] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:26:00,930] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:26:00,943] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.142 seconds
+[2023-08-02 12:54:29,373] {processor.py:153} INFO - Started process (PID=18229) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:54:29,383] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:54:29,415] {logging_mixin.py:115} INFO - [2023-08-02 12:54:29,414] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:54:29,997] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:54:30,094] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.731 seconds
+[2023-08-02 12:55:00,477] {processor.py:153} INFO - Started process (PID=18286) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:55:00,479] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:55:00,480] {logging_mixin.py:115} INFO - [2023-08-02 12:55:00,480] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:55:01,326] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:55:01,862] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 1.388 seconds
+[2023-08-02 12:55:35,311] {processor.py:153} INFO - Started process (PID=18334) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:55:35,312] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:55:35,313] {logging_mixin.py:115} INFO - [2023-08-02 12:55:35,313] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:55:35,450] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:55:35,466] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.158 seconds
+[2023-08-02 12:57:05,863] {processor.py:153} INFO - Started process (PID=18392) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:57:05,868] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:57:05,870] {logging_mixin.py:115} INFO - [2023-08-02 12:57:05,870] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:57:06,187] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:57:06,221] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.364 seconds
+[2023-08-02 12:57:37,103] {processor.py:153} INFO - Started process (PID=18449) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:57:37,104] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:57:37,105] {logging_mixin.py:115} INFO - [2023-08-02 12:57:37,105] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:57:37,265] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:57:37,292] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.192 seconds
+[2023-08-02 12:58:07,896] {processor.py:153} INFO - Started process (PID=18496) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:58:07,897] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:58:07,898] {logging_mixin.py:115} INFO - [2023-08-02 12:58:07,898] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:58:08,026] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:58:08,043] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 12:58:38,707] {processor.py:153} INFO - Started process (PID=18554) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:58:38,708] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:58:38,708] {logging_mixin.py:115} INFO - [2023-08-02 12:58:38,708] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:58:38,866] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:58:38,884] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.180 seconds
+[2023-08-02 12:59:09,394] {processor.py:153} INFO - Started process (PID=18611) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:59:09,395] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:59:09,395] {logging_mixin.py:115} INFO - [2023-08-02 12:59:09,395] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:59:09,533] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:59:09,547] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 12:59:39,938] {processor.py:153} INFO - Started process (PID=18668) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:59:39,939] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 12:59:39,940] {logging_mixin.py:115} INFO - [2023-08-02 12:59:39,940] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:59:40,102] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 12:59:40,128] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.193 seconds
+[2023-08-02 13:00:10,514] {processor.py:153} INFO - Started process (PID=18716) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:00:10,515] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:00:10,517] {logging_mixin.py:115} INFO - [2023-08-02 13:00:10,516] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:00:10,676] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:00:10,694] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.184 seconds
+[2023-08-02 13:00:40,970] {processor.py:153} INFO - Started process (PID=18772) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:00:40,971] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:00:40,973] {logging_mixin.py:115} INFO - [2023-08-02 13:00:40,973] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:00:41,231] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:00:41,285] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.319 seconds
+[2023-08-02 13:01:11,634] {processor.py:153} INFO - Started process (PID=18829) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:01:11,635] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:01:11,636] {logging_mixin.py:115} INFO - [2023-08-02 13:01:11,636] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:01:11,772] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:01:11,786] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.156 seconds
+[2023-08-02 13:01:42,850] {processor.py:153} INFO - Started process (PID=18877) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:01:42,851] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:01:42,852] {logging_mixin.py:115} INFO - [2023-08-02 13:01:42,852] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:01:42,985] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:01:42,999] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.151 seconds
+[2023-08-02 13:02:13,234] {processor.py:153} INFO - Started process (PID=18933) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:02:13,236] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:02:13,237] {logging_mixin.py:115} INFO - [2023-08-02 13:02:13,237] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:02:13,372] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:02:13,392] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.161 seconds
+[2023-08-02 13:02:44,192] {processor.py:153} INFO - Started process (PID=18990) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:02:44,193] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:02:44,194] {logging_mixin.py:115} INFO - [2023-08-02 13:02:44,194] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:02:44,333] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:02:44,350] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.162 seconds
+[2023-08-02 13:03:15,584] {processor.py:153} INFO - Started process (PID=19047) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:03:15,585] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:03:15,586] {logging_mixin.py:115} INFO - [2023-08-02 13:03:15,586] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:03:15,714] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:03:15,727] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.146 seconds
+[2023-08-02 13:03:45,940] {processor.py:153} INFO - Started process (PID=19097) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:03:45,941] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:03:45,942] {logging_mixin.py:115} INFO - [2023-08-02 13:03:45,942] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:03:46,085] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:03:46,107] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.170 seconds
+[2023-08-02 13:04:16,342] {processor.py:153} INFO - Started process (PID=19155) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:04:16,343] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:04:16,344] {logging_mixin.py:115} INFO - [2023-08-02 13:04:16,344] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:04:16,481] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:04:16,494] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.155 seconds
+[2023-08-02 13:04:47,292] {processor.py:153} INFO - Started process (PID=19211) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:04:47,293] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:04:47,294] {logging_mixin.py:115} INFO - [2023-08-02 13:04:47,294] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:04:47,424] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:04:47,440] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 13:05:18,653] {processor.py:153} INFO - Started process (PID=19269) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:05:18,654] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:05:18,656] {logging_mixin.py:115} INFO - [2023-08-02 13:05:18,656] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:05:18,847] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:05:18,862] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.212 seconds
+[2023-08-02 13:05:49,385] {processor.py:153} INFO - Started process (PID=19317) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:05:49,386] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:05:49,386] {logging_mixin.py:115} INFO - [2023-08-02 13:05:49,386] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:05:49,543] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:05:49,562] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.180 seconds
+[2023-08-02 13:06:20,750] {processor.py:153} INFO - Started process (PID=19374) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:06:20,752] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:06:20,752] {logging_mixin.py:115} INFO - [2023-08-02 13:06:20,752] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:06:20,891] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:06:20,904] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 13:06:51,077] {processor.py:153} INFO - Started process (PID=19432) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:06:51,078] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:06:51,079] {logging_mixin.py:115} INFO - [2023-08-02 13:06:51,079] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:06:51,209] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:06:51,224] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 13:07:22,066] {processor.py:153} INFO - Started process (PID=19488) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:07:22,067] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:07:22,068] {logging_mixin.py:115} INFO - [2023-08-02 13:07:22,068] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:07:22,317] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:07:22,336] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.275 seconds
+[2023-08-02 13:07:52,930] {processor.py:153} INFO - Started process (PID=19536) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:07:52,932] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:07:52,933] {logging_mixin.py:115} INFO - [2023-08-02 13:07:52,933] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:07:53,143] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:07:53,168] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.241 seconds
+[2023-08-02 13:08:23,615] {processor.py:153} INFO - Started process (PID=19593) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:08:23,616] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:08:23,617] {logging_mixin.py:115} INFO - [2023-08-02 13:08:23,617] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:08:23,749] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:08:23,764] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.153 seconds
+[2023-08-02 13:08:54,540] {processor.py:153} INFO - Started process (PID=19650) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:08:54,542] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:08:54,542] {logging_mixin.py:115} INFO - [2023-08-02 13:08:54,542] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:08:54,671] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:08:54,686] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.148 seconds
+[2023-08-02 13:09:25,697] {processor.py:153} INFO - Started process (PID=19707) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:09:25,698] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:09:25,698] {logging_mixin.py:115} INFO - [2023-08-02 13:09:25,698] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:09:25,837] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:09:25,852] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.159 seconds
+[2023-08-02 13:09:55,977] {processor.py:153} INFO - Started process (PID=19755) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:09:55,979] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:09:55,979] {logging_mixin.py:115} INFO - [2023-08-02 13:09:55,979] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:09:56,110] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:09:56,126] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.152 seconds
+[2023-08-02 13:10:27,183] {processor.py:153} INFO - Started process (PID=19813) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:10:27,184] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:10:27,185] {logging_mixin.py:115} INFO - [2023-08-02 13:10:27,185] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:10:27,324] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:10:27,337] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.156 seconds
+[2023-08-02 13:10:58,098] {processor.py:153} INFO - Started process (PID=19871) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:10:58,099] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:10:58,100] {logging_mixin.py:115} INFO - [2023-08-02 13:10:58,100] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:10:58,234] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:10:58,247] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.152 seconds
+[2023-08-02 13:11:29,204] {processor.py:153} INFO - Started process (PID=19927) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:11:29,205] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:11:29,206] {logging_mixin.py:115} INFO - [2023-08-02 13:11:29,206] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:11:29,343] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:11:29,356] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.155 seconds
+[2023-08-02 13:12:00,235] {processor.py:153} INFO - Started process (PID=19976) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:12:00,236] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:12:00,237] {logging_mixin.py:115} INFO - [2023-08-02 13:12:00,237] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:12:00,372] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:12:00,385] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.152 seconds
+[2023-08-02 13:12:31,414] {processor.py:153} INFO - Started process (PID=20033) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:12:31,415] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:12:31,415] {logging_mixin.py:115} INFO - [2023-08-02 13:12:31,415] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:12:31,557] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:12:31,573] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.162 seconds
+[2023-08-02 13:13:02,409] {processor.py:153} INFO - Started process (PID=20091) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:13:02,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:13:02,412] {logging_mixin.py:115} INFO - [2023-08-02 13:13:02,412] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:13:02,542] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:13:02,557] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.150 seconds
+[2023-08-02 13:13:33,395] {processor.py:153} INFO - Started process (PID=20149) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:13:33,396] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:13:33,397] {logging_mixin.py:115} INFO - [2023-08-02 13:13:33,396] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:13:33,534] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:13:33,549] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.157 seconds
+[2023-08-02 13:14:05,375] {processor.py:153} INFO - Started process (PID=20205) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:14:05,376] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:14:05,377] {logging_mixin.py:115} INFO - [2023-08-02 13:14:05,377] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:14:05,567] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:14:05,585] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.214 seconds
+[2023-08-02 13:14:36,683] {processor.py:153} INFO - Started process (PID=20254) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:14:36,685] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:14:36,686] {logging_mixin.py:115} INFO - [2023-08-02 13:14:36,686] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:14:36,832] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:14:36,848] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.167 seconds
+[2023-08-02 13:15:07,088] {processor.py:153} INFO - Started process (PID=20310) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:15:07,089] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 13:15:07,090] {logging_mixin.py:115} INFO - [2023-08-02 13:15:07,090] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:15:07,239] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 13:15:07,254] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.169 seconds
+[2023-08-02 22:20:12,421] {processor.py:153} INFO - Started process (PID=82) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:20:12,423] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:20:12,425] {logging_mixin.py:115} INFO - [2023-08-02 22:20:12,425] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:20:12,979] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:20:13,014] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.597 seconds
+[2023-08-02 22:20:43,302] {processor.py:153} INFO - Started process (PID=130) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:20:43,304] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:20:43,305] {logging_mixin.py:115} INFO - [2023-08-02 22:20:43,305] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:20:43,569] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:20:43,584] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.285 seconds
+[2023-08-02 22:21:14,384] {processor.py:153} INFO - Started process (PID=187) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:21:14,386] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:21:14,388] {logging_mixin.py:115} INFO - [2023-08-02 22:21:14,388] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:21:14,745] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:21:14,759] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.381 seconds
+[2023-08-02 22:21:45,000] {processor.py:153} INFO - Started process (PID=244) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:21:45,001] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:21:45,002] {logging_mixin.py:115} INFO - [2023-08-02 22:21:45,002] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:21:45,428] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:21:45,462] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.466 seconds
+[2023-08-02 22:22:15,652] {processor.py:153} INFO - Started process (PID=301) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:22:15,654] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:22:15,656] {logging_mixin.py:115} INFO - [2023-08-02 22:22:15,655] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:22:15,946] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:22:15,958] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.310 seconds
+[2023-08-02 22:22:46,034] {processor.py:153} INFO - Started process (PID=348) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:22:46,035] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:22:46,035] {logging_mixin.py:115} INFO - [2023-08-02 22:22:46,035] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:22:46,274] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:22:46,285] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.254 seconds
+[2023-08-02 22:23:17,164] {processor.py:153} INFO - Started process (PID=406) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:23:17,165] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:23:17,166] {logging_mixin.py:115} INFO - [2023-08-02 22:23:17,166] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:23:17,402] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:23:17,414] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.254 seconds
+[2023-08-02 22:23:48,445] {processor.py:153} INFO - Started process (PID=463) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:23:48,446] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:23:48,447] {logging_mixin.py:115} INFO - [2023-08-02 22:23:48,447] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:23:48,701] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:23:48,715] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.273 seconds
+[2023-08-02 22:24:19,728] {processor.py:153} INFO - Started process (PID=520) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:24:19,730] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:24:19,731] {logging_mixin.py:115} INFO - [2023-08-02 22:24:19,731] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:24:20,062] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:24:20,079] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.356 seconds
+[2023-08-02 22:24:50,916] {processor.py:153} INFO - Started process (PID=573) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:24:50,919] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:24:50,921] {logging_mixin.py:115} INFO - [2023-08-02 22:24:50,921] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:24:51,193] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:24:51,205] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.298 seconds
+[2023-08-02 22:25:21,753] {processor.py:153} INFO - Started process (PID=626) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:25:21,754] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:25:21,755] {logging_mixin.py:115} INFO - [2023-08-02 22:25:21,755] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:25:21,982] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:25:21,993] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.242 seconds
+[2023-08-02 22:25:52,829] {processor.py:153} INFO - Started process (PID=686) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:25:52,830] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:25:52,831] {logging_mixin.py:115} INFO - [2023-08-02 22:25:52,831] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:25:53,140] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:25:53,157] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.332 seconds
+[2023-08-02 22:26:23,924] {processor.py:153} INFO - Started process (PID=745) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:26:23,925] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:26:23,926] {logging_mixin.py:115} INFO - [2023-08-02 22:26:23,926] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:26:24,192] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:26:24,205] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.284 seconds
+[2023-08-02 22:26:55,336] {processor.py:153} INFO - Started process (PID=802) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:26:55,342] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:26:55,345] {logging_mixin.py:115} INFO - [2023-08-02 22:26:55,345] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:26:55,659] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:26:55,671] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.343 seconds
+[2023-08-02 22:27:26,558] {processor.py:153} INFO - Started process (PID=850) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:27:26,560] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:27:26,560] {logging_mixin.py:115} INFO - [2023-08-02 22:27:26,560] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:27:26,831] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:27:26,845] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.290 seconds
+[2023-08-02 22:27:57,121] {processor.py:153} INFO - Started process (PID=908) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:27:57,122] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:27:57,123] {logging_mixin.py:115} INFO - [2023-08-02 22:27:57,123] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:27:57,344] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:27:57,355] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.237 seconds
+[2023-08-02 22:28:27,752] {processor.py:153} INFO - Started process (PID=965) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:28:27,753] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:28:27,754] {logging_mixin.py:115} INFO - [2023-08-02 22:28:27,754] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:28:27,984] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:28:27,995] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.246 seconds
+[2023-08-02 22:28:58,254] {processor.py:153} INFO - Started process (PID=1023) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:28:58,255] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:28:58,256] {logging_mixin.py:115} INFO - [2023-08-02 22:28:58,256] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:28:58,464] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:28:58,477] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.226 seconds
+[2023-08-02 22:29:29,113] {processor.py:153} INFO - Started process (PID=1071) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:29:29,115] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:29:29,115] {logging_mixin.py:115} INFO - [2023-08-02 22:29:29,115] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:29:29,339] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:29:29,350] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.240 seconds
+[2023-08-02 22:29:59,527] {processor.py:153} INFO - Started process (PID=1128) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:29:59,528] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:29:59,529] {logging_mixin.py:115} INFO - [2023-08-02 22:29:59,529] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:29:59,787] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:29:59,798] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.274 seconds
+[2023-08-02 22:30:31,248] {processor.py:153} INFO - Started process (PID=1187) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:30:31,250] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:30:31,250] {logging_mixin.py:115} INFO - [2023-08-02 22:30:31,250] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:30:31,520] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:30:31,531] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.287 seconds
+[2023-08-02 22:31:01,993] {processor.py:153} INFO - Started process (PID=1251) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:31:01,994] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:31:01,995] {logging_mixin.py:115} INFO - [2023-08-02 22:31:01,995] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:31:02,254] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:31:02,269] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.279 seconds
+[2023-08-02 22:31:32,596] {processor.py:153} INFO - Started process (PID=1298) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:31:32,597] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:31:32,598] {logging_mixin.py:115} INFO - [2023-08-02 22:31:32,598] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:31:32,835] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:31:32,846] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.253 seconds
+[2023-08-02 22:32:06,249] {processor.py:153} INFO - Started process (PID=1364) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:32:06,255] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:32:06,260] {logging_mixin.py:115} INFO - [2023-08-02 22:32:06,260] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:32:06,931] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:32:06,995] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.754 seconds
+[2023-08-02 22:32:37,420] {processor.py:153} INFO - Started process (PID=1421) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:32:37,422] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:32:37,423] {logging_mixin.py:115} INFO - [2023-08-02 22:32:37,423] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:32:37,901] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:32:37,937] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.523 seconds
+[2023-08-02 22:33:08,154] {processor.py:153} INFO - Started process (PID=1476) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:33:08,157] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:33:08,159] {logging_mixin.py:115} INFO - [2023-08-02 22:33:08,159] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:33:08,855] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:33:08,881] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.731 seconds
+[2023-08-02 22:33:39,182] {processor.py:153} INFO - Started process (PID=1529) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:33:39,183] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:33:39,184] {logging_mixin.py:115} INFO - [2023-08-02 22:33:39,183] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:33:39,503] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:33:39,520] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.341 seconds
+[2023-08-02 22:34:10,226] {processor.py:153} INFO - Started process (PID=1586) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:34:10,228] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:34:10,229] {logging_mixin.py:115} INFO - [2023-08-02 22:34:10,229] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:34:10,498] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:34:10,511] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.289 seconds
+[2023-08-02 22:34:40,932] {processor.py:153} INFO - Started process (PID=1644) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:34:40,933] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:34:40,934] {logging_mixin.py:115} INFO - [2023-08-02 22:34:40,934] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:34:41,185] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:34:41,199] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.271 seconds
+[2023-08-02 22:35:11,371] {processor.py:153} INFO - Started process (PID=1692) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:35:11,373] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:35:11,373] {logging_mixin.py:115} INFO - [2023-08-02 22:35:11,373] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:35:11,651] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:35:11,676] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.309 seconds
+[2023-08-02 22:35:42,203] {processor.py:153} INFO - Started process (PID=1749) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:35:42,204] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:35:42,205] {logging_mixin.py:115} INFO - [2023-08-02 22:35:42,205] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:35:42,554] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:35:42,567] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.367 seconds
+[2023-08-02 22:36:13,283] {processor.py:153} INFO - Started process (PID=1806) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:36:13,285] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:36:13,286] {logging_mixin.py:115} INFO - [2023-08-02 22:36:13,286] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:36:13,778] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:36:13,793] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.517 seconds
+[2023-08-02 22:36:44,072] {processor.py:153} INFO - Started process (PID=1862) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:36:44,074] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:36:44,075] {logging_mixin.py:115} INFO - [2023-08-02 22:36:44,075] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:36:44,398] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:36:44,412] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.343 seconds
+[2023-08-02 22:37:15,078] {processor.py:153} INFO - Started process (PID=1912) to work on /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:37:15,079] {processor.py:641} INFO - Processing file /opt/airflow/dags/join_all_data_operator.py for tasks to queue
+[2023-08-02 22:37:15,080] {logging_mixin.py:115} INFO - [2023-08-02 22:37:15,080] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:37:15,369] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/join_all_data_operator.py
+[2023-08-02 22:37:15,382] {processor.py:161} INFO - Processing /opt/airflow/dags/join_all_data_operator.py took 0.308 seconds

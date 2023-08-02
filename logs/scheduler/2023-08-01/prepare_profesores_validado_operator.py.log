@@ -1,0 +1,1240 @@
+[2023-08-01 22:56:09,493] {processor.py:153} INFO - Started process (PID=61) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:56:09,495] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 22:56:09,496] {logging_mixin.py:115} INFO - [2023-08-01 22:56:09,496] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:56:09,530] {logging_mixin.py:115} INFO - [2023-08-01 22:56:09,527] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:10,276] {logging_mixin.py:115} INFO - [2023-08-01 22:56:10,275] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:10,282] {logging_mixin.py:115} INFO - [2023-08-01 22:56:10,281] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:10,288] {logging_mixin.py:115} INFO - [2023-08-01 22:56:10,287] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:10,307] {logging_mixin.py:115} INFO - [2023-08-01 22:56:10,299] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:10,312] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:56:10,337] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.851 seconds
+[2023-08-01 22:56:40,634] {processor.py:153} INFO - Started process (PID=118) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:56:40,635] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 22:56:40,636] {logging_mixin.py:115} INFO - [2023-08-01 22:56:40,635] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:56:40,644] {logging_mixin.py:115} INFO - [2023-08-01 22:56:40,643] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:40,864] {logging_mixin.py:115} INFO - [2023-08-01 22:56:40,863] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:40,866] {logging_mixin.py:115} INFO - [2023-08-01 22:56:40,866] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:40,869] {logging_mixin.py:115} INFO - [2023-08-01 22:56:40,868] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:40,871] {logging_mixin.py:115} INFO - [2023-08-01 22:56:40,871] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:56:40,872] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:56:40,884] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.254 seconds
+[2023-08-01 22:57:11,254] {processor.py:153} INFO - Started process (PID=175) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:57:11,255] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 22:57:11,256] {logging_mixin.py:115} INFO - [2023-08-01 22:57:11,256] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:57:11,264] {logging_mixin.py:115} INFO - [2023-08-01 22:57:11,264] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:11,524] {logging_mixin.py:115} INFO - [2023-08-01 22:57:11,523] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:11,528] {logging_mixin.py:115} INFO - [2023-08-01 22:57:11,527] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:11,532] {logging_mixin.py:115} INFO - [2023-08-01 22:57:11,531] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:11,537] {logging_mixin.py:115} INFO - [2023-08-01 22:57:11,535] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:11,539] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:57:11,554] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.303 seconds
+[2023-08-01 22:57:41,976] {processor.py:153} INFO - Started process (PID=223) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:57:41,977] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 22:57:41,978] {logging_mixin.py:115} INFO - [2023-08-01 22:57:41,978] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:57:41,986] {logging_mixin.py:115} INFO - [2023-08-01 22:57:41,985] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:42,203] {logging_mixin.py:115} INFO - [2023-08-01 22:57:42,202] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:42,206] {logging_mixin.py:115} INFO - [2023-08-01 22:57:42,205] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:42,209] {logging_mixin.py:115} INFO - [2023-08-01 22:57:42,208] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:42,212] {logging_mixin.py:115} INFO - [2023-08-01 22:57:42,212] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:57:42,213] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:57:42,225] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.252 seconds
+[2023-08-01 22:58:12,757] {processor.py:153} INFO - Started process (PID=280) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:58:12,758] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 22:58:12,759] {logging_mixin.py:115} INFO - [2023-08-01 22:58:12,759] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:58:12,766] {logging_mixin.py:115} INFO - [2023-08-01 22:58:12,766] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:13,004] {logging_mixin.py:115} INFO - [2023-08-01 22:58:13,003] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:13,007] {logging_mixin.py:115} INFO - [2023-08-01 22:58:13,006] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:13,009] {logging_mixin.py:115} INFO - [2023-08-01 22:58:13,009] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:13,012] {logging_mixin.py:115} INFO - [2023-08-01 22:58:13,011] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:13,013] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:58:13,026] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.272 seconds
+[2023-08-01 22:58:43,770] {processor.py:153} INFO - Started process (PID=338) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:58:43,772] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 22:58:43,773] {logging_mixin.py:115} INFO - [2023-08-01 22:58:43,773] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:58:43,781] {logging_mixin.py:115} INFO - [2023-08-01 22:58:43,780] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:44,002] {logging_mixin.py:115} INFO - [2023-08-01 22:58:44,001] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:44,005] {logging_mixin.py:115} INFO - [2023-08-01 22:58:44,005] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:44,008] {logging_mixin.py:115} INFO - [2023-08-01 22:58:44,008] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:44,011] {logging_mixin.py:115} INFO - [2023-08-01 22:58:44,011] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:58:44,012] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:58:44,031] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.264 seconds
+[2023-08-01 22:59:14,634] {processor.py:153} INFO - Started process (PID=395) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:59:14,635] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 22:59:14,636] {logging_mixin.py:115} INFO - [2023-08-01 22:59:14,636] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:59:14,643] {logging_mixin.py:115} INFO - [2023-08-01 22:59:14,642] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:14,877] {logging_mixin.py:115} INFO - [2023-08-01 22:59:14,875] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:14,880] {logging_mixin.py:115} INFO - [2023-08-01 22:59:14,879] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:14,882] {logging_mixin.py:115} INFO - [2023-08-01 22:59:14,881] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:14,884] {logging_mixin.py:115} INFO - [2023-08-01 22:59:14,884] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:14,885] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:59:14,896] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.266 seconds
+[2023-08-01 22:59:45,566] {processor.py:153} INFO - Started process (PID=452) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:59:45,568] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 22:59:45,568] {logging_mixin.py:115} INFO - [2023-08-01 22:59:45,568] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:59:45,580] {logging_mixin.py:115} INFO - [2023-08-01 22:59:45,579] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:46,143] {logging_mixin.py:115} INFO - [2023-08-01 22:59:46,141] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:46,148] {logging_mixin.py:115} INFO - [2023-08-01 22:59:46,147] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:46,152] {logging_mixin.py:115} INFO - [2023-08-01 22:59:46,152] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:46,156] {logging_mixin.py:115} INFO - [2023-08-01 22:59:46,155] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 22:59:46,159] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 22:59:46,180] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.618 seconds
+[2023-08-01 23:00:16,508] {processor.py:153} INFO - Started process (PID=501) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:00:16,510] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:00:16,513] {logging_mixin.py:115} INFO - [2023-08-01 23:00:16,512] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:00:16,526] {logging_mixin.py:115} INFO - [2023-08-01 23:00:16,526] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:16,769] {logging_mixin.py:115} INFO - [2023-08-01 23:00:16,768] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:16,771] {logging_mixin.py:115} INFO - [2023-08-01 23:00:16,771] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:16,773] {logging_mixin.py:115} INFO - [2023-08-01 23:00:16,773] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:16,775] {logging_mixin.py:115} INFO - [2023-08-01 23:00:16,775] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:16,776] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:00:16,787] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.285 seconds
+[2023-08-01 23:00:47,131] {processor.py:153} INFO - Started process (PID=557) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:00:47,132] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:00:47,132] {logging_mixin.py:115} INFO - [2023-08-01 23:00:47,132] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:00:47,140] {logging_mixin.py:115} INFO - [2023-08-01 23:00:47,139] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:47,363] {logging_mixin.py:115} INFO - [2023-08-01 23:00:47,362] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:47,365] {logging_mixin.py:115} INFO - [2023-08-01 23:00:47,364] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:47,367] {logging_mixin.py:115} INFO - [2023-08-01 23:00:47,366] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:47,369] {logging_mixin.py:115} INFO - [2023-08-01 23:00:47,368] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:00:47,370] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:00:47,381] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.253 seconds
+[2023-08-01 23:01:18,403] {processor.py:153} INFO - Started process (PID=614) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:01:18,404] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:01:18,405] {logging_mixin.py:115} INFO - [2023-08-01 23:01:18,405] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:01:18,415] {logging_mixin.py:115} INFO - [2023-08-01 23:01:18,414] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:18,666] {logging_mixin.py:115} INFO - [2023-08-01 23:01:18,665] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:18,669] {logging_mixin.py:115} INFO - [2023-08-01 23:01:18,669] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:18,672] {logging_mixin.py:115} INFO - [2023-08-01 23:01:18,671] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:18,674] {logging_mixin.py:115} INFO - [2023-08-01 23:01:18,674] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:18,675] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:01:18,686] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.286 seconds
+[2023-08-01 23:01:49,180] {processor.py:153} INFO - Started process (PID=673) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:01:49,181] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:01:49,182] {logging_mixin.py:115} INFO - [2023-08-01 23:01:49,182] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:01:49,190] {logging_mixin.py:115} INFO - [2023-08-01 23:01:49,190] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:49,411] {logging_mixin.py:115} INFO - [2023-08-01 23:01:49,411] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:49,414] {logging_mixin.py:115} INFO - [2023-08-01 23:01:49,413] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:49,417] {logging_mixin.py:115} INFO - [2023-08-01 23:01:49,416] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:49,419] {logging_mixin.py:115} INFO - [2023-08-01 23:01:49,419] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:01:49,420] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:01:49,431] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.253 seconds
+[2023-08-01 23:02:20,058] {processor.py:153} INFO - Started process (PID=721) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:02:20,059] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:02:20,060] {logging_mixin.py:115} INFO - [2023-08-01 23:02:20,060] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:02:20,067] {logging_mixin.py:115} INFO - [2023-08-01 23:02:20,067] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:20,306] {logging_mixin.py:115} INFO - [2023-08-01 23:02:20,306] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:20,309] {logging_mixin.py:115} INFO - [2023-08-01 23:02:20,309] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:20,311] {logging_mixin.py:115} INFO - [2023-08-01 23:02:20,311] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:20,314] {logging_mixin.py:115} INFO - [2023-08-01 23:02:20,314] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:20,315] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:02:20,327] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.271 seconds
+[2023-08-01 23:02:51,137] {processor.py:153} INFO - Started process (PID=780) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:02:51,138] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:02:51,139] {logging_mixin.py:115} INFO - [2023-08-01 23:02:51,139] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:02:51,147] {logging_mixin.py:115} INFO - [2023-08-01 23:02:51,146] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:51,364] {logging_mixin.py:115} INFO - [2023-08-01 23:02:51,364] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:51,367] {logging_mixin.py:115} INFO - [2023-08-01 23:02:51,366] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:51,369] {logging_mixin.py:115} INFO - [2023-08-01 23:02:51,369] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:51,372] {logging_mixin.py:115} INFO - [2023-08-01 23:02:51,372] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:02:51,373] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:02:51,384] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.249 seconds
+[2023-08-01 23:03:22,033] {processor.py:153} INFO - Started process (PID=837) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:03:22,034] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:03:22,035] {logging_mixin.py:115} INFO - [2023-08-01 23:03:22,035] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:03:22,044] {logging_mixin.py:115} INFO - [2023-08-01 23:03:22,043] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:22,275] {logging_mixin.py:115} INFO - [2023-08-01 23:03:22,274] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:22,277] {logging_mixin.py:115} INFO - [2023-08-01 23:03:22,277] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:22,280] {logging_mixin.py:115} INFO - [2023-08-01 23:03:22,279] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:22,282] {logging_mixin.py:115} INFO - [2023-08-01 23:03:22,282] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:22,283] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:03:22,294] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.264 seconds
+[2023-08-01 23:03:53,647] {processor.py:153} INFO - Started process (PID=894) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:03:53,649] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:03:53,649] {logging_mixin.py:115} INFO - [2023-08-01 23:03:53,649] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:03:53,656] {logging_mixin.py:115} INFO - [2023-08-01 23:03:53,655] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:53,884] {logging_mixin.py:115} INFO - [2023-08-01 23:03:53,884] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:53,887] {logging_mixin.py:115} INFO - [2023-08-01 23:03:53,886] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:53,889] {logging_mixin.py:115} INFO - [2023-08-01 23:03:53,889] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:53,891] {logging_mixin.py:115} INFO - [2023-08-01 23:03:53,891] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:03:53,893] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:03:53,904] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.260 seconds
+[2023-08-01 23:04:25,200] {processor.py:153} INFO - Started process (PID=952) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:04:25,202] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:04:25,202] {logging_mixin.py:115} INFO - [2023-08-01 23:04:25,202] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:04:25,209] {logging_mixin.py:115} INFO - [2023-08-01 23:04:25,209] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:25,436] {logging_mixin.py:115} INFO - [2023-08-01 23:04:25,435] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:25,438] {logging_mixin.py:115} INFO - [2023-08-01 23:04:25,438] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:25,441] {logging_mixin.py:115} INFO - [2023-08-01 23:04:25,441] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:25,444] {logging_mixin.py:115} INFO - [2023-08-01 23:04:25,443] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:25,445] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:04:25,465] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.267 seconds
+[2023-08-01 23:04:56,415] {processor.py:153} INFO - Started process (PID=1007) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:04:56,417] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:04:56,419] {logging_mixin.py:115} INFO - [2023-08-01 23:04:56,419] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:04:56,430] {logging_mixin.py:115} INFO - [2023-08-01 23:04:56,428] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:56,711] {logging_mixin.py:115} INFO - [2023-08-01 23:04:56,710] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:56,713] {logging_mixin.py:115} INFO - [2023-08-01 23:04:56,713] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:56,716] {logging_mixin.py:115} INFO - [2023-08-01 23:04:56,715] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:56,718] {logging_mixin.py:115} INFO - [2023-08-01 23:04:56,718] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:04:56,719] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:04:56,731] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.319 seconds
+[2023-08-01 23:05:27,724] {processor.py:153} INFO - Started process (PID=1056) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:05:27,726] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:05:27,727] {logging_mixin.py:115} INFO - [2023-08-01 23:05:27,726] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:05:27,734] {logging_mixin.py:115} INFO - [2023-08-01 23:05:27,734] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:27,998] {logging_mixin.py:115} INFO - [2023-08-01 23:05:27,997] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:28,002] {logging_mixin.py:115} INFO - [2023-08-01 23:05:28,002] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:28,007] {logging_mixin.py:115} INFO - [2023-08-01 23:05:28,006] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:28,014] {logging_mixin.py:115} INFO - [2023-08-01 23:05:28,014] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:28,015] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:05:28,028] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.306 seconds
+[2023-08-01 23:05:58,848] {processor.py:153} INFO - Started process (PID=1112) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:05:58,849] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:05:58,850] {logging_mixin.py:115} INFO - [2023-08-01 23:05:58,850] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:05:58,857] {logging_mixin.py:115} INFO - [2023-08-01 23:05:58,857] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:59,080] {logging_mixin.py:115} INFO - [2023-08-01 23:05:59,079] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:59,083] {logging_mixin.py:115} INFO - [2023-08-01 23:05:59,082] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:59,086] {logging_mixin.py:115} INFO - [2023-08-01 23:05:59,085] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:59,088] {logging_mixin.py:115} INFO - [2023-08-01 23:05:59,088] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:05:59,089] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:05:59,102] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.257 seconds
+[2023-08-01 23:06:29,733] {processor.py:153} INFO - Started process (PID=1169) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:06:29,735] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:06:29,736] {logging_mixin.py:115} INFO - [2023-08-01 23:06:29,736] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:06:29,747] {logging_mixin.py:115} INFO - [2023-08-01 23:06:29,745] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:06:29,974] {logging_mixin.py:115} INFO - [2023-08-01 23:06:29,973] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:06:29,976] {logging_mixin.py:115} INFO - [2023-08-01 23:06:29,976] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:06:29,979] {logging_mixin.py:115} INFO - [2023-08-01 23:06:29,978] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:06:29,982] {logging_mixin.py:115} INFO - [2023-08-01 23:06:29,981] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:06:29,983] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:06:29,994] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.263 seconds
+[2023-08-01 23:07:00,573] {processor.py:153} INFO - Started process (PID=1228) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:07:00,575] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:07:00,575] {logging_mixin.py:115} INFO - [2023-08-01 23:07:00,575] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:07:00,582] {logging_mixin.py:115} INFO - [2023-08-01 23:07:00,582] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:00,800] {logging_mixin.py:115} INFO - [2023-08-01 23:07:00,799] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:00,803] {logging_mixin.py:115} INFO - [2023-08-01 23:07:00,803] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:00,806] {logging_mixin.py:115} INFO - [2023-08-01 23:07:00,805] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:00,810] {logging_mixin.py:115} INFO - [2023-08-01 23:07:00,808] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:00,811] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:07:00,823] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.252 seconds
+[2023-08-01 23:07:31,518] {processor.py:153} INFO - Started process (PID=1285) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:07:31,519] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:07:31,520] {logging_mixin.py:115} INFO - [2023-08-01 23:07:31,520] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:07:31,529] {logging_mixin.py:115} INFO - [2023-08-01 23:07:31,528] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:31,758] {logging_mixin.py:115} INFO - [2023-08-01 23:07:31,757] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:31,762] {logging_mixin.py:115} INFO - [2023-08-01 23:07:31,761] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:31,765] {logging_mixin.py:115} INFO - [2023-08-01 23:07:31,764] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:31,768] {logging_mixin.py:115} INFO - [2023-08-01 23:07:31,768] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:07:31,769] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:07:31,781] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.266 seconds
+[2023-08-01 23:08:03,073] {processor.py:153} INFO - Started process (PID=1333) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:08:03,075] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:08:03,076] {logging_mixin.py:115} INFO - [2023-08-01 23:08:03,076] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:08:03,084] {logging_mixin.py:115} INFO - [2023-08-01 23:08:03,083] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:03,426] {logging_mixin.py:115} INFO - [2023-08-01 23:08:03,422] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:03,433] {logging_mixin.py:115} INFO - [2023-08-01 23:08:03,431] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:03,444] {logging_mixin.py:115} INFO - [2023-08-01 23:08:03,440] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:03,456] {logging_mixin.py:115} INFO - [2023-08-01 23:08:03,455] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:03,458] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:08:03,486] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.415 seconds
+[2023-08-01 23:08:33,903] {processor.py:153} INFO - Started process (PID=1390) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:08:33,905] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:08:33,906] {logging_mixin.py:115} INFO - [2023-08-01 23:08:33,906] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:08:33,914] {logging_mixin.py:115} INFO - [2023-08-01 23:08:33,913] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:34,148] {logging_mixin.py:115} INFO - [2023-08-01 23:08:34,148] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:34,151] {logging_mixin.py:115} INFO - [2023-08-01 23:08:34,151] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:34,162] {logging_mixin.py:115} INFO - [2023-08-01 23:08:34,160] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:34,166] {logging_mixin.py:115} INFO - [2023-08-01 23:08:34,165] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:08:34,167] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:08:34,179] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.280 seconds
+[2023-08-01 23:09:05,037] {processor.py:153} INFO - Started process (PID=1451) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:09:05,039] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:09:05,039] {logging_mixin.py:115} INFO - [2023-08-01 23:09:05,039] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:09:05,047] {logging_mixin.py:115} INFO - [2023-08-01 23:09:05,046] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:05,297] {logging_mixin.py:115} INFO - [2023-08-01 23:09:05,297] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:05,301] {logging_mixin.py:115} INFO - [2023-08-01 23:09:05,300] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:05,304] {logging_mixin.py:115} INFO - [2023-08-01 23:09:05,303] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:05,307] {logging_mixin.py:115} INFO - [2023-08-01 23:09:05,306] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:05,308] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:09:05,321] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.286 seconds
+[2023-08-01 23:09:36,258] {processor.py:153} INFO - Started process (PID=1518) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:09:36,264] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:09:36,266] {logging_mixin.py:115} INFO - [2023-08-01 23:09:36,266] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:09:36,293] {logging_mixin.py:115} INFO - [2023-08-01 23:09:36,292] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:36,634] {logging_mixin.py:115} INFO - [2023-08-01 23:09:36,634] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:36,639] {logging_mixin.py:115} INFO - [2023-08-01 23:09:36,637] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:36,645] {logging_mixin.py:115} INFO - [2023-08-01 23:09:36,641] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:36,649] {logging_mixin.py:115} INFO - [2023-08-01 23:09:36,648] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:09:36,651] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:09:36,694] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.439 seconds
+[2023-08-01 23:10:07,109] {processor.py:153} INFO - Started process (PID=1565) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:10:07,110] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:10:07,111] {logging_mixin.py:115} INFO - [2023-08-01 23:10:07,111] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:10:07,118] {logging_mixin.py:115} INFO - [2023-08-01 23:10:07,117] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:07,353] {logging_mixin.py:115} INFO - [2023-08-01 23:10:07,352] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:07,356] {logging_mixin.py:115} INFO - [2023-08-01 23:10:07,355] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:07,358] {logging_mixin.py:115} INFO - [2023-08-01 23:10:07,358] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:07,361] {logging_mixin.py:115} INFO - [2023-08-01 23:10:07,360] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:07,362] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:10:07,374] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.268 seconds
+[2023-08-01 23:10:37,951] {processor.py:153} INFO - Started process (PID=1622) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:10:37,952] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:10:37,953] {logging_mixin.py:115} INFO - [2023-08-01 23:10:37,953] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:10:37,960] {logging_mixin.py:115} INFO - [2023-08-01 23:10:37,960] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:38,270] {logging_mixin.py:115} INFO - [2023-08-01 23:10:38,270] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:38,273] {logging_mixin.py:115} INFO - [2023-08-01 23:10:38,272] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:38,275] {logging_mixin.py:115} INFO - [2023-08-01 23:10:38,275] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:38,283] {logging_mixin.py:115} INFO - [2023-08-01 23:10:38,282] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:10:38,284] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:10:38,317] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.369 seconds
+[2023-08-01 23:11:08,847] {processor.py:153} INFO - Started process (PID=1679) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:11:08,849] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:11:08,850] {logging_mixin.py:115} INFO - [2023-08-01 23:11:08,850] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:11:08,858] {logging_mixin.py:115} INFO - [2023-08-01 23:11:08,858] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:09,110] {logging_mixin.py:115} INFO - [2023-08-01 23:11:09,109] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:09,113] {logging_mixin.py:115} INFO - [2023-08-01 23:11:09,112] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:09,115] {logging_mixin.py:115} INFO - [2023-08-01 23:11:09,115] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:09,117] {logging_mixin.py:115} INFO - [2023-08-01 23:11:09,117] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:09,118] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:11:09,131] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.290 seconds
+[2023-08-01 23:11:39,734] {processor.py:153} INFO - Started process (PID=1738) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:11:39,736] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:11:39,736] {logging_mixin.py:115} INFO - [2023-08-01 23:11:39,736] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:11:39,747] {logging_mixin.py:115} INFO - [2023-08-01 23:11:39,746] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:39,980] {logging_mixin.py:115} INFO - [2023-08-01 23:11:39,979] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:39,982] {logging_mixin.py:115} INFO - [2023-08-01 23:11:39,982] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:39,985] {logging_mixin.py:115} INFO - [2023-08-01 23:11:39,984] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:39,988] {logging_mixin.py:115} INFO - [2023-08-01 23:11:39,987] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:11:39,988] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:11:39,999] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.268 seconds
+[2023-08-01 23:12:10,899] {processor.py:153} INFO - Started process (PID=1785) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:12:10,900] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:12:10,901] {logging_mixin.py:115} INFO - [2023-08-01 23:12:10,901] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:12:10,913] {logging_mixin.py:115} INFO - [2023-08-01 23:12:10,912] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:11,149] {logging_mixin.py:115} INFO - [2023-08-01 23:12:11,148] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:11,153] {logging_mixin.py:115} INFO - [2023-08-01 23:12:11,152] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:11,156] {logging_mixin.py:115} INFO - [2023-08-01 23:12:11,154] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:11,158] {logging_mixin.py:115} INFO - [2023-08-01 23:12:11,157] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:11,159] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:12:11,170] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.275 seconds
+[2023-08-01 23:12:41,546] {processor.py:153} INFO - Started process (PID=1843) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:12:41,547] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:12:41,548] {logging_mixin.py:115} INFO - [2023-08-01 23:12:41,548] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:12:41,555] {logging_mixin.py:115} INFO - [2023-08-01 23:12:41,555] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:41,799] {logging_mixin.py:115} INFO - [2023-08-01 23:12:41,798] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:41,802] {logging_mixin.py:115} INFO - [2023-08-01 23:12:41,802] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:41,805] {logging_mixin.py:115} INFO - [2023-08-01 23:12:41,804] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:41,808] {logging_mixin.py:115} INFO - [2023-08-01 23:12:41,807] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:12:41,808] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:12:41,820] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.277 seconds
+[2023-08-01 23:13:12,293] {processor.py:153} INFO - Started process (PID=1899) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:13:12,294] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:13:12,295] {logging_mixin.py:115} INFO - [2023-08-01 23:13:12,295] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:13:12,302] {logging_mixin.py:115} INFO - [2023-08-01 23:13:12,301] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:12,526] {logging_mixin.py:115} INFO - [2023-08-01 23:13:12,525] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:12,531] {logging_mixin.py:115} INFO - [2023-08-01 23:13:12,529] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:12,534] {logging_mixin.py:115} INFO - [2023-08-01 23:13:12,533] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:12,537] {logging_mixin.py:115} INFO - [2023-08-01 23:13:12,536] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:12,538] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:13:12,550] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.260 seconds
+[2023-08-01 23:13:43,143] {processor.py:153} INFO - Started process (PID=1957) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:13:43,145] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:13:43,145] {logging_mixin.py:115} INFO - [2023-08-01 23:13:43,145] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:13:43,156] {logging_mixin.py:115} INFO - [2023-08-01 23:13:43,152] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:43,389] {logging_mixin.py:115} INFO - [2023-08-01 23:13:43,389] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:43,392] {logging_mixin.py:115} INFO - [2023-08-01 23:13:43,392] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:43,395] {logging_mixin.py:115} INFO - [2023-08-01 23:13:43,394] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:43,397] {logging_mixin.py:115} INFO - [2023-08-01 23:13:43,397] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:13:43,398] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:13:43,410] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.270 seconds
+[2023-08-01 23:14:14,342] {processor.py:153} INFO - Started process (PID=2013) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:14:14,344] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:14:14,345] {logging_mixin.py:115} INFO - [2023-08-01 23:14:14,345] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:14:14,359] {logging_mixin.py:115} INFO - [2023-08-01 23:14:14,358] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:14,611] {logging_mixin.py:115} INFO - [2023-08-01 23:14:14,609] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:14,614] {logging_mixin.py:115} INFO - [2023-08-01 23:14:14,613] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:14,616] {logging_mixin.py:115} INFO - [2023-08-01 23:14:14,615] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:14,619] {logging_mixin.py:115} INFO - [2023-08-01 23:14:14,618] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:14,620] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:14:14,633] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.295 seconds
+[2023-08-01 23:14:45,065] {processor.py:153} INFO - Started process (PID=2061) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:14:45,066] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:14:45,067] {logging_mixin.py:115} INFO - [2023-08-01 23:14:45,067] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:14:45,073] {logging_mixin.py:115} INFO - [2023-08-01 23:14:45,073] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:45,318] {logging_mixin.py:115} INFO - [2023-08-01 23:14:45,317] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:45,321] {logging_mixin.py:115} INFO - [2023-08-01 23:14:45,320] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:45,323] {logging_mixin.py:115} INFO - [2023-08-01 23:14:45,323] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:45,326] {logging_mixin.py:115} INFO - [2023-08-01 23:14:45,325] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:14:45,327] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:14:45,340] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.281 seconds
+[2023-08-01 23:15:16,190] {processor.py:153} INFO - Started process (PID=2117) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:15:16,192] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:15:16,193] {logging_mixin.py:115} INFO - [2023-08-01 23:15:16,193] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:15:16,200] {logging_mixin.py:115} INFO - [2023-08-01 23:15:16,200] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:16,467] {logging_mixin.py:115} INFO - [2023-08-01 23:15:16,467] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:16,469] {logging_mixin.py:115} INFO - [2023-08-01 23:15:16,469] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:16,473] {logging_mixin.py:115} INFO - [2023-08-01 23:15:16,471] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:16,476] {logging_mixin.py:115} INFO - [2023-08-01 23:15:16,475] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:16,477] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:15:16,487] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.299 seconds
+[2023-08-01 23:15:46,997] {processor.py:153} INFO - Started process (PID=2173) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:15:46,998] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:15:46,999] {logging_mixin.py:115} INFO - [2023-08-01 23:15:46,998] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:15:47,009] {logging_mixin.py:115} INFO - [2023-08-01 23:15:47,008] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:47,278] {logging_mixin.py:115} INFO - [2023-08-01 23:15:47,278] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:47,281] {logging_mixin.py:115} INFO - [2023-08-01 23:15:47,280] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:47,285] {logging_mixin.py:115} INFO - [2023-08-01 23:15:47,283] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:47,287] {logging_mixin.py:115} INFO - [2023-08-01 23:15:47,287] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:15:47,288] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:15:47,300] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.307 seconds
+[2023-08-01 23:16:18,101] {processor.py:153} INFO - Started process (PID=2230) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:16:18,102] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:16:18,103] {logging_mixin.py:115} INFO - [2023-08-01 23:16:18,102] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:16:18,110] {logging_mixin.py:115} INFO - [2023-08-01 23:16:18,109] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:18,345] {logging_mixin.py:115} INFO - [2023-08-01 23:16:18,344] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:18,347] {logging_mixin.py:115} INFO - [2023-08-01 23:16:18,347] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:18,350] {logging_mixin.py:115} INFO - [2023-08-01 23:16:18,349] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:18,352] {logging_mixin.py:115} INFO - [2023-08-01 23:16:18,352] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:18,353] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:16:18,364] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.266 seconds
+[2023-08-01 23:16:48,799] {processor.py:153} INFO - Started process (PID=2279) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:16:48,800] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:16:48,801] {logging_mixin.py:115} INFO - [2023-08-01 23:16:48,801] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:16:48,808] {logging_mixin.py:115} INFO - [2023-08-01 23:16:48,807] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:49,032] {logging_mixin.py:115} INFO - [2023-08-01 23:16:49,031] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:49,036] {logging_mixin.py:115} INFO - [2023-08-01 23:16:49,035] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:49,039] {logging_mixin.py:115} INFO - [2023-08-01 23:16:49,038] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:49,042] {logging_mixin.py:115} INFO - [2023-08-01 23:16:49,042] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:16:49,044] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:16:49,063] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.268 seconds
+[2023-08-01 23:17:19,878] {processor.py:153} INFO - Started process (PID=2336) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:17:19,879] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:17:19,880] {logging_mixin.py:115} INFO - [2023-08-01 23:17:19,880] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:17:19,887] {logging_mixin.py:115} INFO - [2023-08-01 23:17:19,886] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:20,116] {logging_mixin.py:115} INFO - [2023-08-01 23:17:20,115] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:20,119] {logging_mixin.py:115} INFO - [2023-08-01 23:17:20,118] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:20,121] {logging_mixin.py:115} INFO - [2023-08-01 23:17:20,121] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:20,124] {logging_mixin.py:115} INFO - [2023-08-01 23:17:20,123] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:20,125] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:17:20,138] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.263 seconds
+[2023-08-01 23:17:50,742] {processor.py:153} INFO - Started process (PID=2393) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:17:50,743] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:17:50,744] {logging_mixin.py:115} INFO - [2023-08-01 23:17:50,744] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:17:50,752] {logging_mixin.py:115} INFO - [2023-08-01 23:17:50,751] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:51,006] {logging_mixin.py:115} INFO - [2023-08-01 23:17:51,006] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:51,009] {logging_mixin.py:115} INFO - [2023-08-01 23:17:51,009] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:51,012] {logging_mixin.py:115} INFO - [2023-08-01 23:17:51,011] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:51,014] {logging_mixin.py:115} INFO - [2023-08-01 23:17:51,014] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:17:51,015] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:17:51,029] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.289 seconds
+[2023-08-01 23:18:21,876] {processor.py:153} INFO - Started process (PID=2450) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:18:21,877] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:18:21,877] {logging_mixin.py:115} INFO - [2023-08-01 23:18:21,877] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:18:21,884] {logging_mixin.py:115} INFO - [2023-08-01 23:18:21,883] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:22,130] {logging_mixin.py:115} INFO - [2023-08-01 23:18:22,129] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:22,132] {logging_mixin.py:115} INFO - [2023-08-01 23:18:22,132] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:22,135] {logging_mixin.py:115} INFO - [2023-08-01 23:18:22,134] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:22,137] {logging_mixin.py:115} INFO - [2023-08-01 23:18:22,137] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:22,138] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:18:22,149] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.276 seconds
+[2023-08-01 23:18:53,415] {processor.py:153} INFO - Started process (PID=2498) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:18:53,417] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:18:53,418] {logging_mixin.py:115} INFO - [2023-08-01 23:18:53,418] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:18:53,431] {logging_mixin.py:115} INFO - [2023-08-01 23:18:53,429] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:53,726] {logging_mixin.py:115} INFO - [2023-08-01 23:18:53,725] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:53,732] {logging_mixin.py:115} INFO - [2023-08-01 23:18:53,730] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:53,738] {logging_mixin.py:115} INFO - [2023-08-01 23:18:53,737] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:53,741] {logging_mixin.py:115} INFO - [2023-08-01 23:18:53,741] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:18:53,742] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:18:53,760] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.350 seconds
+[2023-08-01 23:19:24,735] {processor.py:153} INFO - Started process (PID=2555) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:19:24,736] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:19:24,737] {logging_mixin.py:115} INFO - [2023-08-01 23:19:24,737] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:19:24,746] {logging_mixin.py:115} INFO - [2023-08-01 23:19:24,745] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:25,109] {logging_mixin.py:115} INFO - [2023-08-01 23:19:25,109] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:25,112] {logging_mixin.py:115} INFO - [2023-08-01 23:19:25,112] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:25,118] {logging_mixin.py:115} INFO - [2023-08-01 23:19:25,117] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:25,135] {logging_mixin.py:115} INFO - [2023-08-01 23:19:25,134] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:25,138] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:19:25,157] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.426 seconds
+[2023-08-01 23:19:55,680] {processor.py:153} INFO - Started process (PID=2612) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:19:55,682] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:19:55,683] {logging_mixin.py:115} INFO - [2023-08-01 23:19:55,683] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:19:55,691] {logging_mixin.py:115} INFO - [2023-08-01 23:19:55,691] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:55,960] {logging_mixin.py:115} INFO - [2023-08-01 23:19:55,960] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:55,963] {logging_mixin.py:115} INFO - [2023-08-01 23:19:55,962] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:55,965] {logging_mixin.py:115} INFO - [2023-08-01 23:19:55,965] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:55,968] {logging_mixin.py:115} INFO - [2023-08-01 23:19:55,967] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:19:55,969] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:19:55,979] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.305 seconds
+[2023-08-01 23:20:27,259] {processor.py:153} INFO - Started process (PID=2668) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:20:27,262] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:20:27,263] {logging_mixin.py:115} INFO - [2023-08-01 23:20:27,263] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:20:27,276] {logging_mixin.py:115} INFO - [2023-08-01 23:20:27,275] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:27,627] {logging_mixin.py:115} INFO - [2023-08-01 23:20:27,626] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:27,630] {logging_mixin.py:115} INFO - [2023-08-01 23:20:27,630] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:27,633] {logging_mixin.py:115} INFO - [2023-08-01 23:20:27,632] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:27,638] {logging_mixin.py:115} INFO - [2023-08-01 23:20:27,637] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:27,639] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:20:27,654] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.404 seconds
+[2023-08-01 23:20:58,349] {processor.py:153} INFO - Started process (PID=2716) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:20:58,351] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:20:58,353] {logging_mixin.py:115} INFO - [2023-08-01 23:20:58,353] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:20:58,369] {logging_mixin.py:115} INFO - [2023-08-01 23:20:58,368] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:59,005] {logging_mixin.py:115} INFO - [2023-08-01 23:20:59,005] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:59,010] {logging_mixin.py:115} INFO - [2023-08-01 23:20:59,009] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:59,012] {logging_mixin.py:115} INFO - [2023-08-01 23:20:59,012] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:59,015] {logging_mixin.py:115} INFO - [2023-08-01 23:20:59,015] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:20:59,016] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:20:59,032] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.686 seconds
+[2023-08-01 23:21:29,681] {processor.py:153} INFO - Started process (PID=2774) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:21:29,682] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:21:29,683] {logging_mixin.py:115} INFO - [2023-08-01 23:21:29,683] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:21:29,689] {logging_mixin.py:115} INFO - [2023-08-01 23:21:29,688] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:21:29,822] {logging_mixin.py:115} INFO - [2023-08-01 23:21:29,821] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:21:29,824] {logging_mixin.py:115} INFO - [2023-08-01 23:21:29,824] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:21:29,827] {logging_mixin.py:115} INFO - [2023-08-01 23:21:29,826] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:21:29,829] {logging_mixin.py:115} INFO - [2023-08-01 23:21:29,829] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:21:29,830] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:21:29,842] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.278 seconds
+[2023-08-01 23:22:00,351] {processor.py:153} INFO - Started process (PID=2831) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:22:00,352] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:22:00,353] {logging_mixin.py:115} INFO - [2023-08-01 23:22:00,353] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:22:00,358] {logging_mixin.py:115} INFO - [2023-08-01 23:22:00,358] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:00,489] {logging_mixin.py:115} INFO - [2023-08-01 23:22:00,488] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:00,492] {logging_mixin.py:115} INFO - [2023-08-01 23:22:00,491] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:00,495] {logging_mixin.py:115} INFO - [2023-08-01 23:22:00,494] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:00,497] {logging_mixin.py:115} INFO - [2023-08-01 23:22:00,497] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:00,498] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:22:00,510] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.271 seconds
+[2023-08-01 23:22:31,319] {processor.py:153} INFO - Started process (PID=2888) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:22:31,320] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:22:31,321] {logging_mixin.py:115} INFO - [2023-08-01 23:22:31,321] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:22:31,326] {logging_mixin.py:115} INFO - [2023-08-01 23:22:31,325] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:31,452] {logging_mixin.py:115} INFO - [2023-08-01 23:22:31,451] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:31,455] {logging_mixin.py:115} INFO - [2023-08-01 23:22:31,454] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:31,457] {logging_mixin.py:115} INFO - [2023-08-01 23:22:31,457] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:31,460] {logging_mixin.py:115} INFO - [2023-08-01 23:22:31,459] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:22:31,461] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:22:31,473] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.274 seconds
+[2023-08-01 23:23:01,991] {processor.py:153} INFO - Started process (PID=2937) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:23:01,999] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:23:02,002] {logging_mixin.py:115} INFO - [2023-08-01 23:23:02,002] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:23:02,019] {logging_mixin.py:115} INFO - [2023-08-01 23:23:02,019] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:02,182] {logging_mixin.py:115} INFO - [2023-08-01 23:23:02,181] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:02,185] {logging_mixin.py:115} INFO - [2023-08-01 23:23:02,185] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:02,189] {logging_mixin.py:115} INFO - [2023-08-01 23:23:02,188] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:02,191] {logging_mixin.py:115} INFO - [2023-08-01 23:23:02,191] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:02,192] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:23:02,208] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.221 seconds
+[2023-08-01 23:23:32,541] {processor.py:153} INFO - Started process (PID=2993) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:23:32,543] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:23:32,544] {logging_mixin.py:115} INFO - [2023-08-01 23:23:32,544] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:23:32,553] {logging_mixin.py:115} INFO - [2023-08-01 23:23:32,552] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:32,729] {logging_mixin.py:115} INFO - [2023-08-01 23:23:32,729] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:32,733] {logging_mixin.py:115} INFO - [2023-08-01 23:23:32,732] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:32,736] {logging_mixin.py:115} INFO - [2023-08-01 23:23:32,735] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:32,741] {logging_mixin.py:115} INFO - [2023-08-01 23:23:32,739] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:23:32,744] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:23:32,767] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.229 seconds
+[2023-08-01 23:24:03,211] {processor.py:153} INFO - Started process (PID=3050) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:24:03,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:24:03,214] {logging_mixin.py:115} INFO - [2023-08-01 23:24:03,214] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:24:03,222] {logging_mixin.py:115} INFO - [2023-08-01 23:24:03,222] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:03,352] {logging_mixin.py:115} INFO - [2023-08-01 23:24:03,351] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:03,354] {logging_mixin.py:115} INFO - [2023-08-01 23:24:03,354] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:03,357] {logging_mixin.py:115} INFO - [2023-08-01 23:24:03,356] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:03,359] {logging_mixin.py:115} INFO - [2023-08-01 23:24:03,358] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:03,360] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:24:03,373] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.166 seconds
+[2023-08-01 23:24:33,884] {processor.py:153} INFO - Started process (PID=3106) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:24:33,885] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:24:33,886] {logging_mixin.py:115} INFO - [2023-08-01 23:24:33,886] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:24:33,894] {logging_mixin.py:115} INFO - [2023-08-01 23:24:33,894] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:34,036] {logging_mixin.py:115} INFO - [2023-08-01 23:24:34,036] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:34,040] {logging_mixin.py:115} INFO - [2023-08-01 23:24:34,039] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:34,042] {logging_mixin.py:115} INFO - [2023-08-01 23:24:34,042] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:34,045] {logging_mixin.py:115} INFO - [2023-08-01 23:24:34,044] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:24:34,046] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:24:34,060] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.179 seconds
+[2023-08-01 23:25:04,577] {processor.py:153} INFO - Started process (PID=3154) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:25:04,581] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:25:04,582] {logging_mixin.py:115} INFO - [2023-08-01 23:25:04,582] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:25:04,590] {logging_mixin.py:115} INFO - [2023-08-01 23:25:04,590] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:04,734] {logging_mixin.py:115} INFO - [2023-08-01 23:25:04,734] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:04,737] {logging_mixin.py:115} INFO - [2023-08-01 23:25:04,737] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:04,740] {logging_mixin.py:115} INFO - [2023-08-01 23:25:04,739] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:04,742] {logging_mixin.py:115} INFO - [2023-08-01 23:25:04,742] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:04,744] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:25:04,763] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.190 seconds
+[2023-08-01 23:25:35,667] {processor.py:153} INFO - Started process (PID=3212) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:25:35,668] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:25:35,669] {logging_mixin.py:115} INFO - [2023-08-01 23:25:35,669] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:25:35,676] {logging_mixin.py:115} INFO - [2023-08-01 23:25:35,676] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:35,818] {logging_mixin.py:115} INFO - [2023-08-01 23:25:35,817] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:35,821] {logging_mixin.py:115} INFO - [2023-08-01 23:25:35,821] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:35,825] {logging_mixin.py:115} INFO - [2023-08-01 23:25:35,825] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:35,830] {logging_mixin.py:115} INFO - [2023-08-01 23:25:35,828] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:25:35,831] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:25:35,848] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.184 seconds
+[2023-08-01 23:26:06,263] {processor.py:153} INFO - Started process (PID=3269) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:26:06,265] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:26:06,265] {logging_mixin.py:115} INFO - [2023-08-01 23:26:06,265] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:26:06,273] {logging_mixin.py:115} INFO - [2023-08-01 23:26:06,273] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:06,417] {logging_mixin.py:115} INFO - [2023-08-01 23:26:06,417] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:06,420] {logging_mixin.py:115} INFO - [2023-08-01 23:26:06,419] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:06,422] {logging_mixin.py:115} INFO - [2023-08-01 23:26:06,422] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:06,425] {logging_mixin.py:115} INFO - [2023-08-01 23:26:06,424] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:06,426] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:26:06,440] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.179 seconds
+[2023-08-01 23:26:36,732] {processor.py:153} INFO - Started process (PID=3326) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:26:36,733] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:26:36,734] {logging_mixin.py:115} INFO - [2023-08-01 23:26:36,734] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:26:36,741] {logging_mixin.py:115} INFO - [2023-08-01 23:26:36,740] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:36,890] {logging_mixin.py:115} INFO - [2023-08-01 23:26:36,889] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:36,894] {logging_mixin.py:115} INFO - [2023-08-01 23:26:36,893] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:36,897] {logging_mixin.py:115} INFO - [2023-08-01 23:26:36,896] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:36,901] {logging_mixin.py:115} INFO - [2023-08-01 23:26:36,899] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:26:36,902] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:26:36,918] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.189 seconds
+[2023-08-01 23:27:10,034] {processor.py:153} INFO - Started process (PID=3391) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:27:10,051] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:27:10,065] {logging_mixin.py:115} INFO - [2023-08-01 23:27:10,064] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:27:10,250] {logging_mixin.py:115} INFO - [2023-08-01 23:27:10,240] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:10,946] {logging_mixin.py:115} INFO - [2023-08-01 23:27:10,941] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:10,956] {logging_mixin.py:115} INFO - [2023-08-01 23:27:10,955] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:10,973] {logging_mixin.py:115} INFO - [2023-08-01 23:27:10,968] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:11,046] {logging_mixin.py:115} INFO - [2023-08-01 23:27:11,039] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:11,064] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:27:11,198] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 1.169 seconds
+[2023-08-01 23:27:41,475] {processor.py:153} INFO - Started process (PID=3441) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:27:41,476] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:27:41,477] {logging_mixin.py:115} INFO - [2023-08-01 23:27:41,477] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:27:41,486] {logging_mixin.py:115} INFO - [2023-08-01 23:27:41,486] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:41,703] {logging_mixin.py:115} INFO - [2023-08-01 23:27:41,702] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:41,706] {logging_mixin.py:115} INFO - [2023-08-01 23:27:41,706] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:41,708] {logging_mixin.py:115} INFO - [2023-08-01 23:27:41,708] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:41,712] {logging_mixin.py:115} INFO - [2023-08-01 23:27:41,711] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:27:41,713] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:27:41,736] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.264 seconds
+[2023-08-01 23:28:11,930] {processor.py:153} INFO - Started process (PID=3498) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:28:11,931] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:28:11,932] {logging_mixin.py:115} INFO - [2023-08-01 23:28:11,932] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:28:11,944] {logging_mixin.py:115} INFO - [2023-08-01 23:28:11,939] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:12,104] {logging_mixin.py:115} INFO - [2023-08-01 23:28:12,103] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:12,107] {logging_mixin.py:115} INFO - [2023-08-01 23:28:12,106] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:12,109] {logging_mixin.py:115} INFO - [2023-08-01 23:28:12,109] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:12,112] {logging_mixin.py:115} INFO - [2023-08-01 23:28:12,111] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:12,113] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:28:12,129] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.202 seconds
+[2023-08-01 23:28:42,838] {processor.py:153} INFO - Started process (PID=3556) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:28:42,840] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:28:42,841] {logging_mixin.py:115} INFO - [2023-08-01 23:28:42,841] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:28:42,851] {logging_mixin.py:115} INFO - [2023-08-01 23:28:42,850] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:43,028] {logging_mixin.py:115} INFO - [2023-08-01 23:28:43,027] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:43,032] {logging_mixin.py:115} INFO - [2023-08-01 23:28:43,032] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:43,035] {logging_mixin.py:115} INFO - [2023-08-01 23:28:43,034] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:43,037] {logging_mixin.py:115} INFO - [2023-08-01 23:28:43,037] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:28:43,038] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:28:43,053] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.220 seconds
+[2023-08-01 23:29:13,662] {processor.py:153} INFO - Started process (PID=3604) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:29:13,663] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:29:13,664] {logging_mixin.py:115} INFO - [2023-08-01 23:29:13,664] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:29:13,673] {logging_mixin.py:115} INFO - [2023-08-01 23:29:13,672] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:13,843] {logging_mixin.py:115} INFO - [2023-08-01 23:29:13,841] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:13,847] {logging_mixin.py:115} INFO - [2023-08-01 23:29:13,845] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:13,850] {logging_mixin.py:115} INFO - [2023-08-01 23:29:13,849] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:13,853] {logging_mixin.py:115} INFO - [2023-08-01 23:29:13,852] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:13,855] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:29:13,875] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.217 seconds
+[2023-08-01 23:29:44,192] {processor.py:153} INFO - Started process (PID=3661) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:29:44,197] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:29:44,199] {logging_mixin.py:115} INFO - [2023-08-01 23:29:44,198] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:29:44,210] {logging_mixin.py:115} INFO - [2023-08-01 23:29:44,209] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:44,411] {logging_mixin.py:115} INFO - [2023-08-01 23:29:44,410] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:44,414] {logging_mixin.py:115} INFO - [2023-08-01 23:29:44,413] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:44,416] {logging_mixin.py:115} INFO - [2023-08-01 23:29:44,416] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:44,419] {logging_mixin.py:115} INFO - [2023-08-01 23:29:44,418] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:29:44,420] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:29:44,438] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.251 seconds
+[2023-08-01 23:30:14,549] {processor.py:153} INFO - Started process (PID=3719) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:30:14,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:30:14,557] {logging_mixin.py:115} INFO - [2023-08-01 23:30:14,556] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:30:14,573] {logging_mixin.py:115} INFO - [2023-08-01 23:30:14,572] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:14,839] {logging_mixin.py:115} INFO - [2023-08-01 23:30:14,837] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:14,845] {logging_mixin.py:115} INFO - [2023-08-01 23:30:14,845] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:14,851] {logging_mixin.py:115} INFO - [2023-08-01 23:30:14,848] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:14,856] {logging_mixin.py:115} INFO - [2023-08-01 23:30:14,855] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:14,861] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:30:14,905] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.364 seconds
+[2023-08-01 23:30:45,387] {processor.py:153} INFO - Started process (PID=3767) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:30:45,388] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:30:45,389] {logging_mixin.py:115} INFO - [2023-08-01 23:30:45,389] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:30:45,397] {logging_mixin.py:115} INFO - [2023-08-01 23:30:45,396] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:45,532] {logging_mixin.py:115} INFO - [2023-08-01 23:30:45,531] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:45,535] {logging_mixin.py:115} INFO - [2023-08-01 23:30:45,534] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:45,538] {logging_mixin.py:115} INFO - [2023-08-01 23:30:45,537] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:45,540] {logging_mixin.py:115} INFO - [2023-08-01 23:30:45,540] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:30:45,541] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:30:45,555] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.171 seconds
+[2023-08-01 23:31:15,689] {processor.py:153} INFO - Started process (PID=3824) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:31:15,690] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:31:15,691] {logging_mixin.py:115} INFO - [2023-08-01 23:31:15,691] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:31:15,699] {logging_mixin.py:115} INFO - [2023-08-01 23:31:15,698] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:15,890] {logging_mixin.py:115} INFO - [2023-08-01 23:31:15,888] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:15,894] {logging_mixin.py:115} INFO - [2023-08-01 23:31:15,893] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:15,897] {logging_mixin.py:115} INFO - [2023-08-01 23:31:15,896] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:15,900] {logging_mixin.py:115} INFO - [2023-08-01 23:31:15,900] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:15,902] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:31:15,922] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.236 seconds
+[2023-08-01 23:31:46,044] {processor.py:153} INFO - Started process (PID=3880) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:31:46,045] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:31:46,046] {logging_mixin.py:115} INFO - [2023-08-01 23:31:46,046] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:31:46,052] {logging_mixin.py:115} INFO - [2023-08-01 23:31:46,052] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:46,191] {logging_mixin.py:115} INFO - [2023-08-01 23:31:46,189] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:46,193] {logging_mixin.py:115} INFO - [2023-08-01 23:31:46,193] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:46,195] {logging_mixin.py:115} INFO - [2023-08-01 23:31:46,195] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:46,197] {logging_mixin.py:115} INFO - [2023-08-01 23:31:46,197] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:31:46,199] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:31:46,214] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.174 seconds
+[2023-08-01 23:32:19,018] {processor.py:153} INFO - Started process (PID=3946) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:32:19,022] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:32:19,028] {logging_mixin.py:115} INFO - [2023-08-01 23:32:19,028] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:32:19,078] {logging_mixin.py:115} INFO - [2023-08-01 23:32:19,073] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:20,383] {logging_mixin.py:115} INFO - [2023-08-01 23:32:20,380] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:20,425] {logging_mixin.py:115} INFO - [2023-08-01 23:32:20,423] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:20,432] {logging_mixin.py:115} INFO - [2023-08-01 23:32:20,429] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:20,454] {logging_mixin.py:115} INFO - [2023-08-01 23:32:20,444] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:20,462] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:32:20,531] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 1.555 seconds
+[2023-08-01 23:32:51,164] {processor.py:153} INFO - Started process (PID=3993) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:32:51,166] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:32:51,168] {logging_mixin.py:115} INFO - [2023-08-01 23:32:51,168] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:32:51,177] {logging_mixin.py:115} INFO - [2023-08-01 23:32:51,176] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:51,382] {logging_mixin.py:115} INFO - [2023-08-01 23:32:51,381] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:51,385] {logging_mixin.py:115} INFO - [2023-08-01 23:32:51,385] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:51,388] {logging_mixin.py:115} INFO - [2023-08-01 23:32:51,387] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:51,391] {logging_mixin.py:115} INFO - [2023-08-01 23:32:51,390] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:32:51,392] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:32:51,407] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.246 seconds
+[2023-08-01 23:33:21,716] {processor.py:153} INFO - Started process (PID=4049) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:33:21,721] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:33:21,724] {logging_mixin.py:115} INFO - [2023-08-01 23:33:21,724] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:33:21,751] {logging_mixin.py:115} INFO - [2023-08-01 23:33:21,749] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:22,267] {logging_mixin.py:115} INFO - [2023-08-01 23:33:22,257] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:22,302] {logging_mixin.py:115} INFO - [2023-08-01 23:33:22,280] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:22,328] {logging_mixin.py:115} INFO - [2023-08-01 23:33:22,325] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:22,350] {logging_mixin.py:115} INFO - [2023-08-01 23:33:22,346] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:22,356] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:33:22,413] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.726 seconds
+[2023-08-01 23:33:52,493] {processor.py:153} INFO - Started process (PID=4106) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:33:52,495] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:33:52,496] {logging_mixin.py:115} INFO - [2023-08-01 23:33:52,496] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:33:52,509] {logging_mixin.py:115} INFO - [2023-08-01 23:33:52,508] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:52,694] {logging_mixin.py:115} INFO - [2023-08-01 23:33:52,694] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:52,697] {logging_mixin.py:115} INFO - [2023-08-01 23:33:52,697] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:52,699] {logging_mixin.py:115} INFO - [2023-08-01 23:33:52,699] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:52,702] {logging_mixin.py:115} INFO - [2023-08-01 23:33:52,701] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:33:52,703] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:33:52,725] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.238 seconds
+[2023-08-01 23:34:23,054] {processor.py:153} INFO - Started process (PID=4154) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:34:23,057] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:34:23,058] {logging_mixin.py:115} INFO - [2023-08-01 23:34:23,058] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:34:23,071] {logging_mixin.py:115} INFO - [2023-08-01 23:34:23,070] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:23,242] {logging_mixin.py:115} INFO - [2023-08-01 23:34:23,242] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:23,245] {logging_mixin.py:115} INFO - [2023-08-01 23:34:23,244] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:23,247] {logging_mixin.py:115} INFO - [2023-08-01 23:34:23,247] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:23,250] {logging_mixin.py:115} INFO - [2023-08-01 23:34:23,249] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:23,251] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:34:23,265] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.217 seconds
+[2023-08-01 23:34:54,092] {processor.py:153} INFO - Started process (PID=4211) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:34:54,093] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:34:54,095] {logging_mixin.py:115} INFO - [2023-08-01 23:34:54,094] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:34:54,114] {logging_mixin.py:115} INFO - [2023-08-01 23:34:54,113] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:54,307] {logging_mixin.py:115} INFO - [2023-08-01 23:34:54,307] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:54,310] {logging_mixin.py:115} INFO - [2023-08-01 23:34:54,309] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:54,312] {logging_mixin.py:115} INFO - [2023-08-01 23:34:54,312] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:54,314] {logging_mixin.py:115} INFO - [2023-08-01 23:34:54,314] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:34:54,315] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:34:54,331] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.246 seconds
+[2023-08-01 23:35:24,412] {processor.py:153} INFO - Started process (PID=4268) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:35:24,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:35:24,414] {logging_mixin.py:115} INFO - [2023-08-01 23:35:24,414] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:35:24,423] {logging_mixin.py:115} INFO - [2023-08-01 23:35:24,423] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:24,572] {logging_mixin.py:115} INFO - [2023-08-01 23:35:24,571] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:24,575] {logging_mixin.py:115} INFO - [2023-08-01 23:35:24,574] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:24,577] {logging_mixin.py:115} INFO - [2023-08-01 23:35:24,576] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:24,579] {logging_mixin.py:115} INFO - [2023-08-01 23:35:24,578] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:24,580] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:35:24,594] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.186 seconds
+[2023-08-01 23:35:55,247] {processor.py:153} INFO - Started process (PID=4325) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:35:55,249] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:35:55,257] {logging_mixin.py:115} INFO - [2023-08-01 23:35:55,257] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:35:55,267] {logging_mixin.py:115} INFO - [2023-08-01 23:35:55,267] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:55,409] {logging_mixin.py:115} INFO - [2023-08-01 23:35:55,406] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:55,412] {logging_mixin.py:115} INFO - [2023-08-01 23:35:55,411] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:55,414] {logging_mixin.py:115} INFO - [2023-08-01 23:35:55,413] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:55,416] {logging_mixin.py:115} INFO - [2023-08-01 23:35:55,416] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:35:55,417] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:35:55,432] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.189 seconds
+[2023-08-01 23:36:26,020] {processor.py:153} INFO - Started process (PID=4373) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:36:26,023] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:36:26,024] {logging_mixin.py:115} INFO - [2023-08-01 23:36:26,024] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:36:26,040] {logging_mixin.py:115} INFO - [2023-08-01 23:36:26,037] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:26,269] {logging_mixin.py:115} INFO - [2023-08-01 23:36:26,267] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:26,274] {logging_mixin.py:115} INFO - [2023-08-01 23:36:26,272] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:26,277] {logging_mixin.py:115} INFO - [2023-08-01 23:36:26,276] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:26,281] {logging_mixin.py:115} INFO - [2023-08-01 23:36:26,280] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:26,282] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:36:26,306] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.293 seconds
+[2023-08-01 23:36:56,603] {processor.py:153} INFO - Started process (PID=4430) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:36:56,604] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:36:56,606] {logging_mixin.py:115} INFO - [2023-08-01 23:36:56,606] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:36:56,616] {logging_mixin.py:115} INFO - [2023-08-01 23:36:56,616] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:56,764] {logging_mixin.py:115} INFO - [2023-08-01 23:36:56,764] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:56,767] {logging_mixin.py:115} INFO - [2023-08-01 23:36:56,767] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:56,770] {logging_mixin.py:115} INFO - [2023-08-01 23:36:56,769] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:56,772] {logging_mixin.py:115} INFO - [2023-08-01 23:36:56,772] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:36:56,773] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:36:56,789] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.190 seconds
+[2023-08-01 23:37:27,599] {processor.py:153} INFO - Started process (PID=4488) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:37:27,603] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:37:27,606] {logging_mixin.py:115} INFO - [2023-08-01 23:37:27,606] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:37:27,631] {logging_mixin.py:115} INFO - [2023-08-01 23:37:27,629] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:27,981] {logging_mixin.py:115} INFO - [2023-08-01 23:37:27,979] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:27,986] {logging_mixin.py:115} INFO - [2023-08-01 23:37:27,984] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:27,988] {logging_mixin.py:115} INFO - [2023-08-01 23:37:27,987] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:27,994] {logging_mixin.py:115} INFO - [2023-08-01 23:37:27,992] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:27,996] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:37:28,029] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.444 seconds
+[2023-08-01 23:37:58,363] {processor.py:153} INFO - Started process (PID=4545) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:37:58,367] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:37:58,369] {logging_mixin.py:115} INFO - [2023-08-01 23:37:58,369] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:37:58,385] {logging_mixin.py:115} INFO - [2023-08-01 23:37:58,384] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:58,568] {logging_mixin.py:115} INFO - [2023-08-01 23:37:58,567] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:58,573] {logging_mixin.py:115} INFO - [2023-08-01 23:37:58,572] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:58,576] {logging_mixin.py:115} INFO - [2023-08-01 23:37:58,575] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:58,579] {logging_mixin.py:115} INFO - [2023-08-01 23:37:58,578] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:37:58,580] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:37:58,603] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.249 seconds
+[2023-08-01 23:38:28,909] {processor.py:153} INFO - Started process (PID=4593) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:38:28,911] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:38:28,912] {logging_mixin.py:115} INFO - [2023-08-01 23:38:28,912] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:38:28,926] {logging_mixin.py:115} INFO - [2023-08-01 23:38:28,926] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:38:29,090] {logging_mixin.py:115} INFO - [2023-08-01 23:38:29,090] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:38:29,094] {logging_mixin.py:115} INFO - [2023-08-01 23:38:29,093] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:38:29,096] {logging_mixin.py:115} INFO - [2023-08-01 23:38:29,096] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:38:29,099] {logging_mixin.py:115} INFO - [2023-08-01 23:38:29,099] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:38:29,100] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:38:29,118] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.215 seconds
+[2023-08-01 23:38:59,863] {processor.py:153} INFO - Started process (PID=4650) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:38:59,865] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:38:59,866] {logging_mixin.py:115} INFO - [2023-08-01 23:38:59,866] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:38:59,877] {logging_mixin.py:115} INFO - [2023-08-01 23:38:59,876] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:00,051] {logging_mixin.py:115} INFO - [2023-08-01 23:39:00,050] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:00,054] {logging_mixin.py:115} INFO - [2023-08-01 23:39:00,053] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:00,057] {logging_mixin.py:115} INFO - [2023-08-01 23:39:00,056] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:00,060] {logging_mixin.py:115} INFO - [2023-08-01 23:39:00,059] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:00,061] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:39:00,083] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.224 seconds
+[2023-08-01 23:39:30,504] {processor.py:153} INFO - Started process (PID=4707) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:39:30,507] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:39:30,509] {logging_mixin.py:115} INFO - [2023-08-01 23:39:30,508] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:39:30,530] {logging_mixin.py:115} INFO - [2023-08-01 23:39:30,528] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:30,769] {logging_mixin.py:115} INFO - [2023-08-01 23:39:30,768] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:30,773] {logging_mixin.py:115} INFO - [2023-08-01 23:39:30,773] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:30,776] {logging_mixin.py:115} INFO - [2023-08-01 23:39:30,776] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:30,781] {logging_mixin.py:115} INFO - [2023-08-01 23:39:30,779] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:39:30,782] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:39:30,803] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.309 seconds
+[2023-08-01 23:40:01,054] {processor.py:153} INFO - Started process (PID=4764) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:40:01,055] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:40:01,056] {logging_mixin.py:115} INFO - [2023-08-01 23:40:01,056] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:40:01,066] {logging_mixin.py:115} INFO - [2023-08-01 23:40:01,065] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:01,243] {logging_mixin.py:115} INFO - [2023-08-01 23:40:01,242] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:01,247] {logging_mixin.py:115} INFO - [2023-08-01 23:40:01,246] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:01,250] {logging_mixin.py:115} INFO - [2023-08-01 23:40:01,249] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:01,254] {logging_mixin.py:115} INFO - [2023-08-01 23:40:01,253] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:01,256] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:40:01,276] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.226 seconds
+[2023-08-01 23:40:31,554] {processor.py:153} INFO - Started process (PID=4813) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:40:31,555] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:40:31,556] {logging_mixin.py:115} INFO - [2023-08-01 23:40:31,556] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:40:31,567] {logging_mixin.py:115} INFO - [2023-08-01 23:40:31,567] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:31,707] {logging_mixin.py:115} INFO - [2023-08-01 23:40:31,706] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:31,711] {logging_mixin.py:115} INFO - [2023-08-01 23:40:31,710] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:31,713] {logging_mixin.py:115} INFO - [2023-08-01 23:40:31,713] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:31,716] {logging_mixin.py:115} INFO - [2023-08-01 23:40:31,715] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:40:31,717] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:40:31,730] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.181 seconds
+[2023-08-01 23:41:02,307] {processor.py:153} INFO - Started process (PID=4871) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:41:02,309] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:41:02,310] {logging_mixin.py:115} INFO - [2023-08-01 23:41:02,309] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:41:02,320] {logging_mixin.py:115} INFO - [2023-08-01 23:41:02,319] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:02,509] {logging_mixin.py:115} INFO - [2023-08-01 23:41:02,508] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:02,511] {logging_mixin.py:115} INFO - [2023-08-01 23:41:02,511] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:02,514] {logging_mixin.py:115} INFO - [2023-08-01 23:41:02,513] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:02,517] {logging_mixin.py:115} INFO - [2023-08-01 23:41:02,516] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:02,518] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:41:02,533] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.230 seconds
+[2023-08-01 23:41:33,320] {processor.py:153} INFO - Started process (PID=4933) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:41:33,322] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:41:33,323] {logging_mixin.py:115} INFO - [2023-08-01 23:41:33,323] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:41:33,339] {logging_mixin.py:115} INFO - [2023-08-01 23:41:33,339] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:33,668] {logging_mixin.py:115} INFO - [2023-08-01 23:41:33,665] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:33,679] {logging_mixin.py:115} INFO - [2023-08-01 23:41:33,677] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:33,685] {logging_mixin.py:115} INFO - [2023-08-01 23:41:33,683] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:33,695] {logging_mixin.py:115} INFO - [2023-08-01 23:41:33,694] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:41:33,697] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:41:33,754] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.443 seconds
+[2023-08-01 23:42:04,096] {processor.py:153} INFO - Started process (PID=4989) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:42:04,101] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:42:04,105] {logging_mixin.py:115} INFO - [2023-08-01 23:42:04,105] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:42:04,130] {logging_mixin.py:115} INFO - [2023-08-01 23:42:04,128] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:04,365] {logging_mixin.py:115} INFO - [2023-08-01 23:42:04,364] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:04,372] {logging_mixin.py:115} INFO - [2023-08-01 23:42:04,369] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:04,375] {logging_mixin.py:115} INFO - [2023-08-01 23:42:04,375] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:04,380] {logging_mixin.py:115} INFO - [2023-08-01 23:42:04,380] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:04,382] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:42:04,403] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.315 seconds
+[2023-08-01 23:42:35,437] {processor.py:153} INFO - Started process (PID=5046) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:42:35,440] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:42:35,441] {logging_mixin.py:115} INFO - [2023-08-01 23:42:35,441] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:42:35,451] {logging_mixin.py:115} INFO - [2023-08-01 23:42:35,450] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:35,621] {logging_mixin.py:115} INFO - [2023-08-01 23:42:35,620] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:35,625] {logging_mixin.py:115} INFO - [2023-08-01 23:42:35,625] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:35,628] {logging_mixin.py:115} INFO - [2023-08-01 23:42:35,628] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:35,631] {logging_mixin.py:115} INFO - [2023-08-01 23:42:35,630] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:42:35,633] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:42:35,662] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.230 seconds
+[2023-08-01 23:43:05,886] {processor.py:153} INFO - Started process (PID=5110) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:43:05,889] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:43:05,890] {logging_mixin.py:115} INFO - [2023-08-01 23:43:05,890] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:43:05,922] {logging_mixin.py:115} INFO - [2023-08-01 23:43:05,922] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:06,277] {logging_mixin.py:115} INFO - [2023-08-01 23:43:06,275] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:06,282] {logging_mixin.py:115} INFO - [2023-08-01 23:43:06,281] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:06,286] {logging_mixin.py:115} INFO - [2023-08-01 23:43:06,285] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:06,295] {logging_mixin.py:115} INFO - [2023-08-01 23:43:06,289] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:06,306] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:43:06,366] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.487 seconds
+[2023-08-01 23:43:37,400] {processor.py:153} INFO - Started process (PID=5158) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:43:37,404] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:43:37,405] {logging_mixin.py:115} INFO - [2023-08-01 23:43:37,405] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:43:37,417] {logging_mixin.py:115} INFO - [2023-08-01 23:43:37,417] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:37,585] {logging_mixin.py:115} INFO - [2023-08-01 23:43:37,585] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:37,588] {logging_mixin.py:115} INFO - [2023-08-01 23:43:37,587] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:37,594] {logging_mixin.py:115} INFO - [2023-08-01 23:43:37,591] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:37,599] {logging_mixin.py:115} INFO - [2023-08-01 23:43:37,598] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:43:37,600] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:43:37,617] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.224 seconds
+[2023-08-01 23:44:07,883] {processor.py:153} INFO - Started process (PID=5215) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:44:07,885] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:44:07,885] {logging_mixin.py:115} INFO - [2023-08-01 23:44:07,885] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:44:07,894] {logging_mixin.py:115} INFO - [2023-08-01 23:44:07,894] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:08,146] {logging_mixin.py:115} INFO - [2023-08-01 23:44:08,145] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:08,151] {logging_mixin.py:115} INFO - [2023-08-01 23:44:08,150] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:08,153] {logging_mixin.py:115} INFO - [2023-08-01 23:44:08,153] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:08,156] {logging_mixin.py:115} INFO - [2023-08-01 23:44:08,156] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:08,158] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:44:08,186] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.306 seconds
+[2023-08-01 23:44:38,277] {processor.py:153} INFO - Started process (PID=5273) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:44:38,278] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:44:38,279] {logging_mixin.py:115} INFO - [2023-08-01 23:44:38,279] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:44:38,287] {logging_mixin.py:115} INFO - [2023-08-01 23:44:38,287] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:38,420] {logging_mixin.py:115} INFO - [2023-08-01 23:44:38,419] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:38,423] {logging_mixin.py:115} INFO - [2023-08-01 23:44:38,422] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:38,425] {logging_mixin.py:115} INFO - [2023-08-01 23:44:38,425] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:38,427] {logging_mixin.py:115} INFO - [2023-08-01 23:44:38,427] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:44:38,428] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:44:38,443] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.170 seconds
+[2023-08-01 23:45:08,603] {processor.py:153} INFO - Started process (PID=5330) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:45:08,604] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:45:08,606] {logging_mixin.py:115} INFO - [2023-08-01 23:45:08,606] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:45:08,616] {logging_mixin.py:115} INFO - [2023-08-01 23:45:08,615] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:08,831] {logging_mixin.py:115} INFO - [2023-08-01 23:45:08,830] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:08,834] {logging_mixin.py:115} INFO - [2023-08-01 23:45:08,833] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:08,837] {logging_mixin.py:115} INFO - [2023-08-01 23:45:08,836] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:08,840] {logging_mixin.py:115} INFO - [2023-08-01 23:45:08,840] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:08,841] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:45:08,864] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.267 seconds
+[2023-08-01 23:45:39,868] {processor.py:153} INFO - Started process (PID=5390) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:45:39,872] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:45:39,882] {logging_mixin.py:115} INFO - [2023-08-01 23:45:39,881] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:45:40,026] {logging_mixin.py:115} INFO - [2023-08-01 23:45:40,023] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:41,200] {logging_mixin.py:115} INFO - [2023-08-01 23:45:41,192] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:41,259] {logging_mixin.py:115} INFO - [2023-08-01 23:45:41,249] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:41,305] {logging_mixin.py:115} INFO - [2023-08-01 23:45:41,298] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:41,344] {logging_mixin.py:115} INFO - [2023-08-01 23:45:41,331] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:45:41,356] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:45:41,740] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 1.947 seconds
+[2023-08-01 23:46:12,422] {processor.py:153} INFO - Started process (PID=5446) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:46:12,425] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:46:12,427] {logging_mixin.py:115} INFO - [2023-08-01 23:46:12,427] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:46:12,444] {logging_mixin.py:115} INFO - [2023-08-01 23:46:12,443] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:12,931] {logging_mixin.py:115} INFO - [2023-08-01 23:46:12,930] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:12,935] {logging_mixin.py:115} INFO - [2023-08-01 23:46:12,935] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:12,938] {logging_mixin.py:115} INFO - [2023-08-01 23:46:12,938] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:12,943] {logging_mixin.py:115} INFO - [2023-08-01 23:46:12,941] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:12,948] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:46:13,009] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.596 seconds
+[2023-08-01 23:46:43,540] {processor.py:153} INFO - Started process (PID=5503) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:46:43,542] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:46:43,543] {logging_mixin.py:115} INFO - [2023-08-01 23:46:43,543] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:46:43,552] {logging_mixin.py:115} INFO - [2023-08-01 23:46:43,551] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:43,751] {logging_mixin.py:115} INFO - [2023-08-01 23:46:43,750] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:43,755] {logging_mixin.py:115} INFO - [2023-08-01 23:46:43,754] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:43,757] {logging_mixin.py:115} INFO - [2023-08-01 23:46:43,757] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:43,760] {logging_mixin.py:115} INFO - [2023-08-01 23:46:43,759] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:46:43,761] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:46:43,785] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.249 seconds
+[2023-08-01 23:47:13,968] {processor.py:153} INFO - Started process (PID=5551) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:47:13,970] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:47:13,972] {logging_mixin.py:115} INFO - [2023-08-01 23:47:13,972] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:47:13,981] {logging_mixin.py:115} INFO - [2023-08-01 23:47:13,980] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:14,145] {logging_mixin.py:115} INFO - [2023-08-01 23:47:14,144] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:14,148] {logging_mixin.py:115} INFO - [2023-08-01 23:47:14,148] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:14,151] {logging_mixin.py:115} INFO - [2023-08-01 23:47:14,150] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:14,156] {logging_mixin.py:115} INFO - [2023-08-01 23:47:14,155] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:14,157] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:47:14,173] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.210 seconds
+[2023-08-01 23:47:44,689] {processor.py:153} INFO - Started process (PID=5608) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:47:44,690] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:47:44,691] {logging_mixin.py:115} INFO - [2023-08-01 23:47:44,691] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:47:44,701] {logging_mixin.py:115} INFO - [2023-08-01 23:47:44,700] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:45,061] {logging_mixin.py:115} INFO - [2023-08-01 23:47:45,060] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:45,067] {logging_mixin.py:115} INFO - [2023-08-01 23:47:45,066] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:45,073] {logging_mixin.py:115} INFO - [2023-08-01 23:47:45,072] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:45,077] {logging_mixin.py:115} INFO - [2023-08-01 23:47:45,076] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:47:45,079] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:47:45,102] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.417 seconds
+[2023-08-01 23:48:15,648] {processor.py:153} INFO - Started process (PID=5666) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:48:15,651] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:48:15,653] {logging_mixin.py:115} INFO - [2023-08-01 23:48:15,653] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:48:15,665] {logging_mixin.py:115} INFO - [2023-08-01 23:48:15,665] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:15,972] {logging_mixin.py:115} INFO - [2023-08-01 23:48:15,971] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:15,989] {logging_mixin.py:115} INFO - [2023-08-01 23:48:15,988] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:15,993] {logging_mixin.py:115} INFO - [2023-08-01 23:48:15,992] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:15,997] {logging_mixin.py:115} INFO - [2023-08-01 23:48:15,996] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:15,999] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:48:16,030] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.399 seconds
+[2023-08-01 23:48:46,333] {processor.py:153} INFO - Started process (PID=5723) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:48:46,335] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:48:46,336] {logging_mixin.py:115} INFO - [2023-08-01 23:48:46,336] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:48:46,348] {logging_mixin.py:115} INFO - [2023-08-01 23:48:46,348] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:46,636] {logging_mixin.py:115} INFO - [2023-08-01 23:48:46,635] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:46,639] {logging_mixin.py:115} INFO - [2023-08-01 23:48:46,639] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:46,642] {logging_mixin.py:115} INFO - [2023-08-01 23:48:46,642] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:46,646] {logging_mixin.py:115} INFO - [2023-08-01 23:48:46,645] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:48:46,647] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:48:46,670] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.343 seconds
+[2023-08-01 23:49:16,728] {processor.py:153} INFO - Started process (PID=5780) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:49:16,730] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:49:16,730] {logging_mixin.py:115} INFO - [2023-08-01 23:49:16,730] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:49:16,740] {logging_mixin.py:115} INFO - [2023-08-01 23:49:16,739] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:16,923] {logging_mixin.py:115} INFO - [2023-08-01 23:49:16,922] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:16,927] {logging_mixin.py:115} INFO - [2023-08-01 23:49:16,927] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:16,931] {logging_mixin.py:115} INFO - [2023-08-01 23:49:16,930] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:16,935] {logging_mixin.py:115} INFO - [2023-08-01 23:49:16,934] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:16,936] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:49:16,957] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.233 seconds
+[2023-08-01 23:49:47,640] {processor.py:153} INFO - Started process (PID=5828) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:49:47,642] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:49:47,643] {logging_mixin.py:115} INFO - [2023-08-01 23:49:47,643] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:49:47,658] {logging_mixin.py:115} INFO - [2023-08-01 23:49:47,657] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:47,919] {logging_mixin.py:115} INFO - [2023-08-01 23:49:47,918] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:47,923] {logging_mixin.py:115} INFO - [2023-08-01 23:49:47,921] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:47,926] {logging_mixin.py:115} INFO - [2023-08-01 23:49:47,925] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:47,929] {logging_mixin.py:115} INFO - [2023-08-01 23:49:47,928] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:49:47,930] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:49:47,975] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.341 seconds
+[2023-08-01 23:50:18,581] {processor.py:153} INFO - Started process (PID=5885) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:50:18,583] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:50:18,586] {logging_mixin.py:115} INFO - [2023-08-01 23:50:18,586] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:50:18,601] {logging_mixin.py:115} INFO - [2023-08-01 23:50:18,599] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:18,834] {logging_mixin.py:115} INFO - [2023-08-01 23:50:18,833] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:18,839] {logging_mixin.py:115} INFO - [2023-08-01 23:50:18,838] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:18,841] {logging_mixin.py:115} INFO - [2023-08-01 23:50:18,840] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:18,845] {logging_mixin.py:115} INFO - [2023-08-01 23:50:18,844] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:18,846] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:50:18,871] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.312 seconds
+[2023-08-01 23:50:49,099] {processor.py:153} INFO - Started process (PID=5942) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:50:49,105] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:50:49,106] {logging_mixin.py:115} INFO - [2023-08-01 23:50:49,106] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:50:49,120] {logging_mixin.py:115} INFO - [2023-08-01 23:50:49,119] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:49,326] {logging_mixin.py:115} INFO - [2023-08-01 23:50:49,326] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:49,329] {logging_mixin.py:115} INFO - [2023-08-01 23:50:49,329] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:49,334] {logging_mixin.py:115} INFO - [2023-08-01 23:50:49,333] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:49,336] {logging_mixin.py:115} INFO - [2023-08-01 23:50:49,336] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:50:49,338] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:50:49,358] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.268 seconds
+[2023-08-01 23:51:19,793] {processor.py:153} INFO - Started process (PID=5999) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:51:19,795] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:51:19,797] {logging_mixin.py:115} INFO - [2023-08-01 23:51:19,796] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:51:19,816] {logging_mixin.py:115} INFO - [2023-08-01 23:51:19,814] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:20,062] {logging_mixin.py:115} INFO - [2023-08-01 23:51:20,062] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:20,068] {logging_mixin.py:115} INFO - [2023-08-01 23:51:20,067] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:20,075] {logging_mixin.py:115} INFO - [2023-08-01 23:51:20,073] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:20,080] {logging_mixin.py:115} INFO - [2023-08-01 23:51:20,079] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:20,081] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:51:20,104] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.327 seconds
+[2023-08-01 23:51:50,239] {processor.py:153} INFO - Started process (PID=6047) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:51:50,240] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:51:50,242] {logging_mixin.py:115} INFO - [2023-08-01 23:51:50,242] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:51:50,263] {logging_mixin.py:115} INFO - [2023-08-01 23:51:50,262] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:50,593] {logging_mixin.py:115} INFO - [2023-08-01 23:51:50,592] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:50,597] {logging_mixin.py:115} INFO - [2023-08-01 23:51:50,596] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:50,600] {logging_mixin.py:115} INFO - [2023-08-01 23:51:50,599] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:50,604] {logging_mixin.py:115} INFO - [2023-08-01 23:51:50,603] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:51:50,605] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:51:50,654] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.422 seconds
+[2023-08-01 23:52:21,336] {processor.py:153} INFO - Started process (PID=6104) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:52:21,338] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:52:21,339] {logging_mixin.py:115} INFO - [2023-08-01 23:52:21,339] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:52:21,351] {logging_mixin.py:115} INFO - [2023-08-01 23:52:21,350] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:21,524] {logging_mixin.py:115} INFO - [2023-08-01 23:52:21,524] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:21,527] {logging_mixin.py:115} INFO - [2023-08-01 23:52:21,527] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:21,531] {logging_mixin.py:115} INFO - [2023-08-01 23:52:21,530] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:21,534] {logging_mixin.py:115} INFO - [2023-08-01 23:52:21,533] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:21,535] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:52:21,551] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.221 seconds
+[2023-08-01 23:52:51,933] {processor.py:153} INFO - Started process (PID=6161) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:52:51,937] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:52:51,940] {logging_mixin.py:115} INFO - [2023-08-01 23:52:51,940] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:52:51,961] {logging_mixin.py:115} INFO - [2023-08-01 23:52:51,961] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:52,218] {logging_mixin.py:115} INFO - [2023-08-01 23:52:52,217] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:52,221] {logging_mixin.py:115} INFO - [2023-08-01 23:52:52,220] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:52,224] {logging_mixin.py:115} INFO - [2023-08-01 23:52:52,224] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:52,227] {logging_mixin.py:115} INFO - [2023-08-01 23:52:52,226] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:52:52,228] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:52:52,251] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.326 seconds
+[2023-08-01 23:53:22,435] {processor.py:153} INFO - Started process (PID=6218) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:53:22,437] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:53:22,438] {logging_mixin.py:115} INFO - [2023-08-01 23:53:22,438] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:53:22,452] {logging_mixin.py:115} INFO - [2023-08-01 23:53:22,452] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:22,792] {logging_mixin.py:115} INFO - [2023-08-01 23:53:22,791] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:22,797] {logging_mixin.py:115} INFO - [2023-08-01 23:53:22,796] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:22,800] {logging_mixin.py:115} INFO - [2023-08-01 23:53:22,800] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:22,803] {logging_mixin.py:115} INFO - [2023-08-01 23:53:22,802] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:22,804] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:53:22,836] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.406 seconds
+[2023-08-01 23:53:53,939] {processor.py:153} INFO - Started process (PID=6266) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:53:53,941] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:53:53,943] {logging_mixin.py:115} INFO - [2023-08-01 23:53:53,943] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:53:53,973] {logging_mixin.py:115} INFO - [2023-08-01 23:53:53,972] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:54,392] {logging_mixin.py:115} INFO - [2023-08-01 23:53:54,391] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:54,397] {logging_mixin.py:115} INFO - [2023-08-01 23:53:54,396] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:54,400] {logging_mixin.py:115} INFO - [2023-08-01 23:53:54,399] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:54,403] {logging_mixin.py:115} INFO - [2023-08-01 23:53:54,402] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:53:54,404] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:53:54,447] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.534 seconds
+[2023-08-01 23:54:24,755] {processor.py:153} INFO - Started process (PID=6322) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:54:24,757] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:54:24,759] {logging_mixin.py:115} INFO - [2023-08-01 23:54:24,759] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:54:24,773] {logging_mixin.py:115} INFO - [2023-08-01 23:54:24,772] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:25,070] {logging_mixin.py:115} INFO - [2023-08-01 23:54:25,068] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:25,074] {logging_mixin.py:115} INFO - [2023-08-01 23:54:25,072] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:25,077] {logging_mixin.py:115} INFO - [2023-08-01 23:54:25,076] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:25,081] {logging_mixin.py:115} INFO - [2023-08-01 23:54:25,080] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:25,082] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:54:25,103] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.359 seconds
+[2023-08-01 23:54:55,516] {processor.py:153} INFO - Started process (PID=6380) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:54:55,517] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:54:55,519] {logging_mixin.py:115} INFO - [2023-08-01 23:54:55,519] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:54:55,532] {logging_mixin.py:115} INFO - [2023-08-01 23:54:55,532] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:55,792] {logging_mixin.py:115} INFO - [2023-08-01 23:54:55,792] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:55,796] {logging_mixin.py:115} INFO - [2023-08-01 23:54:55,795] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:55,798] {logging_mixin.py:115} INFO - [2023-08-01 23:54:55,798] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:55,801] {logging_mixin.py:115} INFO - [2023-08-01 23:54:55,800] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:54:55,802] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:54:55,824] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.316 seconds
+[2023-08-01 23:55:26,744] {processor.py:153} INFO - Started process (PID=6438) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:55:26,747] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:55:26,750] {logging_mixin.py:115} INFO - [2023-08-01 23:55:26,750] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:55:26,779] {logging_mixin.py:115} INFO - [2023-08-01 23:55:26,779] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:27,030] {logging_mixin.py:115} INFO - [2023-08-01 23:55:27,029] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:27,033] {logging_mixin.py:115} INFO - [2023-08-01 23:55:27,032] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:27,036] {logging_mixin.py:115} INFO - [2023-08-01 23:55:27,035] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:27,039] {logging_mixin.py:115} INFO - [2023-08-01 23:55:27,038] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:27,040] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:55:27,066] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.328 seconds
+[2023-08-01 23:55:57,545] {processor.py:153} INFO - Started process (PID=6486) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:55:57,548] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:55:57,549] {logging_mixin.py:115} INFO - [2023-08-01 23:55:57,549] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:55:57,568] {logging_mixin.py:115} INFO - [2023-08-01 23:55:57,567] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:57,940] {logging_mixin.py:115} INFO - [2023-08-01 23:55:57,939] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:57,945] {logging_mixin.py:115} INFO - [2023-08-01 23:55:57,944] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:57,949] {logging_mixin.py:115} INFO - [2023-08-01 23:55:57,949] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:57,952] {logging_mixin.py:115} INFO - [2023-08-01 23:55:57,952] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:55:57,954] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:55:58,028] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.493 seconds
+[2023-08-01 23:56:28,241] {processor.py:153} INFO - Started process (PID=6543) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:56:28,243] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:56:28,244] {logging_mixin.py:115} INFO - [2023-08-01 23:56:28,244] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:56:28,258] {logging_mixin.py:115} INFO - [2023-08-01 23:56:28,257] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:28,534] {logging_mixin.py:115} INFO - [2023-08-01 23:56:28,533] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:28,537] {logging_mixin.py:115} INFO - [2023-08-01 23:56:28,536] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:28,540] {logging_mixin.py:115} INFO - [2023-08-01 23:56:28,539] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:28,543] {logging_mixin.py:115} INFO - [2023-08-01 23:56:28,542] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:28,545] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:56:28,569] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.335 seconds
+[2023-08-01 23:56:58,807] {processor.py:153} INFO - Started process (PID=6600) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:56:58,809] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:56:58,811] {logging_mixin.py:115} INFO - [2023-08-01 23:56:58,811] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:56:58,827] {logging_mixin.py:115} INFO - [2023-08-01 23:56:58,827] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:59,113] {logging_mixin.py:115} INFO - [2023-08-01 23:56:59,113] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:59,117] {logging_mixin.py:115} INFO - [2023-08-01 23:56:59,116] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:59,119] {logging_mixin.py:115} INFO - [2023-08-01 23:56:59,119] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:59,122] {logging_mixin.py:115} INFO - [2023-08-01 23:56:59,121] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:56:59,123] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:56:59,156] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.357 seconds
+[2023-08-01 23:57:29,906] {processor.py:153} INFO - Started process (PID=6658) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:57:29,908] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:57:29,909] {logging_mixin.py:115} INFO - [2023-08-01 23:57:29,909] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:57:29,925] {logging_mixin.py:115} INFO - [2023-08-01 23:57:29,924] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:57:30,178] {logging_mixin.py:115} INFO - [2023-08-01 23:57:30,177] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:57:30,182] {logging_mixin.py:115} INFO - [2023-08-01 23:57:30,180] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:57:30,184] {logging_mixin.py:115} INFO - [2023-08-01 23:57:30,183] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:57:30,187] {logging_mixin.py:115} INFO - [2023-08-01 23:57:30,187] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:57:30,188] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:57:30,219] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.321 seconds
+[2023-08-01 23:58:00,554] {processor.py:153} INFO - Started process (PID=6706) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:58:00,558] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:58:00,559] {logging_mixin.py:115} INFO - [2023-08-01 23:58:00,559] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:58:00,571] {logging_mixin.py:115} INFO - [2023-08-01 23:58:00,571] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:00,818] {logging_mixin.py:115} INFO - [2023-08-01 23:58:00,817] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:00,822] {logging_mixin.py:115} INFO - [2023-08-01 23:58:00,821] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:00,827] {logging_mixin.py:115} INFO - [2023-08-01 23:58:00,826] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:00,830] {logging_mixin.py:115} INFO - [2023-08-01 23:58:00,830] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:00,832] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:58:00,870] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.323 seconds
+[2023-08-01 23:58:31,065] {processor.py:153} INFO - Started process (PID=6763) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:58:31,067] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:58:31,069] {logging_mixin.py:115} INFO - [2023-08-01 23:58:31,069] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:58:31,082] {logging_mixin.py:115} INFO - [2023-08-01 23:58:31,081] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:31,304] {logging_mixin.py:115} INFO - [2023-08-01 23:58:31,302] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:31,308] {logging_mixin.py:115} INFO - [2023-08-01 23:58:31,307] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:31,311] {logging_mixin.py:115} INFO - [2023-08-01 23:58:31,311] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:31,314] {logging_mixin.py:115} INFO - [2023-08-01 23:58:31,313] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:58:31,315] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:58:31,357] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.299 seconds
+[2023-08-01 23:59:02,154] {processor.py:153} INFO - Started process (PID=6819) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:59:02,156] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:59:02,158] {logging_mixin.py:115} INFO - [2023-08-01 23:59:02,158] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:59:02,175] {logging_mixin.py:115} INFO - [2023-08-01 23:59:02,172] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:02,425] {logging_mixin.py:115} INFO - [2023-08-01 23:59:02,424] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:02,433] {logging_mixin.py:115} INFO - [2023-08-01 23:59:02,428] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:02,438] {logging_mixin.py:115} INFO - [2023-08-01 23:59:02,437] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:02,441] {logging_mixin.py:115} INFO - [2023-08-01 23:59:02,440] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:02,442] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:59:02,490] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.344 seconds
+[2023-08-01 23:59:32,742] {processor.py:153} INFO - Started process (PID=6876) to work on /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:59:32,744] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_validado_operator.py for tasks to queue
+[2023-08-01 23:59:32,746] {logging_mixin.py:115} INFO - [2023-08-01 23:59:32,746] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:59:32,771] {logging_mixin.py:115} INFO - [2023-08-01 23:59:32,769] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:32,990] {logging_mixin.py:115} INFO - [2023-08-01 23:59:32,989] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:32,994] {logging_mixin.py:115} INFO - [2023-08-01 23:59:32,993] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:32,998] {logging_mixin.py:115} INFO - [2023-08-01 23:59:32,997] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:33,000] {logging_mixin.py:115} INFO - [2023-08-01 23:59:33,000] {log_util.py:40} INFO - Module loaded.
+[2023-08-01 23:59:33,001] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_validado_operator.py
+[2023-08-01 23:59:33,021] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_validado_operator.py took 0.287 seconds
