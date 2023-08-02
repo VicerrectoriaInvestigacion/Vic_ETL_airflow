@@ -137,6 +137,40 @@ Recordar que para acceder a los datos se debe mediante un path inicial: "self.da
 Procurar no modificar la carpeta "BigQuery" ya que esta contiene las credenciales para conectarse a la bodega.
 
 
+# Conexión con Power BI
+
+1) Click sobre "Obtener datos"
+
+<img width="715" alt="Screenshot 2023-08-01 at 9 13 48 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/e479fd48-f392-4441-abf5-5d920022ebd9">
+
+2) Click sobre "Más"
+
+<img width="565" alt="Screenshot 2023-08-01 at 9 14 00 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/665a33b9-6fb8-41bf-ae2c-bd0eb722f98e">
+
+3) Escribir Big Query
+
+<img width="626" alt="Screenshot 2023-08-01 at 9 14 09 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/81fc530d-3925-418f-82cd-4396ad6616fe">
+
+
+4) Seleccionar la(s) tabla(s) y dar click sobre la opción de "Importar". (NO se recomienda la opción de DirectQuery).
+
+<img width="1078" alt="Screenshot 2023-08-01 at 9 17 33 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/fde7401e-c305-4dce-aa28-c69769a85ef4">
+
+
+**Nota**
+Si solo se quieren traer los cambios sobre tablas que ya se encuentren importadas, hacer click sobre "Actualizar". Esto traerá cambios realizados sobre las tablas en la bodega de datos.
+<img width="493" alt="Screenshot 2023-08-01 at 9 14 19 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/3646b455-d98d-4918-a6cd-b4227f547f08">
+
+
+# Datos existentes en la bodega
+
+
+<img width="421" alt="Screenshot 2023-08-01 at 9 19 49 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/8bf13e53-fe7a-4a26-9132-9f5cf401d3e3">
+
+
+
+
+
 
 
 
