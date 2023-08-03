@@ -5,7 +5,12 @@
 
 Este proyecto consta de un DAG (Gráfico Acíclico Dirigido) desarrollado con Apache Airflow, la arquitectura de alto nivel se puede obsevar a continuación.
 
-<img width="951" alt="Screenshot 2023-06-28 at 10 42 01 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/552d2e53-685c-4aba-bbe7-e37e4f89750b">
+
+
+<img width="1186" alt="Screenshot 2023-08-03 at 1 12 12 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/e6b74049-760a-4567-96ef-792b99691deb">
+
+
+
 
 # Correr el proyecto
 
