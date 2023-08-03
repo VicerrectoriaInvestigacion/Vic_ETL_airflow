@@ -182,13 +182,7 @@ Si solo se quieren traer los cambios sobre tablas que ya se encuentren importada
 # Datos existentes en la bodega
 
 
-<img width="421" alt="Screenshot 2023-08-01 at 9 19 49 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/8bf13e53-fe7a-4a26-9132-9f5cf401d3e3">
-
-
-
-
-
-
+<img width="343" alt="Screenshot 2023-08-03 at 1 16 20 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/b307f14a-e678-4499-b725-c67e8404dfcd">
 
 
 
