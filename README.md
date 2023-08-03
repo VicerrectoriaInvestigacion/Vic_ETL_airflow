@@ -128,6 +128,11 @@ Si se quiere ejecutar uno primero que el otro acomodarlo de la siguiente manera:
 Ubicarse en la carpeta "data" y ahí agregar todas las carpetas y/o archivos necesarios.
 
 
+# Subir datos a Big query
+Todos los datos que se quieran subir a la bodega se deben encontar en la carpeta **data/toUpload**, esta contiene dos carpeta: 
+- Append: Acá deben estar todos los datos que van a concatener con una tabla en BigQuery.
+- Rewrite: Acá deben estar todos los datos que van a sobreescribir una tabla en BigQuery.
+
 
 **Nota**
 Recordar que para acceder a los datos se debe mediante un path inicial: "self.dag_path/data/[PATH DEL ARCHIVO]" en el Operator.
@@ -162,10 +167,13 @@ Si solo se quieren traer los cambios sobre tablas que ya se encuentren importada
 <img width="493" alt="Screenshot 2023-08-01 at 9 14 19 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/3646b455-d98d-4918-a6cd-b4227f547f08">
 
 
+
+
 # Datos existentes en la bodega
 
 
 <img width="421" alt="Screenshot 2023-08-01 at 9 19 49 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/8bf13e53-fe7a-4a26-9132-9f5cf401d3e3">
+
 
 
 
