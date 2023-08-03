@@ -130,7 +130,7 @@ Ubicarse en la carpeta "data" y ahí agregar todas las carpetas y/o archivos nec
 # Subir datos a Big query
 Todos los datos que se quieran subir a la bodega se deben encontar en la carpeta **data/toUpload**, esta contiene dos carpeta: 
 - Append: Acá deben estar todos los datos que van a concatener con una tabla en BigQuery.
-- Rewrite: Acá deben estar todos los datos que van a sobreescribir una tabla en BigQuery.
+- Rewrite: Acá deben estar todos los datos que van a sobrescribir una tabla en BigQuery.
 
 <img width="392" alt="Screenshot 2023-08-03 at 10 40 48 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/e7995d10-7037-4ef7-b692-222587483ab6">
 
