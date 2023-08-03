@@ -136,10 +136,9 @@ Todos los datos que se quieran subir a la bodega se deben encontar en la carpeta
 
 
 **Nota**
-Cuando se agrega o elimina una columna de los datos que se van a subir la estructura incial de los datos que estaba en la bodega se mentiene pero se agrega o elimina la columna, aquellos registros que no tenían dicha columna tendrán valor **nulo** por defecto.
-Se recomienda reducir la cantidad de veces que se realizan esta serie de operaciones ya que implicaría llenar las tablas de múltiples valores nulos.
+Cuando se agrega o elimina una columna de los datos que se van a subir la estructura incial de los datos que estaba en la bodega se mentiene pero se agrega o elimina la columna, aquellos registros que no tenían dicha columna tendrán valor **nulo** por defecto. Por loc cual, se recomienda reducir la cantidad de veces que se realizan esta serie de operaciones ya que implicaría llenar las tablas de múltiples valores nulos.
 
-d
+
 **Nota**
 Recordar que para acceder a los datos se debe mediante un path inicial: "self.dag_path/data/[PATH DEL ARCHIVO]" en el Operator.
 
