@@ -1,0 +1,1160 @@
+[2023-08-04 00:01:13,267] {processor.py:153} INFO - Started process (PID=26207) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:01:13,271] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 00:01:13,277] {logging_mixin.py:115} INFO - [2023-08-04 00:01:13,276] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:01:13,635] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:01:13,670] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.413 seconds
+[2023-08-04 00:01:44,298] {processor.py:153} INFO - Started process (PID=26265) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:01:44,301] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 00:01:44,303] {logging_mixin.py:115} INFO - [2023-08-04 00:01:44,302] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:01:44,564] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:01:44,593] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.300 seconds
+[2023-08-04 00:02:38,039] {processor.py:153} INFO - Started process (PID=26316) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:02:38,040] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 00:02:38,041] {logging_mixin.py:115} INFO - [2023-08-04 00:02:38,041] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:02:38,175] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:02:38,188] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.152 seconds
+[2023-08-04 00:19:14,859] {processor.py:153} INFO - Started process (PID=26375) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:19:14,860] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 00:19:14,862] {logging_mixin.py:115} INFO - [2023-08-04 00:19:14,862] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:19:15,062] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:19:15,087] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.232 seconds
+[2023-08-04 00:49:51,398] {processor.py:153} INFO - Started process (PID=26425) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:49:51,399] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 00:49:51,400] {logging_mixin.py:115} INFO - [2023-08-04 00:49:51,400] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:49:51,582] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 00:49:51,607] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.213 seconds
+[2023-08-04 01:06:38,799] {processor.py:153} INFO - Started process (PID=26483) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:06:38,807] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 01:06:38,815] {logging_mixin.py:115} INFO - [2023-08-04 01:06:38,815] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:06:39,171] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:06:39,235] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.443 seconds
+[2023-08-04 01:23:30,715] {processor.py:153} INFO - Started process (PID=26542) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:23:30,718] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 01:23:30,720] {logging_mixin.py:115} INFO - [2023-08-04 01:23:30,720] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:23:30,992] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:23:31,024] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.313 seconds
+[2023-08-04 01:52:00,082] {processor.py:153} INFO - Started process (PID=26594) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:52:00,084] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 01:52:00,088] {logging_mixin.py:115} INFO - [2023-08-04 01:52:00,088] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:52:00,281] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:52:00,361] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.283 seconds
+[2023-08-04 01:52:30,819] {processor.py:153} INFO - Started process (PID=26652) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:52:30,820] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 01:52:30,820] {logging_mixin.py:115} INFO - [2023-08-04 01:52:30,820] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:52:30,942] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 01:52:30,957] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.142 seconds
+[2023-08-04 02:43:12,143] {processor.py:153} INFO - Started process (PID=26710) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:43:12,144] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 02:43:12,144] {logging_mixin.py:115} INFO - [2023-08-04 02:43:12,144] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:43:12,302] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:43:12,320] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.181 seconds
+[2023-08-04 02:47:08,733] {processor.py:153} INFO - Started process (PID=26763) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:47:08,735] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 02:47:08,736] {logging_mixin.py:115} INFO - [2023-08-04 02:47:08,736] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:47:08,925] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:47:08,954] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.225 seconds
+[2023-08-04 02:58:03,876] {processor.py:153} INFO - Started process (PID=26822) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:58:03,878] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 02:58:03,881] {logging_mixin.py:115} INFO - [2023-08-04 02:58:03,881] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:58:04,194] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:58:04,237] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.365 seconds
+[2023-08-04 02:58:34,298] {processor.py:153} INFO - Started process (PID=26880) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:58:34,299] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 02:58:34,305] {logging_mixin.py:115} INFO - [2023-08-04 02:58:34,305] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:58:34,466] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 02:58:34,490] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.198 seconds
+[2023-08-04 03:00:13,000] {processor.py:153} INFO - Started process (PID=26931) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:00:13,002] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 03:00:13,002] {logging_mixin.py:115} INFO - [2023-08-04 03:00:13,002] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:00:13,133] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:00:13,150] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 03:01:43,400] {processor.py:153} INFO - Started process (PID=26989) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:01:43,401] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 03:01:43,402] {logging_mixin.py:115} INFO - [2023-08-04 03:01:43,402] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:01:43,551] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:01:43,574] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.179 seconds
+[2023-08-04 03:02:14,239] {processor.py:153} INFO - Started process (PID=27039) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:02:14,240] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 03:02:14,241] {logging_mixin.py:115} INFO - [2023-08-04 03:02:14,241] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:02:14,368] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:02:14,381] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.145 seconds
+[2023-08-04 03:14:10,255] {processor.py:153} INFO - Started process (PID=27098) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:14:10,256] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 03:14:10,257] {logging_mixin.py:115} INFO - [2023-08-04 03:14:10,257] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:14:10,447] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:14:10,507] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.257 seconds
+[2023-08-04 03:14:41,371] {processor.py:153} INFO - Started process (PID=27157) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:14:41,375] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 03:14:41,375] {logging_mixin.py:115} INFO - [2023-08-04 03:14:41,375] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:14:41,559] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:14:41,589] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.223 seconds
+[2023-08-04 03:25:59,741] {processor.py:153} INFO - Started process (PID=27207) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:25:59,745] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 03:25:59,746] {logging_mixin.py:115} INFO - [2023-08-04 03:25:59,746] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:25:59,891] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:25:59,909] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.171 seconds
+[2023-08-04 03:46:28,992] {processor.py:153} INFO - Started process (PID=27266) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:46:28,993] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 03:46:28,994] {logging_mixin.py:115} INFO - [2023-08-04 03:46:28,994] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:46:29,170] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:46:29,191] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.203 seconds
+[2023-08-04 03:47:00,084] {processor.py:153} INFO - Started process (PID=27325) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:47:00,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 03:47:00,086] {logging_mixin.py:115} INFO - [2023-08-04 03:47:00,086] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:47:00,221] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 03:47:00,238] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.157 seconds
+[2023-08-04 04:03:55,209] {processor.py:153} INFO - Started process (PID=27375) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:03:55,211] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 04:03:55,212] {logging_mixin.py:115} INFO - [2023-08-04 04:03:55,212] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:03:55,379] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:03:55,410] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.204 seconds
+[2023-08-04 04:04:25,814] {processor.py:153} INFO - Started process (PID=27434) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:04:25,815] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 04:04:25,816] {logging_mixin.py:115} INFO - [2023-08-04 04:04:25,816] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:04:25,953] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:04:25,968] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.157 seconds
+[2023-08-04 04:30:30,953] {processor.py:153} INFO - Started process (PID=27484) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:30:30,954] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 04:30:30,955] {logging_mixin.py:115} INFO - [2023-08-04 04:30:30,955] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:30:31,119] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:30:31,137] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.187 seconds
+[2023-08-04 04:31:01,942] {processor.py:153} INFO - Started process (PID=27542) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:31:01,943] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 04:31:01,944] {logging_mixin.py:115} INFO - [2023-08-04 04:31:01,944] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:31:02,093] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:31:02,113] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.174 seconds
+[2023-08-04 04:43:27,068] {processor.py:153} INFO - Started process (PID=27602) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:43:27,070] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 04:43:27,072] {logging_mixin.py:115} INFO - [2023-08-04 04:43:27,072] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:43:27,234] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 04:43:27,251] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.185 seconds
+[2023-08-04 05:16:39,330] {processor.py:153} INFO - Started process (PID=27652) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 05:16:39,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 05:16:39,339] {logging_mixin.py:115} INFO - [2023-08-04 05:16:39,338] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 05:16:39,545] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 05:16:39,571] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.245 seconds
+[2023-08-04 06:07:35,137] {processor.py:153} INFO - Started process (PID=27711) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 06:07:35,139] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 06:07:35,140] {logging_mixin.py:115} INFO - [2023-08-04 06:07:35,140] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 06:07:35,302] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 06:07:35,318] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.184 seconds
+[2023-08-04 06:08:05,971] {processor.py:153} INFO - Started process (PID=27769) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 06:08:05,973] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 06:08:05,974] {logging_mixin.py:115} INFO - [2023-08-04 06:08:05,974] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 06:08:06,136] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 06:08:06,167] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.200 seconds
+[2023-08-04 07:29:21,872] {processor.py:153} INFO - Started process (PID=27820) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 07:29:21,877] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 07:29:21,890] {logging_mixin.py:115} INFO - [2023-08-04 07:29:21,890] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 07:29:22,281] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 07:29:22,353] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.484 seconds
+[2023-08-04 08:52:03,923] {processor.py:153} INFO - Started process (PID=27879) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 08:52:03,928] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 08:52:03,934] {logging_mixin.py:115} INFO - [2023-08-04 08:52:03,934] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 08:52:04,440] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 08:52:04,499] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.604 seconds
+[2023-08-04 10:14:25,430] {processor.py:153} INFO - Started process (PID=27929) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 10:14:25,438] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 10:14:25,470] {logging_mixin.py:115} INFO - [2023-08-04 10:14:25,470] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 10:14:25,781] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 10:14:25,837] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.416 seconds
+[2023-08-04 11:18:36,115] {processor.py:153} INFO - Started process (PID=27979) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 11:18:36,116] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 11:18:36,117] {logging_mixin.py:115} INFO - [2023-08-04 11:18:36,117] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 11:18:36,249] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 11:18:36,265] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 12:00:21,880] {processor.py:153} INFO - Started process (PID=28038) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:00:21,882] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 12:00:21,883] {logging_mixin.py:115} INFO - [2023-08-04 12:00:21,883] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:00:22,023] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:00:22,049] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.172 seconds
+[2023-08-04 12:00:52,577] {processor.py:153} INFO - Started process (PID=28097) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:00:52,578] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 12:00:52,579] {logging_mixin.py:115} INFO - [2023-08-04 12:00:52,579] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:00:52,715] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:00:52,729] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.155 seconds
+[2023-08-04 12:15:59,150] {processor.py:153} INFO - Started process (PID=28154) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:15:59,163] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 12:15:59,164] {logging_mixin.py:115} INFO - [2023-08-04 12:15:59,164] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:15:59,545] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:15:59,589] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.445 seconds
+[2023-08-04 12:16:30,064] {processor.py:153} INFO - Started process (PID=28205) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:16:30,066] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 12:16:30,067] {logging_mixin.py:115} INFO - [2023-08-04 12:16:30,067] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:16:30,227] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:16:30,241] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.181 seconds
+[2023-08-04 12:24:04,084] {processor.py:153} INFO - Started process (PID=28264) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:24:04,089] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 12:24:04,092] {logging_mixin.py:115} INFO - [2023-08-04 12:24:04,092] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:24:04,473] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:24:04,543] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.465 seconds
+[2023-08-04 12:39:57,490] {processor.py:153} INFO - Started process (PID=28323) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:39:57,492] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 12:39:57,494] {logging_mixin.py:115} INFO - [2023-08-04 12:39:57,494] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:39:57,683] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:39:57,720] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.233 seconds
+[2023-08-04 12:55:51,473] {processor.py:153} INFO - Started process (PID=28373) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:55:51,474] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 12:55:51,475] {logging_mixin.py:115} INFO - [2023-08-04 12:55:51,475] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:55:51,625] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:55:51,644] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.175 seconds
+[2023-08-04 12:56:22,591] {processor.py:153} INFO - Started process (PID=28432) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:56:22,592] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 12:56:22,593] {logging_mixin.py:115} INFO - [2023-08-04 12:56:22,593] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:56:22,718] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 12:56:22,731] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.144 seconds
+[2023-08-04 13:16:08,043] {processor.py:153} INFO - Started process (PID=28490) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:16:08,063] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:16:08,066] {logging_mixin.py:115} INFO - [2023-08-04 13:16:08,066] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:16:08,523] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:16:08,564] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.523 seconds
+[2023-08-04 13:16:38,917] {processor.py:153} INFO - Started process (PID=28539) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:16:38,918] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:16:38,919] {logging_mixin.py:115} INFO - [2023-08-04 13:16:38,919] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:16:39,066] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:16:39,086] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.172 seconds
+[2023-08-04 13:17:42,626] {processor.py:153} INFO - Started process (PID=28599) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:17:42,628] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:17:42,629] {logging_mixin.py:115} INFO - [2023-08-04 13:17:42,628] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:17:42,772] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:17:42,790] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.166 seconds
+[2023-08-04 13:18:29,234] {processor.py:153} INFO - Started process (PID=28649) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:18:29,235] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:18:29,236] {logging_mixin.py:115} INFO - [2023-08-04 13:18:29,236] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:18:29,374] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:18:29,389] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.158 seconds
+[2023-08-04 13:19:00,171] {processor.py:153} INFO - Started process (PID=28708) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:19:00,172] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:19:00,173] {logging_mixin.py:115} INFO - [2023-08-04 13:19:00,173] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:19:00,306] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:19:00,322] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 13:23:32,546] {processor.py:153} INFO - Started process (PID=28768) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:23:32,548] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:23:32,550] {logging_mixin.py:115} INFO - [2023-08-04 13:23:32,550] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:23:32,765] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:23:32,789] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.247 seconds
+[2023-08-04 13:24:03,048] {processor.py:153} INFO - Started process (PID=28818) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:24:03,049] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:24:03,050] {logging_mixin.py:115} INFO - [2023-08-04 13:24:03,050] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:24:03,201] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:24:03,216] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.171 seconds
+[2023-08-04 13:25:25,776] {processor.py:153} INFO - Started process (PID=28867) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:25:25,779] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:25:25,780] {logging_mixin.py:115} INFO - [2023-08-04 13:25:25,780] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:25:25,932] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:25:25,958] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.186 seconds
+[2023-08-04 13:25:56,363] {processor.py:153} INFO - Started process (PID=28927) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:25:56,364] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:25:56,365] {logging_mixin.py:115} INFO - [2023-08-04 13:25:56,365] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:25:56,492] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:25:56,512] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.151 seconds
+[2023-08-04 13:26:26,798] {processor.py:153} INFO - Started process (PID=28985) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:26:26,799] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:26:26,800] {logging_mixin.py:115} INFO - [2023-08-04 13:26:26,800] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:26:26,935] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:26:26,950] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.156 seconds
+[2023-08-04 13:26:57,542] {processor.py:153} INFO - Started process (PID=29046) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:26:57,544] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:26:57,545] {logging_mixin.py:115} INFO - [2023-08-04 13:26:57,545] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:26:57,720] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:26:57,738] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.200 seconds
+[2023-08-04 13:27:28,450] {processor.py:153} INFO - Started process (PID=29095) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:27:28,451] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:27:28,452] {logging_mixin.py:115} INFO - [2023-08-04 13:27:28,452] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:27:28,595] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:27:28,614] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.167 seconds
+[2023-08-04 13:27:58,942] {processor.py:153} INFO - Started process (PID=29155) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:27:58,943] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:27:58,944] {logging_mixin.py:115} INFO - [2023-08-04 13:27:58,944] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:27:59,163] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:27:59,180] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.241 seconds
+[2023-08-04 13:28:29,335] {processor.py:153} INFO - Started process (PID=29214) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:28:29,336] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:28:29,336] {logging_mixin.py:115} INFO - [2023-08-04 13:28:29,336] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:28:29,469] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:28:29,485] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.154 seconds
+[2023-08-04 13:28:59,922] {processor.py:153} INFO - Started process (PID=29273) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:28:59,933] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:28:59,938] {logging_mixin.py:115} INFO - [2023-08-04 13:28:59,938] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:29:00,155] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:29:00,173] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.255 seconds
+[2023-08-04 13:29:30,231] {processor.py:153} INFO - Started process (PID=29323) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:29:30,232] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:29:30,233] {logging_mixin.py:115} INFO - [2023-08-04 13:29:30,233] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:29:30,387] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:29:30,406] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.178 seconds
+[2023-08-04 13:30:01,393] {processor.py:153} INFO - Started process (PID=29382) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:30:01,394] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:30:01,395] {logging_mixin.py:115} INFO - [2023-08-04 13:30:01,395] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:30:01,526] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:30:01,541] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.151 seconds
+[2023-08-04 13:30:32,460] {processor.py:153} INFO - Started process (PID=29442) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:30:32,461] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:30:32,462] {logging_mixin.py:115} INFO - [2023-08-04 13:30:32,462] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:30:32,593] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:30:32,608] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.150 seconds
+[2023-08-04 13:31:03,443] {processor.py:153} INFO - Started process (PID=29501) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:31:03,444] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:31:03,445] {logging_mixin.py:115} INFO - [2023-08-04 13:31:03,445] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:31:03,596] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:31:03,611] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.172 seconds
+[2023-08-04 13:31:34,809] {processor.py:153} INFO - Started process (PID=29550) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:31:34,810] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:31:34,811] {logging_mixin.py:115} INFO - [2023-08-04 13:31:34,811] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:31:34,944] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:31:34,958] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 13:32:05,874] {processor.py:153} INFO - Started process (PID=29609) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:32:05,875] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:32:05,876] {logging_mixin.py:115} INFO - [2023-08-04 13:32:05,876] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:32:06,013] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:32:06,033] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.161 seconds
+[2023-08-04 13:32:36,978] {processor.py:153} INFO - Started process (PID=29668) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:32:36,979] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:32:36,980] {logging_mixin.py:115} INFO - [2023-08-04 13:32:36,980] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:32:37,112] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:32:37,129] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.154 seconds
+[2023-08-04 13:33:07,929] {processor.py:153} INFO - Started process (PID=29727) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:33:07,930] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:33:07,931] {logging_mixin.py:115} INFO - [2023-08-04 13:33:07,931] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:33:08,059] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:33:08,073] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.147 seconds
+[2023-08-04 13:33:38,918] {processor.py:153} INFO - Started process (PID=29785) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:33:38,920] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:33:38,921] {logging_mixin.py:115} INFO - [2023-08-04 13:33:38,920] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:33:39,061] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:33:39,079] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.164 seconds
+[2023-08-04 13:34:10,103] {processor.py:153} INFO - Started process (PID=29842) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:34:10,104] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:34:10,105] {logging_mixin.py:115} INFO - [2023-08-04 13:34:10,105] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:34:10,260] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:34:10,277] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.178 seconds
+[2023-08-04 13:34:40,888] {processor.py:153} INFO - Started process (PID=29894) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:34:40,889] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:34:40,890] {logging_mixin.py:115} INFO - [2023-08-04 13:34:40,890] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:34:41,055] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:34:41,087] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.205 seconds
+[2023-08-04 13:35:11,391] {processor.py:153} INFO - Started process (PID=29952) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:35:11,392] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:35:11,393] {logging_mixin.py:115} INFO - [2023-08-04 13:35:11,393] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:35:11,568] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:35:11,588] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.201 seconds
+[2023-08-04 13:35:42,239] {processor.py:153} INFO - Started process (PID=30011) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:35:42,240] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:35:42,241] {logging_mixin.py:115} INFO - [2023-08-04 13:35:42,241] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:35:42,415] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:35:42,434] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.198 seconds
+[2023-08-04 13:36:13,149] {processor.py:153} INFO - Started process (PID=30071) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:36:13,150] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:36:13,150] {logging_mixin.py:115} INFO - [2023-08-04 13:36:13,150] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:36:13,296] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:36:13,316] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.170 seconds
+[2023-08-04 13:36:43,714] {processor.py:153} INFO - Started process (PID=30121) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:36:43,715] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:36:43,718] {logging_mixin.py:115} INFO - [2023-08-04 13:36:43,718] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:36:43,915] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:36:43,936] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.226 seconds
+[2023-08-04 13:37:14,818] {processor.py:153} INFO - Started process (PID=30180) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:37:14,819] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:37:14,820] {logging_mixin.py:115} INFO - [2023-08-04 13:37:14,820] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:37:14,969] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:37:14,994] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.179 seconds
+[2023-08-04 13:37:45,217] {processor.py:153} INFO - Started process (PID=30238) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:37:45,219] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:37:45,219] {logging_mixin.py:115} INFO - [2023-08-04 13:37:45,219] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:37:45,388] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:37:45,403] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.189 seconds
+[2023-08-04 13:38:15,544] {processor.py:153} INFO - Started process (PID=30297) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:38:15,545] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:38:15,546] {logging_mixin.py:115} INFO - [2023-08-04 13:38:15,546] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:38:15,689] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:38:15,703] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.163 seconds
+[2023-08-04 13:38:46,906] {processor.py:153} INFO - Started process (PID=30347) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:38:46,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:38:46,909] {logging_mixin.py:115} INFO - [2023-08-04 13:38:46,909] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:38:47,043] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:38:47,056] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.155 seconds
+[2023-08-04 13:39:17,430] {processor.py:153} INFO - Started process (PID=30406) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:39:17,431] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:39:17,432] {logging_mixin.py:115} INFO - [2023-08-04 13:39:17,432] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:39:17,583] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:39:17,604] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.177 seconds
+[2023-08-04 13:39:48,983] {processor.py:153} INFO - Started process (PID=30466) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:39:48,984] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:39:48,985] {logging_mixin.py:115} INFO - [2023-08-04 13:39:48,985] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:39:49,116] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:39:49,133] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.152 seconds
+[2023-08-04 13:40:20,114] {processor.py:153} INFO - Started process (PID=30528) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:40:20,115] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:40:20,116] {logging_mixin.py:115} INFO - [2023-08-04 13:40:20,116] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:40:20,262] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:40:20,278] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.167 seconds
+[2023-08-04 13:40:51,752] {processor.py:153} INFO - Started process (PID=30587) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:40:51,757] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:40:51,758] {logging_mixin.py:115} INFO - [2023-08-04 13:40:51,758] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:40:51,941] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:40:51,964] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.215 seconds
+[2023-08-04 13:41:22,533] {processor.py:153} INFO - Started process (PID=30637) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:41:22,534] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:41:22,534] {logging_mixin.py:115} INFO - [2023-08-04 13:41:22,534] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:41:22,668] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:41:22,682] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 13:41:53,004] {processor.py:153} INFO - Started process (PID=30695) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:41:53,005] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:41:53,006] {logging_mixin.py:115} INFO - [2023-08-04 13:41:53,006] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:41:53,134] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:41:53,148] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.147 seconds
+[2023-08-04 13:42:23,394] {processor.py:153} INFO - Started process (PID=30754) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:42:23,396] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:42:23,397] {logging_mixin.py:115} INFO - [2023-08-04 13:42:23,397] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:42:23,547] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:42:23,562] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.171 seconds
+[2023-08-04 13:42:53,983] {processor.py:153} INFO - Started process (PID=30804) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:42:53,984] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:42:53,985] {logging_mixin.py:115} INFO - [2023-08-04 13:42:53,985] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:42:54,126] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:42:54,142] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.162 seconds
+[2023-08-04 13:43:24,441] {processor.py:153} INFO - Started process (PID=30864) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:43:24,442] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:43:24,442] {logging_mixin.py:115} INFO - [2023-08-04 13:43:24,442] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:43:24,592] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:43:24,610] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.173 seconds
+[2023-08-04 13:43:55,156] {processor.py:153} INFO - Started process (PID=30923) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:43:55,157] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:43:55,157] {logging_mixin.py:115} INFO - [2023-08-04 13:43:55,157] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:43:55,301] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:43:55,318] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.165 seconds
+[2023-08-04 13:44:25,837] {processor.py:153} INFO - Started process (PID=30982) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:44:25,838] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:44:25,839] {logging_mixin.py:115} INFO - [2023-08-04 13:44:25,839] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:44:25,983] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:44:25,998] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.163 seconds
+[2023-08-04 13:44:56,267] {processor.py:153} INFO - Started process (PID=31032) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:44:56,268] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:44:56,269] {logging_mixin.py:115} INFO - [2023-08-04 13:44:56,269] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:44:56,405] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:44:56,422] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.158 seconds
+[2023-08-04 13:45:27,395] {processor.py:153} INFO - Started process (PID=31091) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:45:27,396] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:45:27,397] {logging_mixin.py:115} INFO - [2023-08-04 13:45:27,397] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:45:27,534] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:45:27,549] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.157 seconds
+[2023-08-04 13:45:58,556] {processor.py:153} INFO - Started process (PID=31150) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:45:58,557] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:45:58,558] {logging_mixin.py:115} INFO - [2023-08-04 13:45:58,558] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:45:58,694] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:45:58,709] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.156 seconds
+[2023-08-04 13:46:29,562] {processor.py:153} INFO - Started process (PID=31209) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:46:29,564] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:46:29,565] {logging_mixin.py:115} INFO - [2023-08-04 13:46:29,565] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:46:29,708] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:46:29,722] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.164 seconds
+[2023-08-04 13:47:00,986] {processor.py:153} INFO - Started process (PID=31259) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:47:00,988] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:47:00,989] {logging_mixin.py:115} INFO - [2023-08-04 13:47:00,989] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:47:01,143] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:47:01,162] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.180 seconds
+[2023-08-04 13:47:31,554] {processor.py:153} INFO - Started process (PID=31318) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:47:31,555] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:47:31,556] {logging_mixin.py:115} INFO - [2023-08-04 13:47:31,556] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:47:31,700] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:47:31,719] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.167 seconds
+[2023-08-04 13:48:02,758] {processor.py:153} INFO - Started process (PID=31379) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:48:02,760] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:48:02,761] {logging_mixin.py:115} INFO - [2023-08-04 13:48:02,761] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:48:02,905] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:48:02,920] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.165 seconds
+[2023-08-04 13:48:33,723] {processor.py:153} INFO - Started process (PID=31438) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:48:33,724] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:48:33,725] {logging_mixin.py:115} INFO - [2023-08-04 13:48:33,724] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:48:33,856] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:48:33,870] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.151 seconds
+[2023-08-04 13:49:05,011] {processor.py:153} INFO - Started process (PID=31497) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:49:05,012] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:49:05,013] {logging_mixin.py:115} INFO - [2023-08-04 13:49:05,013] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:49:05,150] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:49:05,165] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.157 seconds
+[2023-08-04 13:49:36,040] {processor.py:153} INFO - Started process (PID=31547) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:49:36,041] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:49:36,042] {logging_mixin.py:115} INFO - [2023-08-04 13:49:36,042] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:49:36,172] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:49:36,186] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.149 seconds
+[2023-08-04 13:50:07,087] {processor.py:153} INFO - Started process (PID=31606) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:50:07,089] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:50:07,090] {logging_mixin.py:115} INFO - [2023-08-04 13:50:07,090] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:50:07,230] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:50:07,247] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.163 seconds
+[2023-08-04 13:50:38,183] {processor.py:153} INFO - Started process (PID=31665) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:50:38,185] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:50:38,186] {logging_mixin.py:115} INFO - [2023-08-04 13:50:38,186] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:50:38,324] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:50:38,345] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.166 seconds
+[2023-08-04 13:51:09,229] {processor.py:153} INFO - Started process (PID=31722) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:51:09,230] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:51:09,231] {logging_mixin.py:115} INFO - [2023-08-04 13:51:09,231] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:51:09,360] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:51:09,377] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.150 seconds
+[2023-08-04 13:51:40,408] {processor.py:153} INFO - Started process (PID=31782) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:51:40,409] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:51:40,410] {logging_mixin.py:115} INFO - [2023-08-04 13:51:40,410] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:51:40,562] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:51:40,583] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.178 seconds
+[2023-08-04 13:52:11,702] {processor.py:153} INFO - Started process (PID=31832) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:52:11,703] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:52:11,704] {logging_mixin.py:115} INFO - [2023-08-04 13:52:11,704] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:52:11,844] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:52:11,858] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.159 seconds
+[2023-08-04 13:52:42,793] {processor.py:153} INFO - Started process (PID=31891) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:52:42,795] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:52:42,795] {logging_mixin.py:115} INFO - [2023-08-04 13:52:42,795] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:52:42,934] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:52:42,951] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.163 seconds
+[2023-08-04 13:53:13,859] {processor.py:153} INFO - Started process (PID=31950) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:53:13,860] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:53:13,861] {logging_mixin.py:115} INFO - [2023-08-04 13:53:13,861] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:53:14,004] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:53:14,021] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.165 seconds
+[2023-08-04 13:53:44,885] {processor.py:153} INFO - Started process (PID=32009) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:53:44,886] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:53:44,887] {logging_mixin.py:115} INFO - [2023-08-04 13:53:44,887] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:53:45,031] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:53:45,048] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.166 seconds
+[2023-08-04 13:54:15,935] {processor.py:153} INFO - Started process (PID=32059) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:54:15,936] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:54:15,937] {logging_mixin.py:115} INFO - [2023-08-04 13:54:15,937] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:54:16,071] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:54:16,088] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.156 seconds
+[2023-08-04 13:54:47,245] {processor.py:153} INFO - Started process (PID=32118) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:54:47,246] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:54:47,247] {logging_mixin.py:115} INFO - [2023-08-04 13:54:47,247] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:54:47,377] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:54:47,396] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.154 seconds
+[2023-08-04 13:55:18,086] {processor.py:153} INFO - Started process (PID=32177) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:55:18,087] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:55:18,087] {logging_mixin.py:115} INFO - [2023-08-04 13:55:18,087] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:55:18,226] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:55:18,240] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.158 seconds
+[2023-08-04 13:55:49,189] {processor.py:153} INFO - Started process (PID=32236) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:55:49,191] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:55:49,192] {logging_mixin.py:115} INFO - [2023-08-04 13:55:49,192] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:55:49,324] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:55:49,339] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 13:56:20,153] {processor.py:153} INFO - Started process (PID=32295) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:56:20,154] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:56:20,155] {logging_mixin.py:115} INFO - [2023-08-04 13:56:20,155] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:56:20,288] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:56:20,308] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.158 seconds
+[2023-08-04 13:56:51,279] {processor.py:153} INFO - Started process (PID=32345) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:56:51,280] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:56:51,281] {logging_mixin.py:115} INFO - [2023-08-04 13:56:51,281] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:56:51,433] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:56:51,455] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.179 seconds
+[2023-08-04 13:57:22,592] {processor.py:153} INFO - Started process (PID=32405) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:57:22,593] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:57:22,594] {logging_mixin.py:115} INFO - [2023-08-04 13:57:22,594] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:57:22,726] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:57:22,740] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.150 seconds
+[2023-08-04 13:57:53,503] {processor.py:153} INFO - Started process (PID=32464) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:57:53,504] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:57:53,505] {logging_mixin.py:115} INFO - [2023-08-04 13:57:53,505] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:57:53,641] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:57:53,656] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.156 seconds
+[2023-08-04 13:58:24,431] {processor.py:153} INFO - Started process (PID=32523) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:58:24,432] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:58:24,433] {logging_mixin.py:115} INFO - [2023-08-04 13:58:24,433] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:58:24,568] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:58:24,583] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.155 seconds
+[2023-08-04 13:58:55,712] {processor.py:153} INFO - Started process (PID=32582) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:58:55,713] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:58:55,714] {logging_mixin.py:115} INFO - [2023-08-04 13:58:55,714] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:58:55,872] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:58:55,889] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.182 seconds
+[2023-08-04 13:59:26,760] {processor.py:153} INFO - Started process (PID=32632) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:59:26,761] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:59:26,764] {logging_mixin.py:115} INFO - [2023-08-04 13:59:26,764] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:59:26,900] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:59:26,917] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.160 seconds
+[2023-08-04 13:59:57,763] {processor.py:153} INFO - Started process (PID=32691) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:59:57,764] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 13:59:57,765] {logging_mixin.py:115} INFO - [2023-08-04 13:59:57,765] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:59:57,909] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 13:59:57,926] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.166 seconds
+[2023-08-04 14:00:28,906] {processor.py:153} INFO - Started process (PID=32750) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:00:28,908] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:00:28,908] {logging_mixin.py:115} INFO - [2023-08-04 14:00:28,908] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:00:29,045] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:00:29,060] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.158 seconds
+[2023-08-04 14:00:59,958] {processor.py:153} INFO - Started process (PID=32809) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:00:59,959] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:00:59,960] {logging_mixin.py:115} INFO - [2023-08-04 14:00:59,960] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:01:00,107] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:01:00,125] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.170 seconds
+[2023-08-04 14:01:31,066] {processor.py:153} INFO - Started process (PID=32867) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:01:31,067] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:01:31,068] {logging_mixin.py:115} INFO - [2023-08-04 14:01:31,068] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:01:31,197] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:01:31,211] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.149 seconds
+[2023-08-04 14:02:02,095] {processor.py:153} INFO - Started process (PID=32917) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:02:02,096] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:02:02,098] {logging_mixin.py:115} INFO - [2023-08-04 14:02:02,098] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:02:02,235] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:02:02,254] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.162 seconds
+[2023-08-04 14:02:33,318] {processor.py:153} INFO - Started process (PID=32975) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:02:33,320] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:02:33,321] {logging_mixin.py:115} INFO - [2023-08-04 14:02:33,320] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:02:33,448] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:02:33,462] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.148 seconds
+[2023-08-04 14:03:04,373] {processor.py:153} INFO - Started process (PID=33035) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:03:04,375] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:03:04,376] {logging_mixin.py:115} INFO - [2023-08-04 14:03:04,376] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:03:04,514] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:03:04,536] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.166 seconds
+[2023-08-04 14:03:35,368] {processor.py:153} INFO - Started process (PID=33095) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:03:35,369] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:03:35,372] {logging_mixin.py:115} INFO - [2023-08-04 14:03:35,372] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:03:35,521] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:03:35,539] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.174 seconds
+[2023-08-04 14:04:06,431] {processor.py:153} INFO - Started process (PID=33154) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:04:06,432] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:04:06,433] {logging_mixin.py:115} INFO - [2023-08-04 14:04:06,433] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:04:06,569] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:04:06,584] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.156 seconds
+[2023-08-04 14:04:37,348] {processor.py:153} INFO - Started process (PID=33204) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:04:37,350] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:04:37,351] {logging_mixin.py:115} INFO - [2023-08-04 14:04:37,351] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:04:37,484] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:04:37,498] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.154 seconds
+[2023-08-04 14:05:07,859] {processor.py:153} INFO - Started process (PID=33262) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:05:07,860] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:05:07,861] {logging_mixin.py:115} INFO - [2023-08-04 14:05:07,861] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:05:07,993] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:05:08,008] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.152 seconds
+[2023-08-04 14:05:38,301] {processor.py:153} INFO - Started process (PID=33322) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:05:38,302] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:05:38,304] {logging_mixin.py:115} INFO - [2023-08-04 14:05:38,304] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:05:38,476] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:05:38,495] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.198 seconds
+[2023-08-04 14:06:08,910] {processor.py:153} INFO - Started process (PID=33380) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:06:08,912] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:06:08,912] {logging_mixin.py:115} INFO - [2023-08-04 14:06:08,912] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:06:09,044] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:06:09,060] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 14:06:39,599] {processor.py:153} INFO - Started process (PID=33440) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:06:39,601] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:06:39,604] {logging_mixin.py:115} INFO - [2023-08-04 14:06:39,603] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:06:39,804] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:06:39,825] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.229 seconds
+[2023-08-04 14:07:10,140] {processor.py:153} INFO - Started process (PID=33490) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:07:10,141] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:07:10,142] {logging_mixin.py:115} INFO - [2023-08-04 14:07:10,142] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:07:10,314] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:07:10,337] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.201 seconds
+[2023-08-04 14:07:40,782] {processor.py:153} INFO - Started process (PID=33548) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:07:40,783] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:07:40,784] {logging_mixin.py:115} INFO - [2023-08-04 14:07:40,784] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:07:40,936] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:07:40,958] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.179 seconds
+[2023-08-04 14:08:11,360] {processor.py:153} INFO - Started process (PID=33608) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:08:11,362] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:08:11,362] {logging_mixin.py:115} INFO - [2023-08-04 14:08:11,362] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:08:11,501] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:08:11,515] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.160 seconds
+[2023-08-04 14:08:42,501] {processor.py:153} INFO - Started process (PID=33667) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:08:42,502] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:08:42,503] {logging_mixin.py:115} INFO - [2023-08-04 14:08:42,503] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:08:42,641] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:08:42,657] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.160 seconds
+[2023-08-04 14:09:13,275] {processor.py:153} INFO - Started process (PID=33717) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:09:13,276] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:09:13,277] {logging_mixin.py:115} INFO - [2023-08-04 14:09:13,277] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:09:13,419] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:09:13,435] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.162 seconds
+[2023-08-04 14:09:43,885] {processor.py:153} INFO - Started process (PID=33776) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:09:43,886] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:09:43,887] {logging_mixin.py:115} INFO - [2023-08-04 14:09:43,887] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:09:44,073] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:09:44,096] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.215 seconds
+[2023-08-04 14:10:14,729] {processor.py:153} INFO - Started process (PID=33835) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:10:14,734] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:10:14,738] {logging_mixin.py:115} INFO - [2023-08-04 14:10:14,738] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:10:14,926] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:10:14,960] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.235 seconds
+[2023-08-04 14:10:45,965] {processor.py:153} INFO - Started process (PID=33894) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:10:45,966] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:10:45,967] {logging_mixin.py:115} INFO - [2023-08-04 14:10:45,967] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:10:46,173] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:10:46,203] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.244 seconds
+[2023-08-04 14:11:16,831] {processor.py:153} INFO - Started process (PID=33944) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:11:16,833] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:11:16,834] {logging_mixin.py:115} INFO - [2023-08-04 14:11:16,834] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:11:16,973] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:11:16,987] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.159 seconds
+[2023-08-04 14:11:47,956] {processor.py:153} INFO - Started process (PID=34004) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:11:47,957] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:11:47,958] {logging_mixin.py:115} INFO - [2023-08-04 14:11:47,958] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:11:48,088] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:11:48,102] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.150 seconds
+[2023-08-04 14:12:18,827] {processor.py:153} INFO - Started process (PID=34063) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:12:18,828] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:12:18,829] {logging_mixin.py:115} INFO - [2023-08-04 14:12:18,829] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:12:18,961] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:12:18,975] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.150 seconds
+[2023-08-04 14:12:49,797] {processor.py:153} INFO - Started process (PID=34122) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:12:49,798] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:12:49,799] {logging_mixin.py:115} INFO - [2023-08-04 14:12:49,799] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:12:49,937] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:12:49,954] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.161 seconds
+[2023-08-04 14:13:21,126] {processor.py:153} INFO - Started process (PID=34180) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:13:21,128] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:13:21,129] {logging_mixin.py:115} INFO - [2023-08-04 14:13:21,129] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:13:21,333] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:13:21,350] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.228 seconds
+[2023-08-04 14:13:51,753] {processor.py:153} INFO - Started process (PID=34231) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:13:51,754] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:13:51,755] {logging_mixin.py:115} INFO - [2023-08-04 14:13:51,754] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:13:51,884] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:13:51,900] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.151 seconds
+[2023-08-04 14:14:22,225] {processor.py:153} INFO - Started process (PID=34290) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:14:22,226] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:14:22,228] {logging_mixin.py:115} INFO - [2023-08-04 14:14:22,227] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:14:22,402] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:14:22,420] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.200 seconds
+[2023-08-04 14:14:52,703] {processor.py:153} INFO - Started process (PID=34348) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:14:52,704] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:14:52,708] {logging_mixin.py:115} INFO - [2023-08-04 14:14:52,708] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:14:52,842] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:14:52,858] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.159 seconds
+[2023-08-04 14:15:23,354] {processor.py:153} INFO - Started process (PID=34408) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:15:23,356] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:15:23,357] {logging_mixin.py:115} INFO - [2023-08-04 14:15:23,357] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:15:23,509] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:15:23,529] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.179 seconds
+[2023-08-04 14:15:53,777] {processor.py:153} INFO - Started process (PID=34458) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:15:53,778] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:15:53,779] {logging_mixin.py:115} INFO - [2023-08-04 14:15:53,779] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:15:53,922] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:15:53,937] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.164 seconds
+[2023-08-04 14:16:24,934] {processor.py:153} INFO - Started process (PID=34517) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:16:24,936] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:16:24,937] {logging_mixin.py:115} INFO - [2023-08-04 14:16:24,937] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:16:25,069] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:16:25,084] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.152 seconds
+[2023-08-04 14:16:55,994] {processor.py:153} INFO - Started process (PID=34576) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:16:55,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:16:55,996] {logging_mixin.py:115} INFO - [2023-08-04 14:16:55,996] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:16:56,136] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:16:56,151] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.160 seconds
+[2023-08-04 14:17:27,230] {processor.py:153} INFO - Started process (PID=34635) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:17:27,231] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:17:27,232] {logging_mixin.py:115} INFO - [2023-08-04 14:17:27,232] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:17:27,377] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:17:27,392] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.165 seconds
+[2023-08-04 14:17:58,545] {processor.py:153} INFO - Started process (PID=34694) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:17:58,546] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:17:58,548] {logging_mixin.py:115} INFO - [2023-08-04 14:17:58,548] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:17:58,737] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:17:58,758] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.216 seconds
+[2023-08-04 14:18:29,774] {processor.py:153} INFO - Started process (PID=34744) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:18:29,776] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:18:29,777] {logging_mixin.py:115} INFO - [2023-08-04 14:18:29,777] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:18:29,921] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:18:29,936] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.166 seconds
+[2023-08-04 14:19:00,979] {processor.py:153} INFO - Started process (PID=34803) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:19:00,980] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:19:00,981] {logging_mixin.py:115} INFO - [2023-08-04 14:19:00,981] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:19:01,119] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:19:01,135] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.162 seconds
+[2023-08-04 14:19:31,911] {processor.py:153} INFO - Started process (PID=34862) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:19:31,912] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:19:31,913] {logging_mixin.py:115} INFO - [2023-08-04 14:19:31,913] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:19:32,053] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:19:32,069] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.161 seconds
+[2023-08-04 14:20:02,906] {processor.py:153} INFO - Started process (PID=34921) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:20:02,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:20:02,908] {logging_mixin.py:115} INFO - [2023-08-04 14:20:02,908] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:20:03,060] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:20:03,080] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.178 seconds
+[2023-08-04 14:20:33,218] {processor.py:153} INFO - Started process (PID=34980) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:20:33,221] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:20:33,223] {logging_mixin.py:115} INFO - [2023-08-04 14:20:33,223] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:20:33,479] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:20:33,501] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.287 seconds
+[2023-08-04 14:21:03,934] {processor.py:153} INFO - Started process (PID=35031) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:21:03,936] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:21:03,938] {logging_mixin.py:115} INFO - [2023-08-04 14:21:03,938] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:21:04,079] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:21:04,093] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.163 seconds
+[2023-08-04 14:21:34,873] {processor.py:153} INFO - Started process (PID=35090) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:21:34,874] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:21:34,875] {logging_mixin.py:115} INFO - [2023-08-04 14:21:34,875] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:21:35,010] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:21:35,024] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 14:22:05,796] {processor.py:153} INFO - Started process (PID=35149) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:22:05,798] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:22:05,799] {logging_mixin.py:115} INFO - [2023-08-04 14:22:05,799] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:22:05,929] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:22:05,943] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.150 seconds
+[2023-08-04 14:22:36,858] {processor.py:153} INFO - Started process (PID=35207) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:22:36,860] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:22:36,861] {logging_mixin.py:115} INFO - [2023-08-04 14:22:36,861] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:22:37,011] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:22:37,033] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.179 seconds
+[2023-08-04 14:23:08,236] {processor.py:153} INFO - Started process (PID=35268) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:23:08,237] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:23:08,238] {logging_mixin.py:115} INFO - [2023-08-04 14:23:08,238] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:23:08,401] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:23:08,416] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.184 seconds
+[2023-08-04 14:23:39,368] {processor.py:153} INFO - Started process (PID=35319) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:23:39,369] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:23:39,370] {logging_mixin.py:115} INFO - [2023-08-04 14:23:39,370] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:23:39,504] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:23:39,519] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.155 seconds
+[2023-08-04 14:24:10,454] {processor.py:153} INFO - Started process (PID=35379) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:24:10,455] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:24:10,456] {logging_mixin.py:115} INFO - [2023-08-04 14:24:10,456] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:24:10,586] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:24:10,601] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.150 seconds
+[2023-08-04 14:24:41,439] {processor.py:153} INFO - Started process (PID=35438) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:24:41,440] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:24:41,441] {logging_mixin.py:115} INFO - [2023-08-04 14:24:41,441] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:24:41,589] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:24:41,604] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.168 seconds
+[2023-08-04 14:25:12,439] {processor.py:153} INFO - Started process (PID=35497) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:25:12,441] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:25:12,442] {logging_mixin.py:115} INFO - [2023-08-04 14:25:12,442] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:25:12,585] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:25:12,603] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.167 seconds
+[2023-08-04 14:25:43,515] {processor.py:153} INFO - Started process (PID=35556) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:25:43,516] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:25:43,517] {logging_mixin.py:115} INFO - [2023-08-04 14:25:43,517] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:25:43,653] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:25:43,668] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.156 seconds
+[2023-08-04 14:26:14,577] {processor.py:153} INFO - Started process (PID=35606) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:26:14,578] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:26:14,579] {logging_mixin.py:115} INFO - [2023-08-04 14:26:14,579] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:26:14,712] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:26:14,733] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.159 seconds
+[2023-08-04 14:26:45,859] {processor.py:153} INFO - Started process (PID=35666) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:26:45,861] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:26:45,861] {logging_mixin.py:115} INFO - [2023-08-04 14:26:45,861] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:26:45,991] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:26:46,005] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.149 seconds
+[2023-08-04 14:27:17,112] {processor.py:153} INFO - Started process (PID=35724) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:27:17,114] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:27:17,115] {logging_mixin.py:115} INFO - [2023-08-04 14:27:17,115] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:27:17,276] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:27:17,294] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.184 seconds
+[2023-08-04 14:27:48,425] {processor.py:153} INFO - Started process (PID=35783) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:27:48,426] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:27:48,427] {logging_mixin.py:115} INFO - [2023-08-04 14:27:48,427] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:27:48,581] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:27:48,598] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.176 seconds
+[2023-08-04 14:28:19,525] {processor.py:153} INFO - Started process (PID=35842) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:28:19,526] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:28:19,527] {logging_mixin.py:115} INFO - [2023-08-04 14:28:19,527] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:28:19,662] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:28:19,679] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.157 seconds
+[2023-08-04 14:28:50,597] {processor.py:153} INFO - Started process (PID=35900) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:28:50,598] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:28:50,599] {logging_mixin.py:115} INFO - [2023-08-04 14:28:50,599] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:28:50,726] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:28:50,745] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.152 seconds
+[2023-08-04 14:29:21,917] {processor.py:153} INFO - Started process (PID=35957) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:29:21,918] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:29:21,919] {logging_mixin.py:115} INFO - [2023-08-04 14:29:21,919] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:29:22,068] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:29:22,091] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.179 seconds
+[2023-08-04 14:29:52,498] {processor.py:153} INFO - Started process (PID=36009) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:29:52,499] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:29:52,500] {logging_mixin.py:115} INFO - [2023-08-04 14:29:52,500] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:29:52,644] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:29:52,672] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.177 seconds
+[2023-08-04 14:30:22,995] {processor.py:153} INFO - Started process (PID=36068) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:30:22,996] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:30:22,997] {logging_mixin.py:115} INFO - [2023-08-04 14:30:22,997] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:30:23,126] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:30:23,142] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.150 seconds
+[2023-08-04 14:30:54,178] {processor.py:153} INFO - Started process (PID=36127) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:30:54,179] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:30:54,180] {logging_mixin.py:115} INFO - [2023-08-04 14:30:54,180] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:30:54,319] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:30:54,334] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.159 seconds
+[2023-08-04 14:31:25,095] {processor.py:153} INFO - Started process (PID=36186) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:31:25,096] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:31:25,097] {logging_mixin.py:115} INFO - [2023-08-04 14:31:25,097] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:31:25,241] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:31:25,256] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.166 seconds
+[2023-08-04 14:31:56,326] {processor.py:153} INFO - Started process (PID=36245) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:31:56,329] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:31:56,330] {logging_mixin.py:115} INFO - [2023-08-04 14:31:56,329] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:31:56,514] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:31:56,538] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.216 seconds
+[2023-08-04 14:32:27,588] {processor.py:153} INFO - Started process (PID=36295) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:32:27,589] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:32:27,590] {logging_mixin.py:115} INFO - [2023-08-04 14:32:27,590] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:32:27,745] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:32:27,765] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.181 seconds
+[2023-08-04 14:32:58,825] {processor.py:153} INFO - Started process (PID=36354) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:32:58,826] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:32:58,827] {logging_mixin.py:115} INFO - [2023-08-04 14:32:58,827] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:32:58,977] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:32:58,996] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.173 seconds
+[2023-08-04 14:33:30,110] {processor.py:153} INFO - Started process (PID=36413) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:33:30,111] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:33:30,112] {logging_mixin.py:115} INFO - [2023-08-04 14:33:30,112] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:33:30,267] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:33:30,282] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.175 seconds
+[2023-08-04 14:34:01,177] {processor.py:153} INFO - Started process (PID=36471) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:34:01,180] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:34:01,181] {logging_mixin.py:115} INFO - [2023-08-04 14:34:01,181] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:34:01,318] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:34:01,334] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.160 seconds
+[2023-08-04 14:34:32,118] {processor.py:153} INFO - Started process (PID=36528) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:34:32,119] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:34:32,120] {logging_mixin.py:115} INFO - [2023-08-04 14:34:32,120] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:34:32,290] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:34:32,312] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.197 seconds
+[2023-08-04 14:35:03,014] {processor.py:153} INFO - Started process (PID=36579) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:35:03,015] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:35:03,016] {logging_mixin.py:115} INFO - [2023-08-04 14:35:03,016] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:35:03,153] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:35:03,169] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.158 seconds
+[2023-08-04 14:35:33,277] {processor.py:153} INFO - Started process (PID=36638) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:35:33,278] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:35:33,279] {logging_mixin.py:115} INFO - [2023-08-04 14:35:33,279] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:35:33,442] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:35:33,461] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.187 seconds
+[2023-08-04 14:36:03,609] {processor.py:153} INFO - Started process (PID=36696) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:36:03,612] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:36:03,613] {logging_mixin.py:115} INFO - [2023-08-04 14:36:03,613] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:36:03,766] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:36:03,783] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.177 seconds
+[2023-08-04 14:36:34,029] {processor.py:153} INFO - Started process (PID=36745) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:36:34,030] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:36:34,031] {logging_mixin.py:115} INFO - [2023-08-04 14:36:34,031] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:36:34,231] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:36:34,260] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.234 seconds
+[2023-08-04 14:37:04,357] {processor.py:153} INFO - Started process (PID=36802) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:37:04,358] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:37:04,359] {logging_mixin.py:115} INFO - [2023-08-04 14:37:04,359] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:37:04,506] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:37:04,529] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.175 seconds
+[2023-08-04 14:37:34,916] {processor.py:153} INFO - Started process (PID=36861) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:37:34,917] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:37:34,918] {logging_mixin.py:115} INFO - [2023-08-04 14:37:34,918] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:37:35,049] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:37:35,066] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.154 seconds
+[2023-08-04 14:38:06,846] {processor.py:153} INFO - Started process (PID=36923) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:38:06,848] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:38:06,850] {logging_mixin.py:115} INFO - [2023-08-04 14:38:06,850] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:38:07,063] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:38:07,092] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.251 seconds
+[2023-08-04 14:38:37,316] {processor.py:153} INFO - Started process (PID=36973) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:38:37,317] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:38:37,317] {logging_mixin.py:115} INFO - [2023-08-04 14:38:37,317] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:38:37,455] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:38:37,470] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.159 seconds
+[2023-08-04 14:39:08,593] {processor.py:153} INFO - Started process (PID=37033) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:39:08,594] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:39:08,595] {logging_mixin.py:115} INFO - [2023-08-04 14:39:08,595] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:39:08,745] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:39:08,760] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.171 seconds
+[2023-08-04 14:39:39,817] {processor.py:153} INFO - Started process (PID=37092) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:39:39,818] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:39:39,819] {logging_mixin.py:115} INFO - [2023-08-04 14:39:39,819] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:39:39,962] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:39:39,977] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.164 seconds
+[2023-08-04 14:40:11,438] {processor.py:153} INFO - Started process (PID=37151) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:40:11,440] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:40:11,441] {logging_mixin.py:115} INFO - [2023-08-04 14:40:11,440] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:40:11,604] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:40:11,628] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.193 seconds
+[2023-08-04 14:40:42,194] {processor.py:153} INFO - Started process (PID=37201) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:40:42,195] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:40:42,197] {logging_mixin.py:115} INFO - [2023-08-04 14:40:42,196] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:40:42,351] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:40:42,371] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.180 seconds
+[2023-08-04 14:41:12,807] {processor.py:153} INFO - Started process (PID=37261) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:41:12,808] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:41:12,809] {logging_mixin.py:115} INFO - [2023-08-04 14:41:12,809] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:41:12,951] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:41:12,968] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.163 seconds
+[2023-08-04 14:41:44,030] {processor.py:153} INFO - Started process (PID=37319) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:41:44,032] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:41:44,032] {logging_mixin.py:115} INFO - [2023-08-04 14:41:44,032] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:41:44,163] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:41:44,182] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.155 seconds
+[2023-08-04 14:42:14,520] {processor.py:153} INFO - Started process (PID=37376) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:42:14,521] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:42:14,522] {logging_mixin.py:115} INFO - [2023-08-04 14:42:14,522] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:42:14,665] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:42:14,682] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.165 seconds
+[2023-08-04 14:42:45,409] {processor.py:153} INFO - Started process (PID=37428) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:42:45,410] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:42:45,410] {logging_mixin.py:115} INFO - [2023-08-04 14:42:45,410] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:42:45,567] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:42:45,585] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.180 seconds
+[2023-08-04 14:43:16,261] {processor.py:153} INFO - Started process (PID=37488) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:43:16,262] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:43:16,264] {logging_mixin.py:115} INFO - [2023-08-04 14:43:16,264] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:43:16,495] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:43:16,520] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.263 seconds
+[2023-08-04 14:43:46,938] {processor.py:153} INFO - Started process (PID=37548) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:43:46,939] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:43:46,939] {logging_mixin.py:115} INFO - [2023-08-04 14:43:46,939] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:43:47,078] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:43:47,095] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.160 seconds
+[2023-08-04 14:44:17,963] {processor.py:153} INFO - Started process (PID=37608) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:44:17,964] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:44:17,964] {logging_mixin.py:115} INFO - [2023-08-04 14:44:17,964] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:44:18,108] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:44:18,124] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.164 seconds
+[2023-08-04 14:44:48,476] {processor.py:153} INFO - Started process (PID=37659) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:44:48,477] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:44:48,478] {logging_mixin.py:115} INFO - [2023-08-04 14:44:48,478] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:44:48,620] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:44:48,636] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.164 seconds
+[2023-08-04 14:45:19,570] {processor.py:153} INFO - Started process (PID=37718) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:45:19,571] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:45:19,572] {logging_mixin.py:115} INFO - [2023-08-04 14:45:19,572] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:45:19,709] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:45:19,730] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.163 seconds
+[2023-08-04 14:45:50,668] {processor.py:153} INFO - Started process (PID=37778) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:45:50,669] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:45:50,670] {logging_mixin.py:115} INFO - [2023-08-04 14:45:50,670] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:45:50,811] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:45:50,826] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.161 seconds
+[2023-08-04 14:46:21,931] {processor.py:153} INFO - Started process (PID=37838) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:46:21,933] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:46:21,934] {logging_mixin.py:115} INFO - [2023-08-04 14:46:21,934] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:46:22,098] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:46:22,116] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.189 seconds
+[2023-08-04 14:46:52,553] {processor.py:153} INFO - Started process (PID=37888) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:46:52,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:46:52,555] {logging_mixin.py:115} INFO - [2023-08-04 14:46:52,555] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:46:52,724] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:46:52,745] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.196 seconds
+[2023-08-04 14:47:23,164] {processor.py:153} INFO - Started process (PID=37946) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:47:23,165] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:47:23,166] {logging_mixin.py:115} INFO - [2023-08-04 14:47:23,166] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:47:23,316] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:47:23,344] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.183 seconds
+[2023-08-04 14:47:53,747] {processor.py:153} INFO - Started process (PID=38006) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:47:53,749] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:47:53,750] {logging_mixin.py:115} INFO - [2023-08-04 14:47:53,750] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:47:53,880] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:47:53,895] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.152 seconds
+[2023-08-04 14:48:24,515] {processor.py:153} INFO - Started process (PID=38066) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:48:24,517] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:48:24,518] {logging_mixin.py:115} INFO - [2023-08-04 14:48:24,518] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:48:24,709] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:48:24,727] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.215 seconds
+[2023-08-04 14:48:55,900] {processor.py:153} INFO - Started process (PID=38116) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:48:55,901] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:48:55,901] {logging_mixin.py:115} INFO - [2023-08-04 14:48:55,901] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:48:56,033] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:48:56,048] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.152 seconds
+[2023-08-04 14:49:26,318] {processor.py:153} INFO - Started process (PID=38175) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:49:26,319] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:49:26,321] {logging_mixin.py:115} INFO - [2023-08-04 14:49:26,321] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:49:26,472] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:49:26,491] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.176 seconds
+[2023-08-04 14:49:56,663] {processor.py:153} INFO - Started process (PID=38234) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:49:56,664] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:49:56,666] {logging_mixin.py:115} INFO - [2023-08-04 14:49:56,666] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:49:56,807] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:49:56,830] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.171 seconds
+[2023-08-04 14:50:27,123] {processor.py:153} INFO - Started process (PID=38293) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:50:27,124] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:50:27,125] {logging_mixin.py:115} INFO - [2023-08-04 14:50:27,125] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:50:27,298] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:50:27,320] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.200 seconds
+[2023-08-04 14:50:57,658] {processor.py:153} INFO - Started process (PID=38344) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:50:57,660] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:50:57,661] {logging_mixin.py:115} INFO - [2023-08-04 14:50:57,661] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:50:57,792] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:50:57,806] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 14:51:28,210] {processor.py:153} INFO - Started process (PID=38403) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:51:28,211] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:51:28,212] {logging_mixin.py:115} INFO - [2023-08-04 14:51:28,212] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:51:28,367] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:51:28,387] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.180 seconds
+[2023-08-04 14:51:58,533] {processor.py:153} INFO - Started process (PID=38462) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:51:58,534] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:51:58,535] {logging_mixin.py:115} INFO - [2023-08-04 14:51:58,535] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:51:58,674] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:51:58,688] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.159 seconds
+[2023-08-04 14:52:29,925] {processor.py:153} INFO - Started process (PID=38523) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:52:29,926] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:52:29,927] {logging_mixin.py:115} INFO - [2023-08-04 14:52:29,927] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:52:30,062] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:52:30,077] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.156 seconds
+[2023-08-04 14:53:01,088] {processor.py:153} INFO - Started process (PID=38573) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:53:01,089] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:53:01,090] {logging_mixin.py:115} INFO - [2023-08-04 14:53:01,090] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:53:01,223] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:53:01,237] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.153 seconds
+[2023-08-04 14:53:32,210] {processor.py:153} INFO - Started process (PID=38632) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:53:32,211] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:53:32,212] {logging_mixin.py:115} INFO - [2023-08-04 14:53:32,212] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:53:32,355] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:53:32,369] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.164 seconds
+[2023-08-04 14:54:03,384] {processor.py:153} INFO - Started process (PID=38691) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:54:03,385] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:54:03,386] {logging_mixin.py:115} INFO - [2023-08-04 14:54:03,386] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:54:03,533] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:54:03,548] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.168 seconds
+[2023-08-04 14:54:34,549] {processor.py:153} INFO - Started process (PID=38750) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:54:34,550] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:54:34,551] {logging_mixin.py:115} INFO - [2023-08-04 14:54:34,551] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:54:34,677] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:54:34,690] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.144 seconds
+[2023-08-04 14:55:05,714] {processor.py:153} INFO - Started process (PID=38809) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:55:05,715] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:55:05,716] {logging_mixin.py:115} INFO - [2023-08-04 14:55:05,716] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:55:05,871] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:55:05,887] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.176 seconds
+[2023-08-04 14:55:36,663] {processor.py:153} INFO - Started process (PID=38868) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:55:36,665] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:55:36,667] {logging_mixin.py:115} INFO - [2023-08-04 14:55:36,667] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:55:36,815] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:55:36,834] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.174 seconds
+[2023-08-04 14:56:06,953] {processor.py:153} INFO - Started process (PID=38918) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:56:06,954] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:56:06,954] {logging_mixin.py:115} INFO - [2023-08-04 14:56:06,954] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:56:07,109] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:56:07,125] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.176 seconds
+[2023-08-04 14:56:38,097] {processor.py:153} INFO - Started process (PID=38976) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:56:38,098] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:56:38,099] {logging_mixin.py:115} INFO - [2023-08-04 14:56:38,099] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:56:38,241] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:56:38,254] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.160 seconds
+[2023-08-04 14:57:09,128] {processor.py:153} INFO - Started process (PID=39037) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:57:09,129] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:57:09,130] {logging_mixin.py:115} INFO - [2023-08-04 14:57:09,130] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:57:09,293] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:57:09,307] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.182 seconds
+[2023-08-04 14:57:40,266] {processor.py:153} INFO - Started process (PID=39096) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:57:40,267] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:57:40,268] {logging_mixin.py:115} INFO - [2023-08-04 14:57:40,268] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:57:40,403] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:57:40,418] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.156 seconds
+[2023-08-04 14:58:11,420] {processor.py:153} INFO - Started process (PID=39155) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:58:11,421] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:58:11,422] {logging_mixin.py:115} INFO - [2023-08-04 14:58:11,422] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:58:11,551] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:58:11,565] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.148 seconds
+[2023-08-04 14:58:42,521] {processor.py:153} INFO - Started process (PID=39205) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:58:42,522] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:58:42,522] {logging_mixin.py:115} INFO - [2023-08-04 14:58:42,522] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:58:42,659] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:58:42,674] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.157 seconds
+[2023-08-04 14:59:13,691] {processor.py:153} INFO - Started process (PID=39265) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:59:13,693] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:59:13,694] {logging_mixin.py:115} INFO - [2023-08-04 14:59:13,694] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:59:13,836] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:59:13,851] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.163 seconds
+[2023-08-04 14:59:45,054] {processor.py:153} INFO - Started process (PID=39325) to work on /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:59:45,055] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_proyectos_operator.py for tasks to queue
+[2023-08-04 14:59:45,056] {logging_mixin.py:115} INFO - [2023-08-04 14:59:45,056] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:59:45,205] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_proyectos_operator.py
+[2023-08-04 14:59:45,222] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_proyectos_operator.py took 0.172 seconds

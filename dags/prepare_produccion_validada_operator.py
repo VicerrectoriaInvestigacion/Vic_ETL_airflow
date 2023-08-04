@@ -1,4 +1,5 @@
 #---Airflow libraries-----#
+import datetime
 import os
 from airflow.models import BaseOperator
 from airflow.utils.decorators import apply_defaults
@@ -48,5 +49,6 @@ class PrepareProduccionValidada(BaseOperator):
         produccion.loc[(produccion["Tipo_documental"]=="Capítulo de libro"),"Tipo_documental"]="Capitulo de Libro"
         produccion.loc[(produccion["Tipo_documental"]=="Capitulo de libro"),"Tipo_documental"]="Capitulo de Libro"
         produccion.loc[(produccion["Tipo_documental"]=="Capítulo de Libro"),"Tipo_documental"]="Capitulo de Libro"
+        produccion["ETL_upload_date"] = datetime.datetime.now()
         produccion.to_csv(f"{self.dag_path}/data/to_upload/rewrite/produccion_validada.csv",index=False)    
         

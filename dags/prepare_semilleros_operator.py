@@ -34,4 +34,5 @@ class PrepareSemilleros(BaseOperator):
         formatted_sm_columns = [unidecode(str(col)) for col in formatted_sm_columns]
         rename_columns = dict(zip(sm_columns, formatted_sm_columns))
         semilleros=semilleros.rename(columns=rename_columns)
+        semilleros["ETL_upload_date"] = datetime.datetime.now()
         semilleros.to_csv(f"{self.dag_path}/data/to_upload/rewrite/semilleros.csv",index=False)  

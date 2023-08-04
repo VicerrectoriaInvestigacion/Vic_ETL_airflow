@@ -14,7 +14,7 @@ from prepare_produccion_validada_operator import PrepareProduccionValidada
 from prepare_profesores_data_operator import PrepareProfesoresData
 from prepare_semilleros_operator import PrepareSemilleros
 from prepare_proyectos_operator import PrepareProyectos
-
+from prepare_contratos_operator import PrepareContratos
 
 from prepare_scopus_data_operator import PrepareScopusData
 from prepare_wos_data_operator import PrepareWosData
@@ -168,12 +168,22 @@ with DAG(
     
     
     
-    
     #########---------------------REPOSITORIO_INSTITUCIONAL---------------------------#########
 
 
     repositorio_inst = PrepareRepositorioInstitucional(
         task_id = 'repositorio_institucional',
+    )
+    
+    #########---------------------------------------------------#########
+    
+    
+            
+    #########---------------------CONTRATOS---------------------------#########
+
+
+    contratos = PrepareContratos(
+        task_id = 'contratos',
     )
     
     #########---------------------------------------------------#########
@@ -201,14 +211,8 @@ with DAG(
     
 
     
-    profesores_validados >>  profesores_core_data
     
-    
-    profesores_core_data >> exporting
-    
-    
-    
-    [profesores_validados,profesores_core_data,produccion_validada,revistas,semilleros,proyectos,repositorio_inst] >> exporting
+    [profesores_validados,profesores_core_data,produccion_validada,revistas,semilleros,proyectos,repositorio_inst,contratos] >> exporting
     
     
    #read_journals >> produccion_validada  >> profesores_validados >> exporting

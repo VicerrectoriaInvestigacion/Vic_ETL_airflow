@@ -1,4 +1,5 @@
 #---Airflow libraries-----#
+import datetime
 import os
 from airflow.models import BaseOperator
 from airflow.utils.decorators import apply_defaults
@@ -37,6 +38,7 @@ class PrepareRepositorioInstitucional(BaseOperator):
         formatted_isnt_columns = [str(col).replace("ñ", "nn") for col in formatted_isnt_columns]
         rename_columns = dict(zip(isnt_columns, formatted_isnt_columns))    
         institucional=institucional.rename(columns=rename_columns)
+        institucional["ETL_upload_date"] = datetime.datetime.now()
         institucional.to_csv(f"{self.dag_path}/data/to_upload/rewrite/respositorio_inst.csv",index=False)
         
         

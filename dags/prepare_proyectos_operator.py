@@ -37,6 +37,7 @@ class PrepareProyectos(BaseOperator):
         proyectos.loc[(proyectos["VALOR_APROBADO_PATROCINADOR"]=="\\N"),"VALOR_APROBADO_PATROCINADOR"]=0
         proyectos["VALOR_APROBADO_PATROCINADOR"]=proyectos["VALOR_APROBADO_PATROCINADOR"].astype(float)
         proyectos['FECHA_DE_NEGOCIACION'] = proyectos['FECHA_DE_NEGOCIACION'].apply(lambda x: self._convert_to_datetime(x))
+        proyectos["ETL_upload_date"] = datetime.datetime.now()
         proyectos.to_csv(f"{self.dag_path}/data/to_upload/rewrite/proyectos.csv",index=False)
             
             

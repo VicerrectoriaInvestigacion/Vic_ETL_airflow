@@ -31,6 +31,7 @@ class PrepareRevistas(BaseOperator):
         formatted_rv_columns = [str(col).replace(" ", "_") for col in rv_columns]
         rename_columns = dict(zip(rv_columns, formatted_rv_columns))
         revistas=revistas.rename(columns=rename_columns)
+        revistas["ETL_upload_date"] = datetime.datetime.now()
         revistas.to_csv(f"{self.dag_path}/data/to_upload/append/revistas.csv",index=False)  
         
    
