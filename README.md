@@ -13,7 +13,7 @@ Este proyecto consta de un DAG (Gráfico Acíclico Dirigido) desarrollado con Ap
 # DAG (Grafo del ETL)
 <img width="389" alt="Screenshot 2023-08-09 at 11 10 06 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/85ce9380-efde-496c-ad86-b392f9f9b23f">
 
-Este es el DAG actual del ETL, cada nodo se describe a continuación:
+Este es el DAG actual del ETL.
 
 - Contratos
 - Producción validada
