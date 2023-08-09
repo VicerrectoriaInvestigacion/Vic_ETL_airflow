@@ -10,6 +10,11 @@ Este proyecto consta de un DAG (Gráfico Acíclico Dirigido) desarrollado con Ap
 <img width="1186" alt="Screenshot 2023-08-03 at 1 12 12 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/e6b74049-760a-4567-96ef-792b99691deb">
 
 
+**Nota**
+La arquitectura presentada ilustra que el DAG extra datos de bases de datos Oracle, del API de Scopus y de WOS, sin embargo, todos los nodos acutales trabajan solo con archivos en excel.
+En caso de querer conectar un nodo a un API o a una base de datos solo es necesario crear el nodo y usar la librería correspondiente para la comunicación con la fuente de datos.
+
+
 # DAG (Grafo del ETL)
 <img width="389" alt="Screenshot 2023-08-09 at 11 10 06 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/85ce9380-efde-496c-ad86-b392f9f9b23f">
 
