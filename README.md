@@ -10,6 +10,22 @@ Este proyecto consta de un DAG (Gráfico Acíclico Dirigido) desarrollado con Ap
 <img width="1186" alt="Screenshot 2023-08-03 at 1 12 12 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/e6b74049-760a-4567-96ef-792b99691deb">
 
 
+# DAG (Grafo del ETL)
+<img width="389" alt="Screenshot 2023-08-09 at 11 10 06 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/85ce9380-efde-496c-ad86-b392f9f9b23f">
+
+Este es el DAG actual del ETL, cada nodo se describe a continuación:
+
+- Contratos
+- Producción validada
+- Profesores core data
+- Profesores validados
+- Proyectos
+- Repositorio Institucional
+- Revistas
+- Semilleros
+
+**Nota** 
+Se recomienda actualizar la imagen del DAG cada vez que agregue un nodo nuevo, con el fin de garantizar que la documentación se encuentra documentada.
 
 
 # Correr el proyecto
