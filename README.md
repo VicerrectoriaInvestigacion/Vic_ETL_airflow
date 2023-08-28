@@ -212,7 +212,7 @@ Si solo se quieren traer los cambios sobre tablas que ya se encuentren importada
 [presentacion_vic_investigacion_etl.pdf](https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/files/12455131/presentacion_vic_investigacion_etl.pdf)
 
 
-
+Link Canva (Cuenta con permisos de edición) ->> https://www.canva.com/design/DAFrEKyYS1M/7Kj9Ib5T8wVsVme_vb3azw/edit?utm_content=DAFrEKyYS1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
