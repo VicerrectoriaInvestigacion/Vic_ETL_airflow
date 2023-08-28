@@ -207,6 +207,15 @@ Si solo se quieren traer los cambios sobre tablas que ya se encuentren importada
 <img width="591" alt="Screenshot 2023-08-28 at 8 55 28 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/0b6a2861-258d-41bd-91cb-585cbfc271fa">
 
 
+# Presentación
+
+[presentacion_vic_investigacion_etl.pdf](https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/files/12455131/presentacion_vic_investigacion_etl.pdf)
+
+
+
+
+
+
 
 
 
