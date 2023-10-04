@@ -1,0 +1,170 @@
+[2023-09-02 18:03:40,049] {processor.py:153} INFO - Started process (PID=72) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:03:40,050] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:03:40,051] {logging_mixin.py:115} INFO - [2023-09-02 18:03:40,051] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:03:40,066] {logging_mixin.py:115} INFO - [2023-09-02 18:03:40,064] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:03:40,322] {logging_mixin.py:115} INFO - [2023-09-02 18:03:40,321] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:03:40,330] {logging_mixin.py:115} INFO - [2023-09-02 18:03:40,329] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:03:40,336] {logging_mixin.py:115} INFO - [2023-09-02 18:03:40,335] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:03:40,341] {logging_mixin.py:115} INFO - [2023-09-02 18:03:40,340] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:03:40,342] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:03:40,360] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.315 seconds
+[2023-09-02 18:04:10,695] {processor.py:153} INFO - Started process (PID=123) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:04:10,696] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:04:10,697] {logging_mixin.py:115} INFO - [2023-09-02 18:04:10,697] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:04:10,704] {logging_mixin.py:115} INFO - [2023-09-02 18:04:10,703] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:10,915] {logging_mixin.py:115} INFO - [2023-09-02 18:04:10,915] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:10,918] {logging_mixin.py:115} INFO - [2023-09-02 18:04:10,918] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:10,922] {logging_mixin.py:115} INFO - [2023-09-02 18:04:10,921] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:10,924] {logging_mixin.py:115} INFO - [2023-09-02 18:04:10,924] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:10,925] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:04:10,934] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.242 seconds
+[2023-09-02 18:04:41,253] {processor.py:153} INFO - Started process (PID=183) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:04:41,254] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:04:41,255] {logging_mixin.py:115} INFO - [2023-09-02 18:04:41,255] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:04:41,261] {logging_mixin.py:115} INFO - [2023-09-02 18:04:41,261] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:41,491] {logging_mixin.py:115} INFO - [2023-09-02 18:04:41,490] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:41,493] {logging_mixin.py:115} INFO - [2023-09-02 18:04:41,492] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:41,495] {logging_mixin.py:115} INFO - [2023-09-02 18:04:41,494] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:41,497] {logging_mixin.py:115} INFO - [2023-09-02 18:04:41,496] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:04:41,497] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:04:41,508] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.258 seconds
+[2023-09-02 18:05:11,676] {processor.py:153} INFO - Started process (PID=241) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:05:11,677] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:05:11,678] {logging_mixin.py:115} INFO - [2023-09-02 18:05:11,678] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:05:11,685] {logging_mixin.py:115} INFO - [2023-09-02 18:05:11,685] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:11,925] {logging_mixin.py:115} INFO - [2023-09-02 18:05:11,924] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:11,928] {logging_mixin.py:115} INFO - [2023-09-02 18:05:11,927] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:11,930] {logging_mixin.py:115} INFO - [2023-09-02 18:05:11,930] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:11,932] {logging_mixin.py:115} INFO - [2023-09-02 18:05:11,932] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:11,933] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:05:11,944] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.272 seconds
+[2023-09-02 18:05:42,454] {processor.py:153} INFO - Started process (PID=300) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:05:42,454] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:05:42,455] {logging_mixin.py:115} INFO - [2023-09-02 18:05:42,455] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:05:42,462] {logging_mixin.py:115} INFO - [2023-09-02 18:05:42,462] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:42,679] {logging_mixin.py:115} INFO - [2023-09-02 18:05:42,678] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:42,681] {logging_mixin.py:115} INFO - [2023-09-02 18:05:42,681] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:42,684] {logging_mixin.py:115} INFO - [2023-09-02 18:05:42,683] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:42,687] {logging_mixin.py:115} INFO - [2023-09-02 18:05:42,686] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:05:42,687] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:05:42,697] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.246 seconds
+[2023-09-02 18:06:13,003] {processor.py:153} INFO - Started process (PID=360) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:06:13,004] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:06:13,005] {logging_mixin.py:115} INFO - [2023-09-02 18:06:13,005] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:06:13,012] {logging_mixin.py:115} INFO - [2023-09-02 18:06:13,012] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:13,223] {logging_mixin.py:115} INFO - [2023-09-02 18:06:13,223] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:13,226] {logging_mixin.py:115} INFO - [2023-09-02 18:06:13,226] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:13,229] {logging_mixin.py:115} INFO - [2023-09-02 18:06:13,228] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:13,231] {logging_mixin.py:115} INFO - [2023-09-02 18:06:13,230] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:13,231] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:06:13,241] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.240 seconds
+[2023-09-02 18:06:44,192] {processor.py:153} INFO - Started process (PID=420) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:06:44,193] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:06:44,193] {logging_mixin.py:115} INFO - [2023-09-02 18:06:44,193] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:06:44,201] {logging_mixin.py:115} INFO - [2023-09-02 18:06:44,200] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:44,559] {logging_mixin.py:115} INFO - [2023-09-02 18:06:44,557] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:44,567] {logging_mixin.py:115} INFO - [2023-09-02 18:06:44,566] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:44,578] {logging_mixin.py:115} INFO - [2023-09-02 18:06:44,576] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:44,583] {logging_mixin.py:115} INFO - [2023-09-02 18:06:44,581] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:06:44,584] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:06:44,598] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.409 seconds
+[2023-09-02 18:07:15,586] {processor.py:153} INFO - Started process (PID=479) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:07:15,587] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:07:15,588] {logging_mixin.py:115} INFO - [2023-09-02 18:07:15,588] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:07:15,600] {logging_mixin.py:115} INFO - [2023-09-02 18:07:15,599] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:15,869] {logging_mixin.py:115} INFO - [2023-09-02 18:07:15,867] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:15,871] {logging_mixin.py:115} INFO - [2023-09-02 18:07:15,871] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:15,874] {logging_mixin.py:115} INFO - [2023-09-02 18:07:15,873] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:15,877] {logging_mixin.py:115} INFO - [2023-09-02 18:07:15,876] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:15,878] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:07:15,890] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.307 seconds
+[2023-09-02 18:07:46,629] {processor.py:153} INFO - Started process (PID=529) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:07:46,631] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:07:46,632] {logging_mixin.py:115} INFO - [2023-09-02 18:07:46,632] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:07:46,643] {logging_mixin.py:115} INFO - [2023-09-02 18:07:46,643] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:46,863] {logging_mixin.py:115} INFO - [2023-09-02 18:07:46,862] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:46,866] {logging_mixin.py:115} INFO - [2023-09-02 18:07:46,865] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:46,868] {logging_mixin.py:115} INFO - [2023-09-02 18:07:46,868] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:46,871] {logging_mixin.py:115} INFO - [2023-09-02 18:07:46,871] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:07:46,872] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:07:46,883] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.257 seconds
+[2023-09-02 18:08:16,943] {processor.py:153} INFO - Started process (PID=588) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:08:16,945] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:08:16,946] {logging_mixin.py:115} INFO - [2023-09-02 18:08:16,946] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:08:16,956] {logging_mixin.py:115} INFO - [2023-09-02 18:08:16,955] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:17,235] {logging_mixin.py:115} INFO - [2023-09-02 18:08:17,234] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:17,239] {logging_mixin.py:115} INFO - [2023-09-02 18:08:17,238] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:17,243] {logging_mixin.py:115} INFO - [2023-09-02 18:08:17,242] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:17,246] {logging_mixin.py:115} INFO - [2023-09-02 18:08:17,245] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:17,247] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:08:17,259] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.322 seconds
+[2023-09-02 18:08:47,597] {processor.py:153} INFO - Started process (PID=647) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:08:47,597] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:08:47,598] {logging_mixin.py:115} INFO - [2023-09-02 18:08:47,598] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:08:47,605] {logging_mixin.py:115} INFO - [2023-09-02 18:08:47,605] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:47,824] {logging_mixin.py:115} INFO - [2023-09-02 18:08:47,824] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:47,827] {logging_mixin.py:115} INFO - [2023-09-02 18:08:47,826] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:47,829] {logging_mixin.py:115} INFO - [2023-09-02 18:08:47,829] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:47,832] {logging_mixin.py:115} INFO - [2023-09-02 18:08:47,831] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:08:47,832] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:08:47,843] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.249 seconds
+[2023-09-02 18:09:18,340] {processor.py:153} INFO - Started process (PID=705) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:09:18,341] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:09:18,342] {logging_mixin.py:115} INFO - [2023-09-02 18:09:18,342] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:09:18,350] {logging_mixin.py:115} INFO - [2023-09-02 18:09:18,349] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:18,666] {logging_mixin.py:115} INFO - [2023-09-02 18:09:18,665] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:18,670] {logging_mixin.py:115} INFO - [2023-09-02 18:09:18,668] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:18,672] {logging_mixin.py:115} INFO - [2023-09-02 18:09:18,672] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:18,675] {logging_mixin.py:115} INFO - [2023-09-02 18:09:18,675] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:18,676] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:09:18,689] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.352 seconds
+[2023-09-02 18:09:49,002] {processor.py:153} INFO - Started process (PID=754) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:09:49,003] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:09:49,003] {logging_mixin.py:115} INFO - [2023-09-02 18:09:49,003] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:09:49,010] {logging_mixin.py:115} INFO - [2023-09-02 18:09:49,010] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:49,221] {logging_mixin.py:115} INFO - [2023-09-02 18:09:49,220] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:49,223] {logging_mixin.py:115} INFO - [2023-09-02 18:09:49,222] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:49,225] {logging_mixin.py:115} INFO - [2023-09-02 18:09:49,225] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:49,228] {logging_mixin.py:115} INFO - [2023-09-02 18:09:49,227] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:09:49,229] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:09:49,239] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.240 seconds
+[2023-09-02 18:10:20,024] {processor.py:153} INFO - Started process (PID=814) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:10:20,025] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:10:20,026] {logging_mixin.py:115} INFO - [2023-09-02 18:10:20,026] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:10:20,036] {logging_mixin.py:115} INFO - [2023-09-02 18:10:20,035] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:20,374] {logging_mixin.py:115} INFO - [2023-09-02 18:10:20,373] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:20,377] {logging_mixin.py:115} INFO - [2023-09-02 18:10:20,376] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:20,380] {logging_mixin.py:115} INFO - [2023-09-02 18:10:20,379] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:20,383] {logging_mixin.py:115} INFO - [2023-09-02 18:10:20,382] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:20,384] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:10:20,398] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.379 seconds
+[2023-09-02 18:10:50,652] {processor.py:153} INFO - Started process (PID=873) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:10:50,653] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:10:50,653] {logging_mixin.py:115} INFO - [2023-09-02 18:10:50,653] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:10:50,660] {logging_mixin.py:115} INFO - [2023-09-02 18:10:50,660] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:50,873] {logging_mixin.py:115} INFO - [2023-09-02 18:10:50,873] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:50,876] {logging_mixin.py:115} INFO - [2023-09-02 18:10:50,876] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:50,878] {logging_mixin.py:115} INFO - [2023-09-02 18:10:50,878] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:50,881] {logging_mixin.py:115} INFO - [2023-09-02 18:10:50,880] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:10:50,882] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:10:50,892] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.243 seconds
+[2023-09-02 18:11:21,026] {processor.py:153} INFO - Started process (PID=931) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:11:21,027] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:11:21,028] {logging_mixin.py:115} INFO - [2023-09-02 18:11:21,028] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:11:21,036] {logging_mixin.py:115} INFO - [2023-09-02 18:11:21,035] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:21,297] {logging_mixin.py:115} INFO - [2023-09-02 18:11:21,296] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:21,300] {logging_mixin.py:115} INFO - [2023-09-02 18:11:21,299] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:21,303] {logging_mixin.py:115} INFO - [2023-09-02 18:11:21,302] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:21,305] {logging_mixin.py:115} INFO - [2023-09-02 18:11:21,305] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:21,306] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:11:21,318] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.296 seconds
+[2023-09-02 18:11:52,223] {processor.py:153} INFO - Started process (PID=989) to work on /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:11:52,224] {processor.py:641} INFO - Processing file /opt/airflow/dags/read_scopus_operator.py for tasks to queue
+[2023-09-02 18:11:52,225] {logging_mixin.py:115} INFO - [2023-09-02 18:11:52,225] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:11:52,231] {logging_mixin.py:115} INFO - [2023-09-02 18:11:52,231] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:52,444] {logging_mixin.py:115} INFO - [2023-09-02 18:11:52,444] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:52,447] {logging_mixin.py:115} INFO - [2023-09-02 18:11:52,446] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:52,449] {logging_mixin.py:115} INFO - [2023-09-02 18:11:52,449] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:52,452] {logging_mixin.py:115} INFO - [2023-09-02 18:11:52,452] {log_util.py:40} INFO - Module loaded.
+[2023-09-02 18:11:52,453] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/read_scopus_operator.py
+[2023-09-02 18:11:52,463] {processor.py:161} INFO - Processing /opt/airflow/dags/read_scopus_operator.py took 0.242 seconds

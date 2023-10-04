@@ -1,0 +1,250 @@
+[2023-08-05 13:58:47,517] {processor.py:153} INFO - Started process (PID=43) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:58:47,519] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 13:58:47,520] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,520] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:58:47,533] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,533] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,914] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,913] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,917] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,916] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,919] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,919] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,922] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,922] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,923] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:58:47,937] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.428 seconds
+[2023-08-05 13:59:18,062] {processor.py:153} INFO - Started process (PID=100) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:59:18,065] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 13:59:18,067] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,067] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:59:18,085] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,082] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,354] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,351] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,363] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,361] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,374] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,372] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,386] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,382] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,388] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:59:18,409] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.350 seconds
+[2023-08-05 13:59:48,965] {processor.py:153} INFO - Started process (PID=159) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:59:48,966] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 13:59:48,968] {logging_mixin.py:115} INFO - [2023-08-05 13:59:48,968] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:59:48,981] {logging_mixin.py:115} INFO - [2023-08-05 13:59:48,980] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,380] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,379] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,383] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,382] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,387] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,386] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,391] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,390] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,392] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 13:59:49,407] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.446 seconds
+[2023-08-05 14:00:19,638] {processor.py:153} INFO - Started process (PID=218) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:00:19,640] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:00:19,641] {logging_mixin.py:115} INFO - [2023-08-05 14:00:19,641] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:00:19,652] {logging_mixin.py:115} INFO - [2023-08-05 14:00:19,651] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:19,946] {logging_mixin.py:115} INFO - [2023-08-05 14:00:19,945] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:19,949] {logging_mixin.py:115} INFO - [2023-08-05 14:00:19,949] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:19,952] {logging_mixin.py:115} INFO - [2023-08-05 14:00:19,951] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:19,955] {logging_mixin.py:115} INFO - [2023-08-05 14:00:19,954] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:19,956] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:00:19,967] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.333 seconds
+[2023-08-05 14:00:50,475] {processor.py:153} INFO - Started process (PID=278) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:00:50,476] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:00:50,477] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,477] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:00:50,484] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,483] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,686] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,685] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,689] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,688] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,691] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,691] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,694] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,693] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,695] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:00:50,708] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.235 seconds
+[2023-08-05 14:01:21,114] {processor.py:153} INFO - Started process (PID=328) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:01:21,117] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:01:21,119] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,119] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:01:21,135] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,134] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,828] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,816] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,837] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,836] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,839] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,839] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,842] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,841] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,844] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:01:21,861] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.766 seconds
+[2023-08-05 14:01:52,710] {processor.py:153} INFO - Started process (PID=386) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:01:52,711] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:01:52,713] {logging_mixin.py:115} INFO - [2023-08-05 14:01:52,713] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:01:52,727] {logging_mixin.py:115} INFO - [2023-08-05 14:01:52,726] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,118] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,117] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,122] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,121] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,126] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,125] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,129] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,128] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,130] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:01:53,149] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.446 seconds
+[2023-08-05 14:02:23,812] {processor.py:153} INFO - Started process (PID=445) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:02:23,813] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:02:23,814] {logging_mixin.py:115} INFO - [2023-08-05 14:02:23,814] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:02:23,824] {logging_mixin.py:115} INFO - [2023-08-05 14:02:23,822] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,159] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,157] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,161] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,160] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,164] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,164] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,167] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,166] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,167] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:02:24,180] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.371 seconds
+[2023-08-05 14:02:54,387] {processor.py:153} INFO - Started process (PID=504) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:02:54,389] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:02:54,390] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,390] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:02:54,403] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,402] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,804] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,803] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,806] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,805] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,809] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,809] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,812] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,811] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,813] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:02:54,828] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.446 seconds
+[2023-08-05 14:03:25,010] {processor.py:153} INFO - Started process (PID=562) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:03:25,012] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:03:25,013] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,013] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:03:25,024] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,024] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,262] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,261] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,264] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,263] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,266] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,265] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,268] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,268] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,269] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:03:25,280] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.275 seconds
+[2023-08-05 14:03:55,390] {processor.py:153} INFO - Started process (PID=621) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:03:55,391] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:03:55,392] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,392] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:03:55,399] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,398] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:55,835] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,834] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:55,838] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,838] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:55,841] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,840] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:55,844] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,843] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:55,845] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:03:55,861] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.473 seconds
+[2023-08-05 14:04:25,967] {processor.py:153} INFO - Started process (PID=671) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:04:25,970] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:04:25,972] {logging_mixin.py:115} INFO - [2023-08-05 14:04:25,972] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:04:25,992] {logging_mixin.py:115} INFO - [2023-08-05 14:04:25,991] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,369] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,368] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,372] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,371] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,374] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,374] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,377] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,377] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,378] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:04:26,391] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.435 seconds
+[2023-08-05 14:04:57,368] {processor.py:153} INFO - Started process (PID=731) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:04:57,370] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:04:57,371] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,371] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:04:57,386] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,385] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,906] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,905] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,910] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,910] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,915] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,914] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,918] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,917] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,919] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:04:57,937] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.574 seconds
+[2023-08-05 14:05:28,236] {processor.py:153} INFO - Started process (PID=789) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:05:28,238] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:05:28,240] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,240] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:05:28,257] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,257] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,613] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,612] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,618] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,616] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,622] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,621] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,625] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,624] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,626] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:05:28,641] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.416 seconds
+[2023-08-05 14:05:58,996] {processor.py:153} INFO - Started process (PID=848) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:05:59,000] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:05:59,002] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,002] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:05:59,028] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,024] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,284] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,282] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,295] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,293] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,304] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,303] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,319] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,315] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,322] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:05:59,343] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.350 seconds
+[2023-08-05 14:06:29,702] {processor.py:153} INFO - Started process (PID=907) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:06:29,707] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:06:29,708] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,708] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:06:29,723] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,722] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,929] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,928] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,933] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,932] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,935] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,935] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,938] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,937] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,938] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:06:29,950] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.255 seconds
+[2023-08-05 14:07:00,082] {processor.py:153} INFO - Started process (PID=956) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:07:00,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:07:00,086] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,086] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:07:00,103] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,101] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,339] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,339] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,341] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,341] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,343] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,343] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,345] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,345] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,346] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:07:00,356] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.282 seconds
+[2023-08-05 14:07:30,746] {processor.py:153} INFO - Started process (PID=1015) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:07:30,749] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:07:30,750] {logging_mixin.py:115} INFO - [2023-08-05 14:07:30,750] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:07:30,764] {logging_mixin.py:115} INFO - [2023-08-05 14:07:30,763] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,116] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,115] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,120] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,119] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,125] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,124] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,129] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,128] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,130] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:07:31,147] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.406 seconds
+[2023-08-05 14:08:02,174] {processor.py:153} INFO - Started process (PID=1075) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:08:02,175] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:08:02,176] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,176] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:08:02,183] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,182] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,414] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,413] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,416] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,415] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,418] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,418] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,421] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,420] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,422] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:08:02,434] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.262 seconds
+[2023-08-05 14:08:32,545] {processor.py:153} INFO - Started process (PID=1133) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:08:32,546] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:08:32,547] {logging_mixin.py:115} INFO - [2023-08-05 14:08:32,547] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:08:32,560] {logging_mixin.py:115} INFO - [2023-08-05 14:08:32,558] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:32,964] {logging_mixin.py:115} INFO - [2023-08-05 14:08:32,963] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:32,967] {logging_mixin.py:115} INFO - [2023-08-05 14:08:32,966] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:32,969] {logging_mixin.py:115} INFO - [2023-08-05 14:08:32,969] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:32,972] {logging_mixin.py:115} INFO - [2023-08-05 14:08:32,971] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:32,973] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:08:32,987] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.448 seconds
+[2023-08-05 14:09:03,398] {processor.py:153} INFO - Started process (PID=1192) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:09:03,400] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:09:03,401] {logging_mixin.py:115} INFO - [2023-08-05 14:09:03,401] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:09:03,417] {logging_mixin.py:115} INFO - [2023-08-05 14:09:03,416] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:04,236] {logging_mixin.py:115} INFO - [2023-08-05 14:09:04,234] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:04,250] {logging_mixin.py:115} INFO - [2023-08-05 14:09:04,248] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:04,259] {logging_mixin.py:115} INFO - [2023-08-05 14:09:04,257] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:04,279] {logging_mixin.py:115} INFO - [2023-08-05 14:09:04,278] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:04,283] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:09:04,318] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.941 seconds
+[2023-08-05 14:09:34,792] {processor.py:153} INFO - Started process (PID=1251) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:09:34,793] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:09:34,794] {logging_mixin.py:115} INFO - [2023-08-05 14:09:34,794] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:09:34,806] {logging_mixin.py:115} INFO - [2023-08-05 14:09:34,805] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,196] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,196] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,199] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,198] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,202] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,201] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,204] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,203] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,205] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:09:35,218] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.431 seconds
+[2023-08-05 14:10:05,405] {processor.py:153} INFO - Started process (PID=1299) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:10:05,407] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:10:05,409] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,409] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:10:05,423] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,422] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:05,634] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,634] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:05,638] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,637] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:05,641] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,640] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:05,644] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,643] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:05,645] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:10:05,657] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.258 seconds
+[2023-08-05 14:10:35,893] {processor.py:153} INFO - Started process (PID=1357) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:10:35,894] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:10:35,895] {logging_mixin.py:115} INFO - [2023-08-05 14:10:35,895] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:10:35,908] {logging_mixin.py:115} INFO - [2023-08-05 14:10:35,906] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,275] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,274] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,278] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,277] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,281] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,280] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,284] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,283] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,285] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:10:36,299] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.410 seconds
+[2023-08-05 14:11:06,486] {processor.py:153} INFO - Started process (PID=1416) to work on /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:11:06,487] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_contratos_operator.py for tasks to queue
+[2023-08-05 14:11:06,489] {logging_mixin.py:115} INFO - [2023-08-05 14:11:06,489] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:11:06,508] {logging_mixin.py:115} INFO - [2023-08-05 14:11:06,507] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:06,926] {logging_mixin.py:115} INFO - [2023-08-05 14:11:06,925] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:06,931] {logging_mixin.py:115} INFO - [2023-08-05 14:11:06,930] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:06,934] {logging_mixin.py:115} INFO - [2023-08-05 14:11:06,933] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:06,940] {logging_mixin.py:115} INFO - [2023-08-05 14:11:06,938] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:06,941] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_contratos_operator.py
+[2023-08-05 14:11:06,968] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_contratos_operator.py took 0.490 seconds

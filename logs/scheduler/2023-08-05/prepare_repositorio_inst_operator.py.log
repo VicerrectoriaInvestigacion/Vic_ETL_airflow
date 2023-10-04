@@ -1,0 +1,250 @@
+[2023-08-05 13:58:48,280] {processor.py:153} INFO - Started process (PID=49) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:58:48,281] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 13:58:48,282] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,282] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:58:48,291] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,289] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:48,521] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,519] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:48,529] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,528] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:48,547] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,545] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:48,560] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,557] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:48,562] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:58:48,590] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.312 seconds
+[2023-08-05 13:59:19,268] {processor.py:153} INFO - Started process (PID=108) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:59:19,270] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 13:59:19,273] {logging_mixin.py:115} INFO - [2023-08-05 13:59:19,273] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:59:19,295] {logging_mixin.py:115} INFO - [2023-08-05 13:59:19,293] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:19,575] {logging_mixin.py:115} INFO - [2023-08-05 13:59:19,562] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:19,590] {logging_mixin.py:115} INFO - [2023-08-05 13:59:19,586] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:19,605] {logging_mixin.py:115} INFO - [2023-08-05 13:59:19,603] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:19,631] {logging_mixin.py:115} INFO - [2023-08-05 13:59:19,619] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:19,641] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:59:19,675] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.410 seconds
+[2023-08-05 13:59:49,756] {processor.py:153} INFO - Started process (PID=167) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:59:49,757] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 13:59:49,759] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,759] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:59:49,767] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,767] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,993] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,992] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,997] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,996] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:50,000] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,999] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:50,004] {logging_mixin.py:115} INFO - [2023-08-05 13:59:50,002] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:50,006] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 13:59:50,017] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.264 seconds
+[2023-08-05 14:00:20,263] {processor.py:153} INFO - Started process (PID=226) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:00:20,265] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:00:20,266] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,266] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:00:20,273] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,272] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,492] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,491] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,495] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,494] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,497] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,497] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,500] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,500] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,501] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:00:20,513] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.252 seconds
+[2023-08-05 14:00:50,993] {processor.py:153} INFO - Started process (PID=285) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:00:50,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:00:50,995] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,995] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:00:51,002] {logging_mixin.py:115} INFO - [2023-08-05 14:00:51,001] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:51,206] {logging_mixin.py:115} INFO - [2023-08-05 14:00:51,205] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:51,210] {logging_mixin.py:115} INFO - [2023-08-05 14:00:51,210] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:51,213] {logging_mixin.py:115} INFO - [2023-08-05 14:00:51,213] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:51,216] {logging_mixin.py:115} INFO - [2023-08-05 14:00:51,216] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:51,217] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:00:51,229] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.238 seconds
+[2023-08-05 14:01:22,331] {processor.py:153} INFO - Started process (PID=342) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:01:22,333] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:01:22,335] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,335] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:01:22,345] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,343] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:22,658] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,657] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:22,662] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,661] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:22,667] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,665] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:22,672] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,671] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:22,674] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:01:22,691] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.363 seconds
+[2023-08-05 14:01:53,492] {processor.py:153} INFO - Started process (PID=393) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:01:53,494] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:01:53,495] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,495] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:01:53,502] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,501] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,748] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,747] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,752] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,751] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,755] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,754] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,758] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,757] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,759] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:01:53,773] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.284 seconds
+[2023-08-05 14:02:24,495] {processor.py:153} INFO - Started process (PID=452) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:02:24,496] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:02:24,497] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,497] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:02:24,504] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,503] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,724] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,723] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,728] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,727] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,731] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,731] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,734] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,734] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,735] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:02:24,747] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.255 seconds
+[2023-08-05 14:02:55,154] {processor.py:153} INFO - Started process (PID=511) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:02:55,156] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:02:55,156] {logging_mixin.py:115} INFO - [2023-08-05 14:02:55,156] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:02:55,163] {logging_mixin.py:115} INFO - [2023-08-05 14:02:55,163] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:55,413] {logging_mixin.py:115} INFO - [2023-08-05 14:02:55,412] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:55,416] {logging_mixin.py:115} INFO - [2023-08-05 14:02:55,415] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:55,418] {logging_mixin.py:115} INFO - [2023-08-05 14:02:55,418] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:55,421] {logging_mixin.py:115} INFO - [2023-08-05 14:02:55,420] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:55,422] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:02:55,434] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.282 seconds
+[2023-08-05 14:03:25,624] {processor.py:153} INFO - Started process (PID=569) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:03:25,625] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:03:25,626] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,626] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:03:25,636] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,636] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,853] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,852] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,855] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,855] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,858] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,857] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,860] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,859] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,861] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:03:25,871] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.251 seconds
+[2023-08-05 14:03:56,279] {processor.py:153} INFO - Started process (PID=628) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:03:56,281] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:03:56,282] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,281] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:03:56,289] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,289] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,580] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,579] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,583] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,582] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,586] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,585] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,589] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,588] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,590] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:03:56,602] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.325 seconds
+[2023-08-05 14:04:26,900] {processor.py:153} INFO - Started process (PID=678) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:04:26,901] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:04:26,902] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,902] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:04:26,910] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,909] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:27,147] {logging_mixin.py:115} INFO - [2023-08-05 14:04:27,147] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:27,152] {logging_mixin.py:115} INFO - [2023-08-05 14:04:27,151] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:27,154] {logging_mixin.py:115} INFO - [2023-08-05 14:04:27,154] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:27,156] {logging_mixin.py:115} INFO - [2023-08-05 14:04:27,156] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:27,157] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:04:27,170] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.273 seconds
+[2023-08-05 14:04:58,373] {processor.py:153} INFO - Started process (PID=738) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:04:58,375] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:04:58,376] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,376] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:04:58,383] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,383] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:58,669] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,668] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:58,672] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,672] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:58,675] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,675] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:58,680] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,679] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:58,681] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:04:58,716] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.345 seconds
+[2023-08-05 14:05:29,037] {processor.py:153} INFO - Started process (PID=796) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:05:29,038] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:05:29,038] {logging_mixin.py:115} INFO - [2023-08-05 14:05:29,038] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:05:29,044] {logging_mixin.py:115} INFO - [2023-08-05 14:05:29,044] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:29,271] {logging_mixin.py:115} INFO - [2023-08-05 14:05:29,271] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:29,274] {logging_mixin.py:115} INFO - [2023-08-05 14:05:29,273] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:29,276] {logging_mixin.py:115} INFO - [2023-08-05 14:05:29,276] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:29,278] {logging_mixin.py:115} INFO - [2023-08-05 14:05:29,278] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:29,279] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:05:29,290] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.256 seconds
+[2023-08-05 14:05:59,727] {processor.py:153} INFO - Started process (PID=854) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:05:59,728] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:05:59,729] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,729] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:05:59,736] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,736] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,968] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,968] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,971] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,971] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,974] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,974] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,977] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,977] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,979] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:05:59,990] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.266 seconds
+[2023-08-05 14:06:30,242] {processor.py:153} INFO - Started process (PID=914) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:06:30,243] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:06:30,244] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,244] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:06:30,250] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,250] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:30,459] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,459] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:30,461] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,461] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:30,464] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,463] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:30,466] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,465] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:30,467] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:06:30,477] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.237 seconds
+[2023-08-05 14:07:00,780] {processor.py:153} INFO - Started process (PID=964) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:07:00,781] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:07:00,782] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,782] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:07:00,788] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,787] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,000] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,999] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,003] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,002] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,006] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,006] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,009] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,008] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,010] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:07:01,021] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.243 seconds
+[2023-08-05 14:07:31,482] {processor.py:153} INFO - Started process (PID=1023) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:07:31,483] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:07:31,484] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,484] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:07:31,490] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,490] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,712] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,712] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,716] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,715] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,718] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,718] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,721] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,720] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,722] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:07:31,733] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.253 seconds
+[2023-08-05 14:08:02,749] {processor.py:153} INFO - Started process (PID=1082) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:08:02,750] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:08:02,752] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,752] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:08:02,758] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,758] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,973] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,973] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,976] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,976] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,978] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,978] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,980] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,980] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,981] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:08:02,992] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.246 seconds
+[2023-08-05 14:08:33,479] {processor.py:153} INFO - Started process (PID=1140) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:08:33,480] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:08:33,481] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,481] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:08:33,487] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,487] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,711] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,710] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,714] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,713] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,717] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,716] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,720] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,719] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,721] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:08:33,731] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.255 seconds
+[2023-08-05 14:09:05,357] {processor.py:153} INFO - Started process (PID=1200) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:09:05,361] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:09:05,364] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,364] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:09:05,386] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,383] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,617] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,616] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,621] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,620] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,624] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,623] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,627] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,626] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,628] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:09:05,641] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.286 seconds
+[2023-08-05 14:09:35,786] {processor.py:153} INFO - Started process (PID=1259) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:09:35,787] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:09:35,788] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,788] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:09:35,796] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,796] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:36,006] {logging_mixin.py:115} INFO - [2023-08-05 14:09:36,005] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:36,008] {logging_mixin.py:115} INFO - [2023-08-05 14:09:36,008] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:36,011] {logging_mixin.py:115} INFO - [2023-08-05 14:09:36,010] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:36,014] {logging_mixin.py:115} INFO - [2023-08-05 14:09:36,013] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:36,014] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:09:36,026] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.243 seconds
+[2023-08-05 14:10:06,204] {processor.py:153} INFO - Started process (PID=1307) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:10:06,205] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:10:06,205] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,205] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:10:06,212] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,212] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,411] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,410] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,413] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,413] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,415] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,415] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,418] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,417] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,419] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:10:06,429] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.228 seconds
+[2023-08-05 14:10:36,623] {processor.py:153} INFO - Started process (PID=1365) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:10:36,625] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:10:36,626] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,625] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:10:36,634] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,634] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,855] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,855] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,858] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,857] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,860] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,860] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,863] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,862] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,865] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:10:36,878] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.257 seconds
+[2023-08-05 14:11:07,299] {processor.py:153} INFO - Started process (PID=1424) to work on /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:11:07,300] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_repositorio_inst_operator.py for tasks to queue
+[2023-08-05 14:11:07,302] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,302] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:11:07,308] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,308] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,536] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,535] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,539] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,538] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,542] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,541] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,544] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,544] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,545] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_repositorio_inst_operator.py
+[2023-08-05 14:11:07,557] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_repositorio_inst_operator.py took 0.261 seconds

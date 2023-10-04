@@ -1,0 +1,125 @@
+[2023-08-05 13:58:47,975] {processor.py:153} INFO - Started process (PID=46) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:58:47,976] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 13:58:47,977] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,976] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:58:48,226] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:58:48,236] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.264 seconds
+[2023-08-05 13:59:18,478] {processor.py:153} INFO - Started process (PID=103) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:59:18,481] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 13:59:18,484] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,484] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:59:18,842] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:59:18,864] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.389 seconds
+[2023-08-05 13:59:48,965] {processor.py:153} INFO - Started process (PID=160) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:59:48,967] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 13:59:48,968] {logging_mixin.py:115} INFO - [2023-08-05 13:59:48,968] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:59:49,377] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 13:59:49,392] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.432 seconds
+[2023-08-05 14:00:19,638] {processor.py:153} INFO - Started process (PID=219) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:00:19,639] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:00:19,641] {logging_mixin.py:115} INFO - [2023-08-05 14:00:19,641] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:00:19,943] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:00:19,956] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.322 seconds
+[2023-08-05 14:00:50,743] {processor.py:153} INFO - Started process (PID=281) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:00:50,744] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:00:50,745] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,745] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:00:50,950] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:00:50,960] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.219 seconds
+[2023-08-05 14:01:21,951] {processor.py:153} INFO - Started process (PID=339) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:01:21,955] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:01:21,960] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,960] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:01:22,256] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:01:22,279] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.334 seconds
+[2023-08-05 14:01:53,191] {processor.py:153} INFO - Started process (PID=389) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:01:53,193] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:01:53,194] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,194] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:01:53,438] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:01:53,454] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.266 seconds
+[2023-08-05 14:02:24,220] {processor.py:153} INFO - Started process (PID=448) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:02:24,221] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:02:24,222] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,222] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:02:24,443] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:02:24,455] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.237 seconds
+[2023-08-05 14:02:54,870] {processor.py:153} INFO - Started process (PID=507) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:02:54,872] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:02:54,873] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,873] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:02:55,103] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:02:55,114] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.246 seconds
+[2023-08-05 14:03:25,320] {processor.py:153} INFO - Started process (PID=566) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:03:25,321] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:03:25,322] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,322] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:03:25,568] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:03:25,579] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.262 seconds
+[2023-08-05 14:03:55,899] {processor.py:153} INFO - Started process (PID=624) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:03:55,900] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:03:55,901] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,901] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:03:56,208] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:03:56,222] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.326 seconds
+[2023-08-05 14:04:26,282] {processor.py:153} INFO - Started process (PID=673) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:04:26,283] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:04:26,285] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,285] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:04:26,566] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:04:26,577] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.298 seconds
+[2023-08-05 14:04:57,976] {processor.py:153} INFO - Started process (PID=734) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:04:57,977] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:04:57,978] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,978] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:04:58,315] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:04:58,329] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.356 seconds
+[2023-08-05 14:05:28,747] {processor.py:153} INFO - Started process (PID=792) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:05:28,748] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:05:28,749] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,748] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:05:28,984] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:05:28,995] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.251 seconds
+[2023-08-05 14:05:59,400] {processor.py:153} INFO - Started process (PID=851) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:05:59,407] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:05:59,412] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,412] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:05:59,669] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:05:59,680] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.284 seconds
+[2023-08-05 14:06:29,984] {processor.py:153} INFO - Started process (PID=910) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:06:29,985] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:06:29,986] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,986] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:06:30,196] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:06:30,206] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.225 seconds
+[2023-08-05 14:07:00,393] {processor.py:153} INFO - Started process (PID=959) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:07:00,394] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:07:00,395] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,395] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:07:00,602] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:07:00,615] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.224 seconds
+[2023-08-05 14:07:30,750] {processor.py:153} INFO - Started process (PID=1016) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:07:30,753] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:07:30,755] {logging_mixin.py:115} INFO - [2023-08-05 14:07:30,755] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:07:31,114] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:07:31,135] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.391 seconds
+[2023-08-05 14:08:02,471] {processor.py:153} INFO - Started process (PID=1078) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:08:02,472] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:08:02,473] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,473] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:08:02,700] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:08:02,711] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.243 seconds
+[2023-08-05 14:08:33,052] {processor.py:153} INFO - Started process (PID=1136) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:08:33,054] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:08:33,055] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,055] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:08:33,292] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:08:33,304] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.254 seconds
+[2023-08-05 14:09:04,381] {processor.py:153} INFO - Started process (PID=1195) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:09:04,385] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:09:04,388] {logging_mixin.py:115} INFO - [2023-08-05 14:09:04,388] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:09:04,906] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:09:04,977] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.604 seconds
+[2023-08-05 14:09:35,111] {processor.py:153} INFO - Started process (PID=1253) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:09:35,113] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:09:35,114] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,114] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:09:35,335] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:09:35,346] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.239 seconds
+[2023-08-05 14:10:05,559] {processor.py:153} INFO - Started process (PID=1301) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:10:05,561] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:10:05,562] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,562] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:10:05,773] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:10:05,786] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.229 seconds
+[2023-08-05 14:10:35,893] {processor.py:153} INFO - Started process (PID=1358) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:10:35,894] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:10:35,895] {logging_mixin.py:115} INFO - [2023-08-05 14:10:35,895] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:10:36,272] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:10:36,289] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.399 seconds
+[2023-08-05 14:11:06,488] {processor.py:153} INFO - Started process (PID=1417) to work on /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:11:06,489] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_semilleros_operator.py for tasks to queue
+[2023-08-05 14:11:06,491] {logging_mixin.py:115} INFO - [2023-08-05 14:11:06,490] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:11:06,923] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_semilleros_operator.py
+[2023-08-05 14:11:06,946] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_semilleros_operator.py took 0.464 seconds

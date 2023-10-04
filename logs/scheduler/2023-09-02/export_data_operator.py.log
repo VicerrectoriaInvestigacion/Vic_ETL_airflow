@@ -1,0 +1,85 @@
+[2023-09-02 18:03:39,449] {processor.py:153} INFO - Started process (PID=68) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:03:39,455] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:03:39,466] {logging_mixin.py:115} INFO - [2023-09-02 18:03:39,466] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:03:39,978] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:03:39,994] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.556 seconds
+[2023-09-02 18:04:10,376] {processor.py:153} INFO - Started process (PID=118) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:04:10,377] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:04:10,379] {logging_mixin.py:115} INFO - [2023-09-02 18:04:10,379] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:04:10,647] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:04:10,658] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.286 seconds
+[2023-09-02 18:04:40,945] {processor.py:153} INFO - Started process (PID=178) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:04:40,946] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:04:40,947] {logging_mixin.py:115} INFO - [2023-09-02 18:04:40,947] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:04:41,207] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:04:41,217] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.275 seconds
+[2023-09-02 18:05:11,410] {processor.py:153} INFO - Started process (PID=237) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:05:11,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:05:11,412] {logging_mixin.py:115} INFO - [2023-09-02 18:05:11,412] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:05:11,681] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:05:11,693] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.286 seconds
+[2023-09-02 18:05:42,190] {processor.py:153} INFO - Started process (PID=296) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:05:42,191] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:05:42,191] {logging_mixin.py:115} INFO - [2023-09-02 18:05:42,191] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:05:42,457] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:05:42,467] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.280 seconds
+[2023-09-02 18:06:12,744] {processor.py:153} INFO - Started process (PID=356) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:06:12,745] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:06:12,745] {logging_mixin.py:115} INFO - [2023-09-02 18:06:12,745] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:06:13,001] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:06:13,012] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.271 seconds
+[2023-09-02 18:06:43,666] {processor.py:153} INFO - Started process (PID=416) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:06:43,667] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:06:43,668] {logging_mixin.py:115} INFO - [2023-09-02 18:06:43,668] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:06:44,198] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:06:44,209] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.546 seconds
+[2023-09-02 18:07:14,275] {processor.py:153} INFO - Started process (PID=466) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:07:14,276] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:07:14,277] {logging_mixin.py:115} INFO - [2023-09-02 18:07:14,277] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:07:14,573] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:07:14,584] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.311 seconds
+[2023-09-02 18:07:45,311] {processor.py:153} INFO - Started process (PID=525) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:07:45,312] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:07:45,313] {logging_mixin.py:115} INFO - [2023-09-02 18:07:45,313] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:07:45,615] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:07:45,626] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.318 seconds
+[2023-09-02 18:08:16,521] {processor.py:153} INFO - Started process (PID=584) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:08:16,522] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:08:16,523] {logging_mixin.py:115} INFO - [2023-09-02 18:08:16,523] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:08:16,937] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:08:16,952] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.436 seconds
+[2023-09-02 18:08:47,273] {processor.py:153} INFO - Started process (PID=645) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:08:47,274] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:08:47,275] {logging_mixin.py:115} INFO - [2023-09-02 18:08:47,275] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:08:47,543] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:08:47,554] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.284 seconds
+[2023-09-02 18:09:18,337] {processor.py:153} INFO - Started process (PID=704) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:09:18,338] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:09:18,339] {logging_mixin.py:115} INFO - [2023-09-02 18:09:18,339] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:09:18,728] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:09:18,741] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.407 seconds
+[2023-09-02 18:09:48,998] {processor.py:153} INFO - Started process (PID=753) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:09:48,999] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:09:49,000] {logging_mixin.py:115} INFO - [2023-09-02 18:09:49,000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:09:49,271] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:09:49,282] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.286 seconds
+[2023-09-02 18:10:19,636] {processor.py:153} INFO - Started process (PID=810) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:10:19,637] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:10:19,637] {logging_mixin.py:115} INFO - [2023-09-02 18:10:19,637] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:10:20,019] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:10:20,036] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.403 seconds
+[2023-09-02 18:10:50,344] {processor.py:153} INFO - Started process (PID=871) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:10:50,345] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:10:50,346] {logging_mixin.py:115} INFO - [2023-09-02 18:10:50,346] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:10:50,597] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:10:50,608] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.266 seconds
+[2023-09-02 18:11:20,991] {processor.py:153} INFO - Started process (PID=930) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:11:20,992] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:11:20,993] {logging_mixin.py:115} INFO - [2023-09-02 18:11:20,993] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:11:21,322] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:11:21,333] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.346 seconds
+[2023-09-02 18:11:52,221] {processor.py:153} INFO - Started process (PID=988) to work on /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:11:52,222] {processor.py:641} INFO - Processing file /opt/airflow/dags/export_data_operator.py for tasks to queue
+[2023-09-02 18:11:52,222] {logging_mixin.py:115} INFO - [2023-09-02 18:11:52,222] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:11:52,494] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/export_data_operator.py
+[2023-09-02 18:11:52,505] {processor.py:161} INFO - Processing /opt/airflow/dags/export_data_operator.py took 0.287 seconds

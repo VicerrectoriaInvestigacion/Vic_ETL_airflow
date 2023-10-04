@@ -1,0 +1,300 @@
+[2023-08-05 13:58:47,517] {processor.py:153} INFO - Started process (PID=42) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:58:47,519] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 13:58:47,520] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,520] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:58:47,534] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,534] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,913] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,913] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,916] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,916] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,918] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,918] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:47,921] {logging_mixin.py:115} INFO - [2023-08-05 13:58:47,920] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:48,034] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:58:48,082] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,081] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 13:58:48,098] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,098] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 13:58:48,116] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.607 seconds
+[2023-08-05 13:59:18,463] {processor.py:153} INFO - Started process (PID=102) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:59:18,466] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 13:59:18,468] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,468] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:59:18,488] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,486] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,822] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,816] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,840] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,835] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,855] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,853] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:18,873] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,867] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:19,064] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:59:19,129] {logging_mixin.py:115} INFO - [2023-08-05 13:59:19,129] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 13:59:19,151] {logging_mixin.py:115} INFO - [2023-08-05 13:59:19,151] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 13:59:19,180] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.720 seconds
+[2023-08-05 13:59:49,428] {processor.py:153} INFO - Started process (PID=163) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:59:49,430] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 13:59:49,430] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,430] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:59:49,443] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,443] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,700] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,699] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,704] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,703] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,708] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,707] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,712] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,712] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:49,803] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 13:59:49,846] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,846] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 13:59:49,862] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,862] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 13:59:49,872] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.447 seconds
+[2023-08-05 14:00:19,994] {processor.py:153} INFO - Started process (PID=222) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:00:19,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:00:19,996] {logging_mixin.py:115} INFO - [2023-08-05 14:00:19,996] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:00:20,003] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,003] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,217] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,216] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,219] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,219] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,222] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,221] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,225] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,224] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:20,306] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:00:20,347] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,346] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:00:20,358] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,358] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:00:20,367] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.376 seconds
+[2023-08-05 14:00:50,473] {processor.py:153} INFO - Started process (PID=277) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:00:50,475] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:00:50,476] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,475] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:00:50,485] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,483] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,686] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,685] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,689] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,688] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,691] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,690] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,694] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,693] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:50,768] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:00:50,801] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,801] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:00:50,811] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,811] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:00:50,819] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.349 seconds
+[2023-08-05 14:01:21,114] {processor.py:153} INFO - Started process (PID=327) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:01:21,117] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:01:21,119] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,119] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:01:21,137] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,135] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,835] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,830] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,853] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,852] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,870] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,863] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:21,877] {logging_mixin.py:115} INFO - [2023-08-05 14:01:21,876] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:22,059] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:01:22,124] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,124] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:01:22,147] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,147] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:01:22,161] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 1.067 seconds
+[2023-08-05 14:01:52,710] {processor.py:153} INFO - Started process (PID=385) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:01:52,711] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:01:52,713] {logging_mixin.py:115} INFO - [2023-08-05 14:01:52,713] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:01:52,728] {logging_mixin.py:115} INFO - [2023-08-05 14:01:52,726] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,117] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,117] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,120] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,120] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,124] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,123] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,127] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,127] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:53,232] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:01:53,274] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,274] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:01:53,288] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,288] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:01:53,298] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.596 seconds
+[2023-08-05 14:02:23,811] {processor.py:153} INFO - Started process (PID=444) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:02:23,812] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:02:23,813] {logging_mixin.py:115} INFO - [2023-08-05 14:02:23,813] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:02:23,823] {logging_mixin.py:115} INFO - [2023-08-05 14:02:23,822] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,158] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,157] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,161] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,160] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,163] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,163] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,165] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,165] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:24,253] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:02:24,288] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,288] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:02:24,299] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,299] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:02:24,307] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.499 seconds
+[2023-08-05 14:02:54,387] {processor.py:153} INFO - Started process (PID=503) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:02:54,389] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:02:54,390] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,390] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:02:54,403] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,402] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,803] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,803] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,806] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,805] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,808] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,808] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,811] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,810] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:54,901] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:02:54,938] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,938] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:02:54,949] {logging_mixin.py:115} INFO - [2023-08-05 14:02:54,949] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:02:54,956] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.574 seconds
+[2023-08-05 14:03:25,090] {processor.py:153} INFO - Started process (PID=563) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:03:25,092] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:03:25,092] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,092] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:03:25,100] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,100] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,327] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,327] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,329] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,329] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,330] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,330] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,332] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,332] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:25,414] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:03:25,455] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,455] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:03:25,468] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,468] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:03:25,478] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.390 seconds
+[2023-08-05 14:03:55,593] {processor.py:153} INFO - Started process (PID=622) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:03:55,595] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:03:55,604] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,604] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:03:55,633] {logging_mixin.py:115} INFO - [2023-08-05 14:03:55,632] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,026] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,026] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,030] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,029] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,032] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,032] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,034] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,034] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:56,150] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:03:56,211] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,211] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:03:56,225] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,225] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:03:56,234] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.653 seconds
+[2023-08-05 14:04:26,443] {processor.py:153} INFO - Started process (PID=674) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:04:26,444] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:04:26,446] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,446] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:04:26,454] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,453] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,678] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,678] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,680] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,680] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,682] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,682] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,685] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,684] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:26,775] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:04:26,819] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,819] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:04:26,833] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,833] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:04:26,844] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.404 seconds
+[2023-08-05 14:04:57,368] {processor.py:153} INFO - Started process (PID=730) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:04:57,370] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:04:57,371] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,371] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:04:57,386] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,385] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,905] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,905] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,909] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,908] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,913] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,912] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:57,916] {logging_mixin.py:115} INFO - [2023-08-05 14:04:57,916] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:58,017] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:04:58,090] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,088] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:04:58,113] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,113] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:04:58,124] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.763 seconds
+[2023-08-05 14:05:28,236] {processor.py:153} INFO - Started process (PID=788) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:05:28,238] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:05:28,240] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,240] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:05:28,258] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,257] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,614] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,612] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,617] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,616] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,620] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,619] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,623] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,623] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:28,718] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:05:28,758] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,758] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:05:28,768] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,768] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:05:28,776] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.551 seconds
+[2023-08-05 14:05:58,995] {processor.py:153} INFO - Started process (PID=847) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:05:58,997] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:05:58,999] {logging_mixin.py:115} INFO - [2023-08-05 14:05:58,999] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:05:59,026] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,023] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,290] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,287] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,300] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,297] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,311] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,309] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,325] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,321] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:59,485] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:05:59,541] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,541] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:05:59,558] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,557] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:05:59,565] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.574 seconds
+[2023-08-05 14:06:29,702] {processor.py:153} INFO - Started process (PID=906) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:06:29,707] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:06:29,708] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,708] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:06:29,724] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,722] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,929] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,928] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,932] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,931] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,934] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,934] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:29,936] {logging_mixin.py:115} INFO - [2023-08-05 14:06:29,936] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:30,009] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:06:30,043] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,043] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:06:30,052] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,052] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:06:30,060] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.365 seconds
+[2023-08-05 14:07:00,391] {processor.py:153} INFO - Started process (PID=958) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:07:00,392] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:07:00,393] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,393] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:07:00,400] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,400] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,604] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,603] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,607] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,606] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,609] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,609] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,612] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,611] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:00,690] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:07:00,724] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,724] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:07:00,734] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,734] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:07:00,743] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.354 seconds
+[2023-08-05 14:07:31,173] {processor.py:153} INFO - Started process (PID=1019) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:07:31,174] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:07:31,175] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,175] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:07:31,189] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,188] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,416] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,415] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,419] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,418] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,421] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,420] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,423] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,423] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:31,509] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:07:31,545] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,545] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:07:31,557] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,557] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:07:31,568] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.399 seconds
+[2023-08-05 14:08:02,173] {processor.py:153} INFO - Started process (PID=1074) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:08:02,174] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:08:02,175] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,175] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:08:02,184] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,184] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,413] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,413] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,416] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,415] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,418] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,418] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,420] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,420] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:02,498] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:08:02,534] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,534] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:08:02,544] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,544] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:08:02,552] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.381 seconds
+[2023-08-05 14:08:33,032] {processor.py:153} INFO - Started process (PID=1135) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:08:33,033] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:08:33,034] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,034] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:08:33,041] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,040] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,277] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,276] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,279] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,279] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,282] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,281] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,284] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,284] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:33,368] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:08:33,412] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,411] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:08:33,424] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,424] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:08:33,433] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.404 seconds
+[2023-08-05 14:09:03,773] {processor.py:153} INFO - Started process (PID=1193) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:09:03,791] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:09:03,794] {logging_mixin.py:115} INFO - [2023-08-05 14:09:03,794] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:09:03,898] {logging_mixin.py:115} INFO - [2023-08-05 14:09:03,827] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:04,995] {logging_mixin.py:115} INFO - [2023-08-05 14:09:04,994] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,005] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,004] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,014] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,012] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,025] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,023] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:05,144] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:09:05,178] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,178] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:09:05,189] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,189] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:09:05,308] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 1.544 seconds
+[2023-08-05 14:09:35,384] {processor.py:153} INFO - Started process (PID=1255) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:09:35,385] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:09:35,385] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,385] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:09:35,394] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,393] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,600] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,600] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,603] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,602] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,607] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,606] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,609] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,609] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:35,692] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:09:35,729] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,729] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:09:35,740] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,740] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:09:35,748] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.367 seconds
+[2023-08-05 14:10:05,820] {processor.py:153} INFO - Started process (PID=1305) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:10:05,822] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:10:05,822] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,822] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:10:05,831] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,830] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,029] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,029] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,031] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,031] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,035] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,035] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,037] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,036] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:06,113] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:10:06,145] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,145] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:10:06,156] {logging_mixin.py:115} INFO - [2023-08-05 14:10:06,156] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:10:06,165] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.347 seconds
+[2023-08-05 14:10:36,338] {processor.py:153} INFO - Started process (PID=1362) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:10:36,339] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:10:36,339] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,339] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:10:36,347] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,346] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,571] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,570] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,574] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,573] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,577] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,576] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,580] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,579] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:36,685] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:10:36,724] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,723] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:10:36,735] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,735] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:10:36,743] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.409 seconds
+[2023-08-05 14:11:06,992] {processor.py:153} INFO - Started process (PID=1420) to work on /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:11:06,994] {processor.py:641} INFO - Processing file /opt/airflow/dags/vic_investigacion_dag.py for tasks to queue
+[2023-08-05 14:11:06,994] {logging_mixin.py:115} INFO - [2023-08-05 14:11:06,994] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:11:07,003] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,003] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,242] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,241] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,244] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,244] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,247] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,246] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,249] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,249] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:07,336] {processor.py:651} INFO - DAG(s) dict_keys(['vic_investigacion_ETL']) retrieved from /opt/airflow/dags/vic_investigacion_dag.py
+[2023-08-05 14:11:07,375] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,374] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-08-05 14:11:07,389] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,389] {dag.py:2972} INFO - Setting next_dagrun for vic_investigacion_ETL to None, run_after=None
+[2023-08-05 14:11:07,399] {processor.py:161} INFO - Processing /opt/airflow/dags/vic_investigacion_dag.py took 0.410 seconds

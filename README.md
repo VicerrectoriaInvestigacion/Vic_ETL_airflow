@@ -10,6 +10,27 @@ Este proyecto consta de un DAG (Gráfico Acíclico Dirigido) desarrollado con Ap
 <img width="1186" alt="Screenshot 2023-08-03 at 1 12 12 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/e6b74049-760a-4567-96ef-792b99691deb">
 
 
+**Nota**
+La arquitectura presentada ilustra que el DAG extra datos de bases de datos Oracle, del API de Scopus y de WOS, sin embargo, todos los nodos acutales trabajan solo con archivos en excel.
+En caso de querer conectar un nodo a un API o a una base de datos solo es necesario crear el nodo y usar la librería correspondiente para la comunicación con la fuente de datos.
+
+
+# DAG (Grafo del ETL)
+<img width="389" alt="Screenshot 2023-08-09 at 11 10 06 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/85ce9380-efde-496c-ad86-b392f9f9b23f">
+
+Este es el DAG actual del ETL.
+
+- Contratos
+- Producción validada
+- Profesores core data
+- Profesores validados
+- Proyectos
+- Repositorio Institucional
+- Revistas
+- Semilleros
+
+**Nota** 
+Se recomienda actualizar la imagen del DAG cada vez que agregue un nodo nuevo, con el fin de garantizar que la documentación se encuentra documentada.
 
 
 # Correr el proyecto
@@ -181,3 +202,21 @@ Si solo se quieren traer los cambios sobre tablas que ya se encuentren importada
 
 
 <img width="373" alt="Screenshot 2023-08-03 at 1 18 16 PM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/86bb8158-aac9-4145-a49e-140779c6ce35">
+
+
+<img width="591" alt="Screenshot 2023-08-28 at 8 55 28 AM" src="https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/assets/52805660/0b6a2861-258d-41bd-91cb-585cbfc271fa">
+
+
+# Presentación
+
+[presentacion_vic_investigacion_etl.pdf](https://github.com/VicerrectoriaInvestigacion/Vic_ETL_airflow/files/12455131/presentacion_vic_investigacion_etl.pdf)
+
+
+Link Canva (Cuenta con permisos de edición) ->> https://www.canva.com/design/DAFrEKyYS1M/7Kj9Ib5T8wVsVme_vb3azw/edit?utm_content=DAFrEKyYS1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+
+
+
+

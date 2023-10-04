@@ -27,9 +27,7 @@ class ExportData(BaseOperator):
         print('Exporting Data')
         self.export_data(exportingType="rewrite")
         self.export_data(exportingType="append")
-        #self.export_scopus_data()
-        #self.export_authors_core_data()
-        #self.exporting_authors_products_data()
+       
         
     
     def createTable(self,tableName, df,schema,write_disposition="WRITE_TRUNCATE"):
@@ -50,11 +48,11 @@ class ExportData(BaseOperator):
         
         if(exportingType=="rewrite"):
             folder_path = f"{self.dag_path}/data/to_upload/rewrite"   
-            write_disposition="WRITE_TRUNCATE" 
+            write_disposition="WRITE_TRUNCATE"  ## Sobrescribe
         else:
             folder_path = f"{self.dag_path}/data/to_upload/append"    
-            #write_disposition="WRITE_APPEND"
-            write_disposition="WRITE_TRUNCATE" 
+            write_disposition="WRITE_APPEND" ## Concatena
+            
         
         file_paths = glob.glob(os.path.join(folder_path, '*'))
         for file_path in file_paths:
@@ -67,111 +65,7 @@ class ExportData(BaseOperator):
                 print("--")
                 
                 
-                
-    
-    
-           
-        
-    def export_scopus_data(self):
-        
-        folder_path = f"{self.dag_path}/data/scopus/to_upload_data"
-
-        file_paths = glob.glob(os.path.join(folder_path, '*'))
-
-        for file_path in file_paths:
-            print(file_path)
-            file_name = os.path.splitext(os.path.basename(file_path))[0]
-            df = pd.read_csv(file_path)
-            try:
-                self.createTable(file_name,df,None)
-            except:
-                print("--")
-                
-        
-    def export_authors_core_data(self):
-        
-        file_path = f"{self.dag_path}/data/scopus/to_upload_data/core_data.csv"
-
-        file_name = os.path.splitext(os.path.basename(file_path))[0]
-        
-        df = pd.read_csv(file_path)
-        
-        self.createTable(file_name,df,None)
         
         
         
-
-        # for file_path in file_paths:
-        #     print(file_path)
-        #     file_name = os.path.splitext(os.path.basename(file_path))[0]
-        #     df = pd.read_csv(file_path)
-        #     try:
-        #         self.createTable(file_name,df)
-        #     except:
-        #         print("--")        
-        
-        
-        
-        
-        # file = f"{self.dag_path}/data/scopus/clean/clean_authors_core_data/core_data.csv"
-        # file_name = os.path.splitext(os.path.basename(file))[0]
-        # df = pd.read_csv(file)
-        # print(df.dtypes)
-        # # schema=[
-        # # bigquery.SchemaField("Scopus_id","INTEGER", mode="REQUIRED"),
-        # # bigquery.SchemaField("orcid", "STRING", mode="NULLABLE"),
-        # # bigquery.SchemaField("document_count", bigquery.enums.SqlTypeNames.INT64),
-        # # bigquery.SchemaField("cited_by_count", bigquery.enums.SqlTypeNames.INT64),
-        # # bigquery.SchemaField("citation_count", bigquery.enums.SqlTypeNames.INT64),
-        # # bigquery.SchemaField("pick_date", "TIMESTAMP", mode="REQUIRED")
-        # # ]
-        # self.createTable(file_name,df)
-        
-        
-        # file = f"{self.dag_path}/data/scopus/join_data/authors_join.csv"
-        # file_name = os.path.splitext(os.path.basename(file))[0]
-        # df = pd.read_csv(file)
-        # print(df.dtypes)
-        # # schema=[
-        # # bigquery.SchemaField("Scopus_id","INTEGER", mode="REQUIRED"),
-        # # bigquery.SchemaField("orcid", "STRING", mode="NULLABLE"),
-        # # bigquery.SchemaField("document_count", bigquery.enums.SqlTypeNames.INT64),
-        # # bigquery.SchemaField("cited_by_count", bigquery.enums.SqlTypeNames.INT64),
-        # # bigquery.SchemaField("citation_count", bigquery.enums.SqlTypeNames.INT64),
-        # # bigquery.SchemaField("pick_date", "TIMESTAMP", mode="REQUIRED")
-        # # ]
-        # self.createTable(file_name,df)
-        
-        
-        
-            
-    # def exporting_authors_core_data(self):
-    #     folder_path = f"{self.dag_path}/data/scopus/clean/clean_authors_core_data"
-
-    #     # use glob to get all file paths in folder
-    #     file_paths = glob.glob(os.path.join(folder_path, '*'))
-
-
-    #     for file_path in file_paths:
-    #         print(file_path)
-    #         file_name = os.path.splitext(os.path.basename(file_path))[0]
-    #         df = pd.read_csv(file_path)
-    #         try:
-    #             self.createTable(file_name,df)
-    #         except:
-    #             print("--")
-            
-                
-    # def exporting_authors_products_data(self):
-    #     folder_path = f"{self.dag_path}/data/scopus/clean/clean_authors_products_data"
-    #     # use glob to get all file paths in folder
-    #     file_paths = glob.glob(os.path.join(folder_path, '*'))
-    #     for file_path in file_paths:
-    #         print(file_path)
-    #         file_name = os.path.splitext(os.path.basename(file_path))[0]
-    #         df = pd.read_csv(file_path)
-    #         try:
-    #             self.createTable(file_name,df)
-    #         except:
-    #             print("--")
               

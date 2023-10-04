@@ -1,0 +1,125 @@
+[2023-08-05 13:58:48,157] {processor.py:153} INFO - Started process (PID=48) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:58:48,158] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 13:58:48,159] {logging_mixin.py:115} INFO - [2023-08-05 13:58:48,159] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:58:48,385] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:58:48,397] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.242 seconds
+[2023-08-05 13:59:18,935] {processor.py:153} INFO - Started process (PID=106) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:59:18,937] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 13:59:18,943] {logging_mixin.py:115} INFO - [2023-08-05 13:59:18,943] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:59:19,282] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:59:19,297] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.365 seconds
+[2023-08-05 13:59:49,444] {processor.py:153} INFO - Started process (PID=164) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:59:49,445] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 13:59:49,446] {logging_mixin.py:115} INFO - [2023-08-05 13:59:49,446] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:59:49,704] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 13:59:49,718] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.277 seconds
+[2023-08-05 14:00:20,004] {processor.py:153} INFO - Started process (PID=223) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:00:20,005] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:00:20,006] {logging_mixin.py:115} INFO - [2023-08-05 14:00:20,006] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:00:20,214] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:00:20,226] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.225 seconds
+[2023-08-05 14:00:50,856] {processor.py:153} INFO - Started process (PID=282) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:00:50,857] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:00:50,858] {logging_mixin.py:115} INFO - [2023-08-05 14:00:50,858] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:00:51,060] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:00:51,071] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.217 seconds
+[2023-08-05 14:01:22,215] {processor.py:153} INFO - Started process (PID=341) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:01:22,223] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:01:22,228] {logging_mixin.py:115} INFO - [2023-08-05 14:01:22,228] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:01:22,560] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:01:22,585] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.375 seconds
+[2023-08-05 14:01:53,337] {processor.py:153} INFO - Started process (PID=390) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:01:53,338] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:01:53,339] {logging_mixin.py:115} INFO - [2023-08-05 14:01:53,339] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:01:53,579] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:01:53,594] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.260 seconds
+[2023-08-05 14:02:24,350] {processor.py:153} INFO - Started process (PID=449) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:02:24,351] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:02:24,352] {logging_mixin.py:115} INFO - [2023-08-05 14:02:24,352] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:02:24,573] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:02:24,585] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.237 seconds
+[2023-08-05 14:02:55,001] {processor.py:153} INFO - Started process (PID=508) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:02:55,002] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:02:55,003] {logging_mixin.py:115} INFO - [2023-08-05 14:02:55,002] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:02:55,223] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:02:55,261] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.263 seconds
+[2023-08-05 14:03:25,524] {processor.py:153} INFO - Started process (PID=568) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:03:25,525] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:03:25,526] {logging_mixin.py:115} INFO - [2023-08-05 14:03:25,526] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:03:25,748] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:03:25,759] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.239 seconds
+[2023-08-05 14:03:56,271] {processor.py:153} INFO - Started process (PID=627) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:03:56,273] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:03:56,274] {logging_mixin.py:115} INFO - [2023-08-05 14:03:56,274] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:03:56,576] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:03:56,589] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.321 seconds
+[2023-08-05 14:04:26,898] {processor.py:153} INFO - Started process (PID=677) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:04:26,899] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:04:26,900] {logging_mixin.py:115} INFO - [2023-08-05 14:04:26,900] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:04:27,144] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:04:27,160] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.265 seconds
+[2023-08-05 14:04:58,171] {processor.py:153} INFO - Started process (PID=735) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:04:58,172] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:04:58,173] {logging_mixin.py:115} INFO - [2023-08-05 14:04:58,173] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:04:58,460] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:04:58,474] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.306 seconds
+[2023-08-05 14:05:28,824] {processor.py:153} INFO - Started process (PID=793) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:05:28,826] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:05:28,826] {logging_mixin.py:115} INFO - [2023-08-05 14:05:28,826] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:05:29,056] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:05:29,068] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.246 seconds
+[2023-08-05 14:05:59,608] {processor.py:153} INFO - Started process (PID=853) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:05:59,609] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:05:59,609] {logging_mixin.py:115} INFO - [2023-08-05 14:05:59,609] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:05:59,850] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:05:59,861] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.256 seconds
+[2023-08-05 14:06:30,098] {processor.py:153} INFO - Started process (PID=911) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:06:30,099] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:06:30,100] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,100] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:06:30,308] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:06:30,319] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.223 seconds
+[2023-08-05 14:07:00,650] {processor.py:153} INFO - Started process (PID=962) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:07:00,651] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:07:00,652] {logging_mixin.py:115} INFO - [2023-08-05 14:07:00,652] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:07:00,862] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:07:00,874] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.226 seconds
+[2023-08-05 14:07:31,188] {processor.py:153} INFO - Started process (PID=1020) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:07:31,190] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:07:31,192] {logging_mixin.py:115} INFO - [2023-08-05 14:07:31,192] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:07:31,435] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:07:31,448] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.263 seconds
+[2023-08-05 14:08:02,590] {processor.py:153} INFO - Started process (PID=1079) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:08:02,592] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:08:02,592] {logging_mixin.py:115} INFO - [2023-08-05 14:08:02,592] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:08:02,820] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:08:02,831] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.244 seconds
+[2023-08-05 14:08:33,343] {processor.py:153} INFO - Started process (PID=1139) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:08:33,344] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:08:33,345] {logging_mixin.py:115} INFO - [2023-08-05 14:08:33,345] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:08:33,576] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:08:33,597] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.256 seconds
+[2023-08-05 14:09:05,026] {processor.py:153} INFO - Started process (PID=1198) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:09:05,030] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:09:05,033] {logging_mixin.py:115} INFO - [2023-08-05 14:09:05,033] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:09:05,306] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:09:05,319] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.296 seconds
+[2023-08-05 14:09:35,386] {processor.py:153} INFO - Started process (PID=1256) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:09:35,387] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:09:35,388] {logging_mixin.py:115} INFO - [2023-08-05 14:09:35,388] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:09:35,598] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:09:35,613] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.230 seconds
+[2023-08-05 14:10:05,690] {processor.py:153} INFO - Started process (PID=1303) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:10:05,691] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:10:05,692] {logging_mixin.py:115} INFO - [2023-08-05 14:10:05,692] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:10:05,900] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:10:05,910] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.223 seconds
+[2023-08-05 14:10:36,330] {processor.py:153} INFO - Started process (PID=1361) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:10:36,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:10:36,333] {logging_mixin.py:115} INFO - [2023-08-05 14:10:36,333] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:10:36,569] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:10:36,582] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.255 seconds
+[2023-08-05 14:11:07,009] {processor.py:153} INFO - Started process (PID=1421) to work on /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:11:07,010] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_revistas_operator.py for tasks to queue
+[2023-08-05 14:11:07,011] {logging_mixin.py:115} INFO - [2023-08-05 14:11:07,011] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:11:07,250] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_revistas_operator.py
+[2023-08-05 14:11:07,264] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_revistas_operator.py took 0.258 seconds

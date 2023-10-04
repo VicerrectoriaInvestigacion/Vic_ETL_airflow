@@ -1,0 +1,250 @@
+[2023-08-05 13:58:49,737] {processor.py:153} INFO - Started process (PID=70) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:58:49,739] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 13:58:49,743] {logging_mixin.py:115} INFO - [2023-08-05 13:58:49,743] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:58:49,787] {logging_mixin.py:115} INFO - [2023-08-05 13:58:49,781] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:50,116] {logging_mixin.py:115} INFO - [2023-08-05 13:58:50,115] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:50,121] {logging_mixin.py:115} INFO - [2023-08-05 13:58:50,119] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:50,127] {logging_mixin.py:115} INFO - [2023-08-05 13:58:50,126] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:50,134] {logging_mixin.py:115} INFO - [2023-08-05 13:58:50,133] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:58:50,136] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:58:50,161] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.427 seconds
+[2023-08-05 13:59:21,172] {processor.py:153} INFO - Started process (PID=120) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:59:21,177] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 13:59:21,180] {logging_mixin.py:115} INFO - [2023-08-05 13:59:21,180] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:59:21,211] {logging_mixin.py:115} INFO - [2023-08-05 13:59:21,206] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:21,619] {logging_mixin.py:115} INFO - [2023-08-05 13:59:21,616] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:21,639] {logging_mixin.py:115} INFO - [2023-08-05 13:59:21,636] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:21,670] {logging_mixin.py:115} INFO - [2023-08-05 13:59:21,664] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:21,703] {logging_mixin.py:115} INFO - [2023-08-05 13:59:21,690] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:21,706] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:59:21,742] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.573 seconds
+[2023-08-05 13:59:51,971] {processor.py:153} INFO - Started process (PID=179) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:59:51,972] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 13:59:51,973] {logging_mixin.py:115} INFO - [2023-08-05 13:59:51,973] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:59:51,983] {logging_mixin.py:115} INFO - [2023-08-05 13:59:51,980] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:52,245] {logging_mixin.py:115} INFO - [2023-08-05 13:59:52,244] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:52,248] {logging_mixin.py:115} INFO - [2023-08-05 13:59:52,247] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:52,250] {logging_mixin.py:115} INFO - [2023-08-05 13:59:52,250] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:52,253] {logging_mixin.py:115} INFO - [2023-08-05 13:59:52,252] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 13:59:52,254] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 13:59:52,269] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.301 seconds
+[2023-08-05 14:00:22,441] {processor.py:153} INFO - Started process (PID=238) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:00:22,443] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:00:22,444] {logging_mixin.py:115} INFO - [2023-08-05 14:00:22,444] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:00:22,452] {logging_mixin.py:115} INFO - [2023-08-05 14:00:22,451] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:22,672] {logging_mixin.py:115} INFO - [2023-08-05 14:00:22,671] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:22,674] {logging_mixin.py:115} INFO - [2023-08-05 14:00:22,674] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:22,677] {logging_mixin.py:115} INFO - [2023-08-05 14:00:22,676] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:22,679] {logging_mixin.py:115} INFO - [2023-08-05 14:00:22,679] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:22,680] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:00:22,690] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.251 seconds
+[2023-08-05 14:00:52,784] {processor.py:153} INFO - Started process (PID=297) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:00:52,785] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:00:52,786] {logging_mixin.py:115} INFO - [2023-08-05 14:00:52,786] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:00:52,793] {logging_mixin.py:115} INFO - [2023-08-05 14:00:52,792] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:53,009] {logging_mixin.py:115} INFO - [2023-08-05 14:00:53,009] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:53,012] {logging_mixin.py:115} INFO - [2023-08-05 14:00:53,011] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:53,014] {logging_mixin.py:115} INFO - [2023-08-05 14:00:53,014] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:53,017] {logging_mixin.py:115} INFO - [2023-08-05 14:00:53,016] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:00:53,017] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:00:53,027] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.246 seconds
+[2023-08-05 14:01:23,456] {processor.py:153} INFO - Started process (PID=354) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:01:23,458] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:01:23,460] {logging_mixin.py:115} INFO - [2023-08-05 14:01:23,460] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:01:23,471] {logging_mixin.py:115} INFO - [2023-08-05 14:01:23,470] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:23,770] {logging_mixin.py:115} INFO - [2023-08-05 14:01:23,769] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:23,775] {logging_mixin.py:115} INFO - [2023-08-05 14:01:23,774] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:23,778] {logging_mixin.py:115} INFO - [2023-08-05 14:01:23,777] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:23,784] {logging_mixin.py:115} INFO - [2023-08-05 14:01:23,783] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:23,785] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:01:23,802] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.349 seconds
+[2023-08-05 14:01:54,516] {processor.py:153} INFO - Started process (PID=414) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:01:54,519] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:01:54,519] {logging_mixin.py:115} INFO - [2023-08-05 14:01:54,519] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:01:54,526] {logging_mixin.py:115} INFO - [2023-08-05 14:01:54,526] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:54,823] {logging_mixin.py:115} INFO - [2023-08-05 14:01:54,822] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:54,828] {logging_mixin.py:115} INFO - [2023-08-05 14:01:54,827] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:54,832] {logging_mixin.py:115} INFO - [2023-08-05 14:01:54,831] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:54,838] {logging_mixin.py:115} INFO - [2023-08-05 14:01:54,837] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:01:54,839] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:01:54,857] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.344 seconds
+[2023-08-05 14:02:25,352] {processor.py:153} INFO - Started process (PID=464) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:02:25,353] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:02:25,354] {logging_mixin.py:115} INFO - [2023-08-05 14:02:25,354] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:02:25,361] {logging_mixin.py:115} INFO - [2023-08-05 14:02:25,360] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:25,580] {logging_mixin.py:115} INFO - [2023-08-05 14:02:25,580] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:25,583] {logging_mixin.py:115} INFO - [2023-08-05 14:02:25,583] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:25,586] {logging_mixin.py:115} INFO - [2023-08-05 14:02:25,585] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:25,589] {logging_mixin.py:115} INFO - [2023-08-05 14:02:25,588] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:25,590] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:02:25,601] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.252 seconds
+[2023-08-05 14:02:56,139] {processor.py:153} INFO - Started process (PID=523) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:02:56,142] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:02:56,142] {logging_mixin.py:115} INFO - [2023-08-05 14:02:56,142] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:02:56,149] {logging_mixin.py:115} INFO - [2023-08-05 14:02:56,149] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:56,409] {logging_mixin.py:115} INFO - [2023-08-05 14:02:56,406] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:56,418] {logging_mixin.py:115} INFO - [2023-08-05 14:02:56,417] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:56,421] {logging_mixin.py:115} INFO - [2023-08-05 14:02:56,420] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:56,424] {logging_mixin.py:115} INFO - [2023-08-05 14:02:56,423] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:02:56,425] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:02:56,438] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.302 seconds
+[2023-08-05 14:03:26,507] {processor.py:153} INFO - Started process (PID=581) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:03:26,508] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:03:26,509] {logging_mixin.py:115} INFO - [2023-08-05 14:03:26,509] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:03:26,518] {logging_mixin.py:115} INFO - [2023-08-05 14:03:26,517] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:26,768] {logging_mixin.py:115} INFO - [2023-08-05 14:03:26,767] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:26,771] {logging_mixin.py:115} INFO - [2023-08-05 14:03:26,770] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:26,774] {logging_mixin.py:115} INFO - [2023-08-05 14:03:26,773] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:26,777] {logging_mixin.py:115} INFO - [2023-08-05 14:03:26,776] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:26,777] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:03:26,788] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.284 seconds
+[2023-08-05 14:03:57,424] {processor.py:153} INFO - Started process (PID=640) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:03:57,425] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:03:57,425] {logging_mixin.py:115} INFO - [2023-08-05 14:03:57,425] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:03:57,435] {logging_mixin.py:115} INFO - [2023-08-05 14:03:57,434] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:57,889] {logging_mixin.py:115} INFO - [2023-08-05 14:03:57,883] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:57,892] {logging_mixin.py:115} INFO - [2023-08-05 14:03:57,892] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:57,895] {logging_mixin.py:115} INFO - [2023-08-05 14:03:57,894] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:57,898] {logging_mixin.py:115} INFO - [2023-08-05 14:03:57,898] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:03:57,899] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:03:57,919] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.498 seconds
+[2023-08-05 14:04:27,967] {processor.py:153} INFO - Started process (PID=698) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:04:27,968] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:04:27,969] {logging_mixin.py:115} INFO - [2023-08-05 14:04:27,969] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:04:27,975] {logging_mixin.py:115} INFO - [2023-08-05 14:04:27,975] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:28,206] {logging_mixin.py:115} INFO - [2023-08-05 14:04:28,206] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:28,209] {logging_mixin.py:115} INFO - [2023-08-05 14:04:28,208] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:28,212] {logging_mixin.py:115} INFO - [2023-08-05 14:04:28,211] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:28,215] {logging_mixin.py:115} INFO - [2023-08-05 14:04:28,214] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:28,215] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:04:28,228] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.263 seconds
+[2023-08-05 14:04:59,266] {processor.py:153} INFO - Started process (PID=747) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:04:59,268] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:04:59,269] {logging_mixin.py:115} INFO - [2023-08-05 14:04:59,269] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:04:59,277] {logging_mixin.py:115} INFO - [2023-08-05 14:04:59,277] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:59,648] {logging_mixin.py:115} INFO - [2023-08-05 14:04:59,647] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:59,651] {logging_mixin.py:115} INFO - [2023-08-05 14:04:59,650] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:59,655] {logging_mixin.py:115} INFO - [2023-08-05 14:04:59,654] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:59,658] {logging_mixin.py:115} INFO - [2023-08-05 14:04:59,657] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:04:59,660] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:04:59,693] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.432 seconds
+[2023-08-05 14:05:29,920] {processor.py:153} INFO - Started process (PID=806) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:05:29,921] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:05:29,922] {logging_mixin.py:115} INFO - [2023-08-05 14:05:29,922] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:05:29,930] {logging_mixin.py:115} INFO - [2023-08-05 14:05:29,929] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:30,164] {logging_mixin.py:115} INFO - [2023-08-05 14:05:30,164] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:30,167] {logging_mixin.py:115} INFO - [2023-08-05 14:05:30,166] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:30,169] {logging_mixin.py:115} INFO - [2023-08-05 14:05:30,168] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:30,171] {logging_mixin.py:115} INFO - [2023-08-05 14:05:30,170] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:05:30,171] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:05:30,182] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.265 seconds
+[2023-08-05 14:06:00,502] {processor.py:153} INFO - Started process (PID=865) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:06:00,503] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:06:00,504] {logging_mixin.py:115} INFO - [2023-08-05 14:06:00,504] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:06:00,511] {logging_mixin.py:115} INFO - [2023-08-05 14:06:00,510] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:00,737] {logging_mixin.py:115} INFO - [2023-08-05 14:06:00,737] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:00,740] {logging_mixin.py:115} INFO - [2023-08-05 14:06:00,739] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:00,742] {logging_mixin.py:115} INFO - [2023-08-05 14:06:00,742] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:00,745] {logging_mixin.py:115} INFO - [2023-08-05 14:06:00,744] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:00,745] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:06:00,755] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.256 seconds
+[2023-08-05 14:06:30,890] {processor.py:153} INFO - Started process (PID=923) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:06:30,891] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:06:30,892] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,892] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:06:30,899] {logging_mixin.py:115} INFO - [2023-08-05 14:06:30,898] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:31,104] {logging_mixin.py:115} INFO - [2023-08-05 14:06:31,104] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:31,107] {logging_mixin.py:115} INFO - [2023-08-05 14:06:31,107] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:31,109] {logging_mixin.py:115} INFO - [2023-08-05 14:06:31,109] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:31,112] {logging_mixin.py:115} INFO - [2023-08-05 14:06:31,111] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:06:31,112] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:06:31,124] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.236 seconds
+[2023-08-05 14:07:01,658] {processor.py:153} INFO - Started process (PID=985) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:07:01,660] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:07:01,661] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,661] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:07:01,668] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,668] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,892] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,891] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,894] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,894] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,897] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,896] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,899] {logging_mixin.py:115} INFO - [2023-08-05 14:07:01,899] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:01,900] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:07:01,910] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.256 seconds
+[2023-08-05 14:07:32,327] {processor.py:153} INFO - Started process (PID=1035) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:07:32,328] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:07:32,329] {logging_mixin.py:115} INFO - [2023-08-05 14:07:32,329] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:07:32,337] {logging_mixin.py:115} INFO - [2023-08-05 14:07:32,336] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:32,550] {logging_mixin.py:115} INFO - [2023-08-05 14:07:32,549] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:32,552] {logging_mixin.py:115} INFO - [2023-08-05 14:07:32,552] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:32,555] {logging_mixin.py:115} INFO - [2023-08-05 14:07:32,554] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:32,557] {logging_mixin.py:115} INFO - [2023-08-05 14:07:32,557] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:07:32,558] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:07:32,568] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.243 seconds
+[2023-08-05 14:08:03,564] {processor.py:153} INFO - Started process (PID=1094) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:08:03,565] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:08:03,566] {logging_mixin.py:115} INFO - [2023-08-05 14:08:03,566] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:08:03,572] {logging_mixin.py:115} INFO - [2023-08-05 14:08:03,572] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:03,783] {logging_mixin.py:115} INFO - [2023-08-05 14:08:03,783] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:03,786] {logging_mixin.py:115} INFO - [2023-08-05 14:08:03,785] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:03,789] {logging_mixin.py:115} INFO - [2023-08-05 14:08:03,788] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:03,791] {logging_mixin.py:115} INFO - [2023-08-05 14:08:03,791] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:03,792] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:08:03,802] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.241 seconds
+[2023-08-05 14:08:34,340] {processor.py:153} INFO - Started process (PID=1152) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:08:34,341] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:08:34,341] {logging_mixin.py:115} INFO - [2023-08-05 14:08:34,341] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:08:34,348] {logging_mixin.py:115} INFO - [2023-08-05 14:08:34,347] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:34,566] {logging_mixin.py:115} INFO - [2023-08-05 14:08:34,566] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:34,569] {logging_mixin.py:115} INFO - [2023-08-05 14:08:34,568] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:34,571] {logging_mixin.py:115} INFO - [2023-08-05 14:08:34,571] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:34,574] {logging_mixin.py:115} INFO - [2023-08-05 14:08:34,573] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:08:34,575] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:08:34,585] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.248 seconds
+[2023-08-05 14:09:06,329] {processor.py:153} INFO - Started process (PID=1211) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:09:06,330] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:09:06,331] {logging_mixin.py:115} INFO - [2023-08-05 14:09:06,331] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:09:06,341] {logging_mixin.py:115} INFO - [2023-08-05 14:09:06,341] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:06,628] {logging_mixin.py:115} INFO - [2023-08-05 14:09:06,627] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:06,631] {logging_mixin.py:115} INFO - [2023-08-05 14:09:06,631] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:06,637] {logging_mixin.py:115} INFO - [2023-08-05 14:09:06,637] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:06,641] {logging_mixin.py:115} INFO - [2023-08-05 14:09:06,641] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:06,642] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:09:06,664] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.339 seconds
+[2023-08-05 14:09:37,342] {processor.py:153} INFO - Started process (PID=1270) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:09:37,343] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:09:37,345] {logging_mixin.py:115} INFO - [2023-08-05 14:09:37,345] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:09:37,353] {logging_mixin.py:115} INFO - [2023-08-05 14:09:37,353] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:37,574] {logging_mixin.py:115} INFO - [2023-08-05 14:09:37,574] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:37,577] {logging_mixin.py:115} INFO - [2023-08-05 14:09:37,576] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:37,579] {logging_mixin.py:115} INFO - [2023-08-05 14:09:37,579] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:37,582] {logging_mixin.py:115} INFO - [2023-08-05 14:09:37,581] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:09:37,582] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:09:37,593] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.254 seconds
+[2023-08-05 14:10:07,761] {processor.py:153} INFO - Started process (PID=1327) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:10:07,763] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:10:07,764] {logging_mixin.py:115} INFO - [2023-08-05 14:10:07,764] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:10:07,776] {logging_mixin.py:115} INFO - [2023-08-05 14:10:07,775] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:07,986] {logging_mixin.py:115} INFO - [2023-08-05 14:10:07,985] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:07,988] {logging_mixin.py:115} INFO - [2023-08-05 14:10:07,988] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:07,990] {logging_mixin.py:115} INFO - [2023-08-05 14:10:07,990] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:07,992] {logging_mixin.py:115} INFO - [2023-08-05 14:10:07,992] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:07,993] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:10:08,004] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.248 seconds
+[2023-08-05 14:10:38,355] {processor.py:153} INFO - Started process (PID=1376) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:10:38,357] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:10:38,358] {logging_mixin.py:115} INFO - [2023-08-05 14:10:38,358] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:10:38,372] {logging_mixin.py:115} INFO - [2023-08-05 14:10:38,371] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:38,591] {logging_mixin.py:115} INFO - [2023-08-05 14:10:38,590] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:38,593] {logging_mixin.py:115} INFO - [2023-08-05 14:10:38,593] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:38,596] {logging_mixin.py:115} INFO - [2023-08-05 14:10:38,595] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:38,598] {logging_mixin.py:115} INFO - [2023-08-05 14:10:38,598] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:10:38,599] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:10:38,610] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.258 seconds
+[2023-08-05 14:11:09,056] {processor.py:153} INFO - Started process (PID=1435) to work on /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:11:09,058] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_profesores_data_operator.py for tasks to queue
+[2023-08-05 14:11:09,059] {logging_mixin.py:115} INFO - [2023-08-05 14:11:09,059] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:11:09,071] {logging_mixin.py:115} INFO - [2023-08-05 14:11:09,070] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:09,290] {logging_mixin.py:115} INFO - [2023-08-05 14:11:09,289] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:09,292] {logging_mixin.py:115} INFO - [2023-08-05 14:11:09,292] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:09,295] {logging_mixin.py:115} INFO - [2023-08-05 14:11:09,294] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:09,297] {logging_mixin.py:115} INFO - [2023-08-05 14:11:09,297] {log_util.py:40} INFO - Module loaded.
+[2023-08-05 14:11:09,298] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_profesores_data_operator.py
+[2023-08-05 14:11:09,308] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_profesores_data_operator.py took 0.257 seconds

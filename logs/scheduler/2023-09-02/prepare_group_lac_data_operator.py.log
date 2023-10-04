@@ -1,0 +1,85 @@
+[2023-09-02 18:03:40,407] {processor.py:153} INFO - Started process (PID=77) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:03:40,408] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:03:40,409] {logging_mixin.py:115} INFO - [2023-09-02 18:03:40,409] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:03:40,641] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:03:40,652] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.248 seconds
+[2023-09-02 18:04:10,970] {processor.py:153} INFO - Started process (PID=127) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:04:10,971] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:04:10,972] {logging_mixin.py:115} INFO - [2023-09-02 18:04:10,972] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:04:11,193] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:04:11,203] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.236 seconds
+[2023-09-02 18:04:41,544] {processor.py:153} INFO - Started process (PID=187) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:04:41,545] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:04:41,546] {logging_mixin.py:115} INFO - [2023-09-02 18:04:41,546] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:04:41,773] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:04:41,783] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.242 seconds
+[2023-09-02 18:05:12,019] {processor.py:153} INFO - Started process (PID=246) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:05:12,020] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:05:12,021] {logging_mixin.py:115} INFO - [2023-09-02 18:05:12,021] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:05:12,225] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:05:12,236] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.219 seconds
+[2023-09-02 18:05:42,764] {processor.py:153} INFO - Started process (PID=305) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:05:42,765] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:05:42,766] {logging_mixin.py:115} INFO - [2023-09-02 18:05:42,766] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:05:42,969] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:05:42,980] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.219 seconds
+[2023-09-02 18:06:13,304] {processor.py:153} INFO - Started process (PID=365) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:06:13,305] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:06:13,306] {logging_mixin.py:115} INFO - [2023-09-02 18:06:13,306] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:06:13,506] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:06:13,517] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.215 seconds
+[2023-09-02 18:06:44,663] {processor.py:153} INFO - Started process (PID=425) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:06:44,665] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:06:44,666] {logging_mixin.py:115} INFO - [2023-09-02 18:06:44,666] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:06:44,976] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:06:44,989] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.329 seconds
+[2023-09-02 18:07:15,934] {processor.py:153} INFO - Started process (PID=484) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:07:15,936] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:07:15,939] {logging_mixin.py:115} INFO - [2023-09-02 18:07:15,939] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:07:16,216] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:07:16,230] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.299 seconds
+[2023-09-02 18:07:46,925] {processor.py:153} INFO - Started process (PID=534) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:07:46,927] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:07:46,927] {logging_mixin.py:115} INFO - [2023-09-02 18:07:46,927] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:07:47,145] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:07:47,156] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.233 seconds
+[2023-09-02 18:08:17,362] {processor.py:153} INFO - Started process (PID=593) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:08:17,363] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:08:17,364] {logging_mixin.py:115} INFO - [2023-09-02 18:08:17,364] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:08:17,595] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:08:17,606] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.247 seconds
+[2023-09-02 18:08:47,885] {processor.py:153} INFO - Started process (PID=652) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:08:47,886] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:08:47,887] {logging_mixin.py:115} INFO - [2023-09-02 18:08:47,886] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:08:48,119] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:08:48,129] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.248 seconds
+[2023-09-02 18:09:19,077] {processor.py:153} INFO - Started process (PID=712) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:09:19,080] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:09:19,080] {logging_mixin.py:115} INFO - [2023-09-02 18:09:19,080] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:09:19,377] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:09:19,390] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.316 seconds
+[2023-09-02 18:09:49,559] {processor.py:153} INFO - Started process (PID=761) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:09:49,560] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:09:49,561] {logging_mixin.py:115} INFO - [2023-09-02 18:09:49,561] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:09:49,799] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:09:49,811] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.255 seconds
+[2023-09-02 18:10:20,716] {processor.py:153} INFO - Started process (PID=820) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:10:20,717] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:10:20,718] {logging_mixin.py:115} INFO - [2023-09-02 18:10:20,718] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:10:21,001] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:10:21,017] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.304 seconds
+[2023-09-02 18:10:51,179] {processor.py:153} INFO - Started process (PID=879) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:10:51,180] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:10:51,181] {logging_mixin.py:115} INFO - [2023-09-02 18:10:51,181] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:10:51,415] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:10:51,426] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.250 seconds
+[2023-09-02 18:11:21,636] {processor.py:153} INFO - Started process (PID=938) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:11:21,637] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:11:21,638] {logging_mixin.py:115} INFO - [2023-09-02 18:11:21,638] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:11:21,889] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:11:21,900] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.267 seconds
+[2023-09-02 18:11:52,787] {processor.py:153} INFO - Started process (PID=996) to work on /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:11:52,788] {processor.py:641} INFO - Processing file /opt/airflow/dags/prepare_group_lac_data_operator.py for tasks to queue
+[2023-09-02 18:11:52,789] {logging_mixin.py:115} INFO - [2023-09-02 18:11:52,789] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:11:53,013] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/prepare_group_lac_data_operator.py
+[2023-09-02 18:11:53,024] {processor.py:161} INFO - Processing /opt/airflow/dags/prepare_group_lac_data_operator.py took 0.240 seconds
